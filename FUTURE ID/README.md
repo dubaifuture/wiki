@@ -28,7 +28,7 @@ With a FUTURE ID, you can conveniently access the following platforms:
 
 |||
 | ------------- |:-------------:|
-| Click on "Register" and complete your profile      | ![Create Account Step 1](createaccount01.jpg) |
+| Click on "Register" and complete your profile      | ![Create Account Step 1](createaccount01.JPG) |
 | Insert your email address and agree with the Terms and Conditions and Privacy Policy. | ![Create Account Step 2](createaccount02.jpg)      |   
 | Insert a new password and agree with the Terms and Conditions and Privacy Policy. | ![Create Account Step 3](createaccount03.jpg)      |   
 | Enter the verification code which was sent to your email adress. If you didn't get an email yet, click on "Resend Email".| ![Create Account Step 4](createaccount04.jpg)     |
