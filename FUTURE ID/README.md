@@ -40,7 +40,7 @@ Visit [https://id.dubaifuture.gov.ae](https://id.dubaifuture.gov.ae)
     <td style="text-align: center"><img src="createaccount02.JPG" alt="Create Account Step 2"></td>
     </tr>
     <tr>
-    <td style="text-align: left"><p><b>Step 3:</b></p>Insert a new password and agree with the Terms and Conditions and Privacy Policy.</td>
+    <td style="text-align: left"><p><b>Step 3:</b></p>Insert a new password and agree with the Terms & Conditions and Privacy Policy.</td>
     <td style="text-align: center"><img src="createaccount03.JPG" alt="Create Account Step 3"></td>
     </tr>
     <tr>
@@ -90,11 +90,11 @@ Click on "Login/Register":
         <td style="text-align: center"><img src="createorganisation05.JPG" alt="Create Organisation Step 5"></td>
       </tr>
       <tr>
-      <td style="text-align: left"><p><b>Step 6:</b></p>Insert your company website URL.</td>
+      <td style="text-align: left"><p><b>Step 6:</b></p>Insert your company's website URL.</td>
       <td style="text-align: center"><img src="createorganisation06.JPG" alt="Create Organisation Step 6"></td>
       </tr>
       <tr>
-      <td style="text-align: left"><p><b>Step 7:</b></p>Insert your Social Media URL.</td>
+      <td style="text-align: left"><p><b>Step 7:</b></p>Insert your social media URL.</td>
       <td style="text-align: center"><img src="createorganisation07.JPG" alt="Create Organisation Step 7"></td>
       </tr>
       <tr>
