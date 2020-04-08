@@ -23,15 +23,36 @@ With a FUTURE ID, you can conveniently access the following platforms:
 
 ## CREATE AN ACCOUNT <br>
 
-* Visit [https://id.dubaifuture.gov.ae](https://id.dubaifuture.gov.ae)
+Visit [https://id.dubaifuture.gov.ae](https://id.dubaifuture.gov.ae)
 
-|||
-| ------------- |:-------------:|
-| Click on "Register" and complete your profile      | ![Create Account Step 1](createaccount01.JPG) |
-| Insert your email address and agree with the Terms and Conditions and Privacy Policy. | ![Create Account Step 2](createaccount02.jpg)      |   
-| Insert a new password and agree with the Terms and Conditions and Privacy Policy. | ![Create Account Step 3](createaccount03.jpg)      |   
-| Enter the verification code which was sent to your email adress. If you didn't get an email yet, click on "Resend Email".| ![Create Account Step 4](createaccount04.jpg)     |
-| Go to dashboard. | |
+<table>
+  <thead>
+  </thead>
+  <tbody>
+    <tr>
+      <tr><td colspan="3"><b>Login/Register</b></td>      
+    </tr>
+    <tr>
+      <td style="text-align: left"><b><p>Step 1:</p></b>Click on "Register" and complete your profile</td>
+      <td style="text-align: center"><img src="createaccount01.jpg" alt="Create Account Step 1"></td>
+    </tr>
+    <tr>
+    <td style="text-align: left"><b><p>Step 2:</p></b>Insert your email address and agree with the Terms and Conditions and Privacy Policy.</td>
+    <td style="text-align: center"><img src="createaccount02.jpg" alt="Create Account Step 2"></td>
+    </tr>
+    <tr>
+    <td style="text-align: left"><b><p>Step 3:</p></b>Insert a new password and agree with the Terms and Conditions and Privacy Policy.</td>
+    <td style="text-align: center"><img src="createaccount03.jpg" alt="Create Account Step 3"></td>
+    </tr>
+    <tr>
+    <td style="text-align: left"><b><p>Step 4:</p></b>Enter the verification code which was sent to your email adress. If you didn't get an email yet, click on "Resend Email".</td>
+    <td style="text-align: center"><img src="createaccount04.jpg" alt="Create Account Step 4"></td>
+    </tr>
+    <tr>
+      <tr><td colspan="3">Go to dashboard.</td>      
+    </tr>
+  </tbody>
+</table>
 
 ## CREATE AN ORGANISATION <br>
 
