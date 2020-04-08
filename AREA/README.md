@@ -33,6 +33,4 @@ Join a community or create your own, and begin co-creating with like-minded indi
 | Edit your Community. Afterwards click "UPDATE COMMUNITY".  | ![Edit Community 2](editcommunity02.JPG)|  
 
 
-
-
 ## FREQUENTLY ASKED QUESTIONS
