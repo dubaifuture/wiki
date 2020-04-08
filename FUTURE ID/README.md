@@ -157,7 +157,7 @@ Click on "Login/Register":
     </tr>
     <tr>
       <td style="text-align: left"><p><b>Step 1:</b></p>Click on the hamburger button in the top right corner.</td>
-      <td style="text-align: center"><img src="removedevice02.JPG" alt="Remove Device Step 1"></td>
+      <td style="text-align: center"><img src="removedevice01.JPG" alt="Remove Device Step 1"></td>
     </tr>
     <tr>
     <td style="text-align: left"><p><b>Step 2:</b></p>Click on "GO TO SETTINGS"</td>
@@ -192,14 +192,6 @@ Click on "Login/Register":
   | Click on "SHARE YOUR PROFILE"  | ![Share Contact via QR Code 2](shareviaqrcode02.jpg)|
   | Now you can share the QR Code, which is shown on your display, with others.  | ![Share Contact via QR Code 3](shareviaqrcode03.jpg)|       
   | Go back to dashboard. | |
-
-## LOGIN TO A PLATFORM <br>
-
-* Visit one of platforms listed above
-* Click on "Login/Register":
-  * If you're already signed in with FUTURE ID, you'll automatically be logged in.
-  * If you're not signed in with FUTURE ID, you'll be redirected to FUTURE ID to sign in.
-  ---
 
 ## USER MANUAL <br>
 
