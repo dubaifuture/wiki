@@ -6,7 +6,6 @@
 * [CREATE AN ORGANISATION](#create-an-organisation)
 * [REMOVE A SPECIFIC DEVICE](#remove-a-specific-device)
 * [SHARE YOUR CONTACT VIA QR CODE](#share-your-contact-via-qr-code)
-* [LOGIN TO A PLATFORM](#login-to-a-platform)
 * [USER MANUAL](#user-manual)
 * [FREQUENTLY ASKED QUESTIONS](#frequently-asked-questions)
 
