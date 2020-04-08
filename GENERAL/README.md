@@ -11,7 +11,7 @@ This documentation contains instructions on how to use our various platforms. Pl
 
 | **AREA 2071**     | **ALIA**     | **Dubai Future Programs**           | **Future ID**           | **UAE Golden Visa** |**UAE Regulations Lab** |
 |-------------------------------------|-------------------------------------|-------------------------------------|-------------------------------|-----------------------------------|---------------------------------------------|
-| [Read Me](/AREA/README.md) | [Read Me](/ALIA/README.md) | [Read Me](/df-programs/README.md)|[Read Me](/future-id/README.md) | [Read Me](/VISA/README.md) | [Read Me](/REGLAB/README.md) |
+| [Read Me](/AREA/README.md) | [Read Me](/ALIA/README.md) | [Read Me](/df-programs/README.md)|[Read Me](/futureid/README.md) | [Read Me](/VISA/README.md) | [Read Me](/REGLAB/README.md) |
 | [Contact Help Desk](/AREA/README.md) | [Contact Help Desk](/ALIA/README.md) | [Contact Help Desk](/dubai-future-programs/README.md) | [Contact Help Desk](/future-id/README.md) | [Contact Help Desk](/VISA/README.md) | [Contact Help Desk](/REGLAB/README.md) |
 
 
