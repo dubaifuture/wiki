@@ -33,7 +33,7 @@ Visit [https://id.dubaifuture.gov.ae](https://id.dubaifuture.gov.ae)
       <tr><td colspan="3"><b>Login/Register</b></td>      
     </tr>
     <tr>
-      <td style="text-align: left"><b><p>Step 1:</p></b>Click on "register" and complete your profile.</td>
+      <td style="text-align: left"><p><b>Step 1:</b></p>Click on "register" and complete your profile.</td>
       <td style="text-align: center"><img src="createaccount01.JPG" alt="Create Account Step 1"></td>
     </tr>
     <tr>
