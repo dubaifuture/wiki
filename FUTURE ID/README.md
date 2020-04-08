@@ -20,9 +20,8 @@ With a FUTURE ID, you can conveniently access the following platforms:
 * [AREA 2071](https://area2071.ae/app)
 * [UAE Regulations Lab](https://apply.reglab.ae)
 
-(More platforms will be added to this list over time.)
 
-#### CREATE AN ACCOUNT <br>
+## CREATE AN ACCOUNT <br>
 
 * Visit [https://id.dubaifuture.gov.ae](https://id.dubaifuture.gov.ae)
 
@@ -34,7 +33,7 @@ With a FUTURE ID, you can conveniently access the following platforms:
 | Enter the verification code which was sent to your email adress. If you didn't get an email yet, click on "Resend Email".| ![Create Account Step 4](createaccount04.jpg)     |
 | Go to dashboard. | |
 
-#### CREATE AN ORGANISATION <br>
+## CREATE AN ORGANISATION <br>
 
 * Visit [https://id.dubaifuture.gov.ae](https://id.dubaifuture.gov.ae)
 * Click on "Login/Register":
@@ -60,7 +59,7 @@ With a FUTURE ID, you can conveniently access the following platforms:
   | Insert Members by adding their email address. Make them either to a member or to an admin. | ![Create Organisation Step 15](createorganisation15.JPG)|
   | Go back to dashboard. | |
 
-#### REMOVE A SPECIFIC DEVICE <br>
+## REMOVE A SPECIFIC DEVICE <br>
 
 * Visit [https://id.dubaifuture.gov.ae](https://id.dubaifuture.gov.ae)
 * Click on "Login/Register":
@@ -76,7 +75,7 @@ With a FUTURE ID, you can conveniently access the following platforms:
     | DONE | ![Remove Device Step 5](removedevice05.JPG)|      
     | Go back to dashboard. | |
 
-#### SHARE YOUR CONTACT VIA QR CODE <br>
+## SHARE YOUR CONTACT VIA QR CODE <br>
 * Visit [https://id.dubaifuture.gov.ae](https://id.dubaifuture.gov.ae) on your smartphone.
 * Click on "Login/Register":
   * If you're already signed in with FUTURE ID, you'll automatically be logged in.
@@ -89,7 +88,7 @@ With a FUTURE ID, you can conveniently access the following platforms:
   | Now you can share the QR Code, which is shown on your display, with others.  | ![Share Contact via QR Code 3](shareviaqrcode03.jpg)|       
   | Go back to dashboard. | |
 
-#### LOGIN TO A PLATFORM
+## LOGIN TO A PLATFORM
 
 * Visit one of platforms listed above
 * Click on "Login/Register":
@@ -128,7 +127,7 @@ With a FUTURE ID, you can conveniently access the following platforms:
 
 ___
 
-## Frequently Asked Questions
+## FREQUENTLY ASKED QUESTIONS
 
 * **Can anyone create a FUTURE ID?**<br>
   *Yes, anyone can create a FUTURE ID and access any of our platforms.*
