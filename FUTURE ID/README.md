@@ -142,19 +142,43 @@ Click on "Login/Register":
 
 ## REMOVE A SPECIFIC DEVICE <br>
 
-* Visit [https://id.dubaifuture.gov.ae](https://id.dubaifuture.gov.ae)
-* Click on "Login/Register":
+Visit [https://id.dubaifuture.gov.ae](https://id.dubaifuture.gov.ae)
+
+Click on "Login/Register":
   * If you're already signed in with FUTURE ID, you'll automatically be logged in.
   * If you're not signed in with FUTURE ID, you'll be redirected to FUTURE ID to sign in.
 
-    |||
-    | ------------- |:-------------:|  
-    | Click on the hamburger button in the top right corner.  | ![Remove Device Step 1](removedevice01.JPG)|   
-    | Click on "GO TO SETTINGS"  | ![Remove Device Step 2](removedevice02.JPG)|   
-    | Remove one of the devices listed below "DEVICES".  | ![Remove Device Step 3](removedevice03.JPG)|   
-    | Confirm by clicking "REMOVE DEVICE".  | ![Remove Device Step 4](removedevice04.JPG)|   
-    | DONE | ![Remove Device Step 5](removedevice05.JPG)|      
-    | Go back to dashboard. | |
+    <table>
+  <thead>
+  </thead>
+  <tbody>
+    <tr>
+      <tr><td colspan="3"><b>Login/Register</b></td>      
+    </tr>
+    <tr>
+      <td style="text-align: left"><p><b>Step 1:</b></p>Click on the hamburger button in the top right corner.</td>
+      <td style="text-align: center"><img src="removedevice02.JPG" alt="Remove Device Step 1"></td>
+    </tr>
+    <tr>
+    <td style="text-align: left"><p><b>Step 2:</b></p>Click on "GO TO SETTINGS"</td>
+    <td style="text-align: center"><img src="removedevice02.JPG" alt="Remove Device Step 2"></td>
+    </tr>
+    <tr>
+    <td style="text-align: left"><p><b>Step 3:</b></p>Remove one of the devices listed below "DEVICES".</td>
+    <td style="text-align: center"><img src="removedevice03.JPG" alt="Remove Device Step 3"></td>
+    </tr>
+    <tr>
+    <td style="text-align: left"><p><b>Step 4:</b></p>Confirm by clicking "REMOVE DEVICE".</td>
+    <td style="text-align: center"><img src="removedevice04.JPG" alt="Remove Device Step 4"></td>
+    </tr>
+    <tr>
+    <td style="text-align: center" colspan="3"><img src="removedevice05.JPG" alt="Remove Device Step 5"></td>
+    </tr>
+    <tr>
+      <tr><td colspan="2">Go to dashboard.</td>      
+    </tr>
+  </tbody>
+</table>
 
 ## SHARE YOUR CONTACT VIA QR CODE <br>
 * Visit [https://id.dubaifuture.gov.ae](https://id.dubaifuture.gov.ae) on your smartphone.
@@ -208,10 +232,10 @@ Click on "Login/Register":
 
 ___
 
-## FREQUENTLY ASKED QUESTIONS
+## FREQUENTLY ASKED QUESTIONS <br>
 
 * **Can anyone create a FUTURE ID?**<br>
   *Yes, anyone can create a FUTURE ID and access any of our platforms.*
 
-* **How is FUTURE ID different from other Single Sign-On (SSO) services?**
+* **How is FUTURE ID different from other Single Sign-On (SSO) services?**<br>
   *FUTURE ID gives you access to platforms owned and operated by Dubai Future Foundation. Creating a free account keeps you connected to our global ecosystem of entrepreneurs, startups, academics, researchers, and scientists, and gives you access to many of our programs such as AREA 2071 and Dubai Future Accelerators.*
