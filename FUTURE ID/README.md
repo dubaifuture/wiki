@@ -43,21 +43,21 @@ With a FUTURE ID, you can conveniently access the following platforms:
 
   |||
   | ------------- |:-------------:|
-  | Click on "ADD ORGANISATION" after finishing with "Login/Register".     | ![Create Organisation Step 1](createorganisation01.jpg)|
-  | Insert your Organisation/Company Name. | ![Create Organisation Step 2](createorganisation02.jpg)|   
-  | Upload your logo by uploading an image either via drag & drop or browse your files.  | ![Create Organisation Step 3](createorganisation03.jpg)|   
-  | Insert a short description of your organisation with maximum 200 letters.| ![Create Organisation Step 4](createorganisation04.jpg)|
-  | Insert a long description of your organisation with maximum 1000 letters.  | ![Create Organisation Step 5](createorganisation05.jpg)|
-  | Insert your company website URL.| ![Create Organisation Step 6](createorganisation06.jpg)|
-  | Insert your Social Media URL. | ![Create Organisation Step 7](createorganisation07.jpg)|  
-  | Insert your location by typing your city and country. (e.g. Munich, Germany)  | ![Create Organisation Step 8](createorganisation08.jpg)|
-  | Choose your core business between "Physical Product", "Consulting" and "Software".  | ![Create Organisation Step 9](createorganisation09.jpg)|
-  | Add Tags here.  | ![Create Organisation Step 10](createorganisation10.jpg)|
-  | Add the number of full time employees working in your organisation/company.  | ![Create Organisation Step 11](createorganisation11.jpg)|
-  | Insert the incorporation date.  | ![Create Organisation Step 12](createorganisation12.jpg)|
-  | Choose your current market stage between "Idea", "Prototype", "Ready for Market" and "Product in Market".  | ![Create Organisation Step 13](createorganisation13.jpg)|
-  | Choose your funding type between "Self-Funded", "External Investment" and "Revenue".  | ![Create Organisation Step 14](createorganisation14.jpg)|
-  | Insert Members by adding their email address. Make them either to a member or to an admin. | ![Create Organisation Step 15](createorganisation15.jpg)|
+  | Click on "ADD ORGANISATION" after finishing with "Login/Register".     | ![Create Organisation Step 1](createorganisation01.JPG)|
+  | Insert your Organisation/Company Name. | ![Create Organisation Step 2](createorganisation02.JPG)|   
+  | Upload your logo by uploading an image either via drag & drop or browse your files.  | ![Create Organisation Step 3](createorganisation03.JPG)|   
+  | Insert a short description of your organisation with maximum 200 letters.| ![Create Organisation Step 4](createorganisation04.JPG)|
+  | Insert a long description of your organisation with maximum 1000 letters.  | ![Create Organisation Step 5](createorganisation05.JPG)|
+  | Insert your company website URL.| ![Create Organisation Step 6](createorganisation06.JPG)|
+  | Insert your Social Media URL. | ![Create Organisation Step 7](createorganisation07.JPG)|  
+  | Insert your location by typing your city and country. (e.g. Munich, Germany)  | ![Create Organisation Step 8](createorganisation08.JPG)|
+  | Choose your core business between "Physical Product", "Consulting" and "Software".  | ![Create Organisation Step 9](createorganisation09.JPG)|
+  | Add Tags here.  | ![Create Organisation Step 10](createorganisation10.JPG)|
+  | Add the number of full time employees working in your organisation/company.  | ![Create Organisation Step 11](createorganisation11.JPG)|
+  | Insert the incorporation date.  | ![Create Organisation Step 12](createorganisation12.JPG)|
+  | Choose your current market stage between "Idea", "Prototype", "Ready for Market" and "Product in Market".  | ![Create Organisation Step 13](createorganisation13.JPG)|
+  | Choose your funding type between "Self-Funded", "External Investment" and "Revenue".  | ![Create Organisation Step 14](createorganisation14.JPG)|
+  | Insert Members by adding their email address. Make them either to a member or to an admin. | ![Create Organisation Step 15](createorganisation15.JPG)|
   | Go back to dashboard. | |
 
 #### REMOVE A SPECIFIC DEVICE <br>
@@ -69,11 +69,11 @@ With a FUTURE ID, you can conveniently access the following platforms:
 
     |||
     | ------------- |:-------------:|  
-    | Click on the hamburger button in the top right corner.  | ![Remove Device Step 1](removedevice01.jpg)|   
-    | Click on "GO TO SETTINGS"  | ![Remove Device Step 2](removedevice02.jpg)|   
-    | Remove one of the devices listed below "DEVICES".  | ![Remove Device Step 3](removedevice03.jpg)|   
-    | Confirm by clicking "REMOVE DEVICE".  | ![Remove Device Step 4](removedevice04.jpg)|   
-    | DONE | ![Remove Device Step 5](removedevice05.jpg)|      
+    | Click on the hamburger button in the top right corner.  | ![Remove Device Step 1](removedevice01.JPG)|   
+    | Click on "GO TO SETTINGS"  | ![Remove Device Step 2](removedevice02.JPG)|   
+    | Remove one of the devices listed below "DEVICES".  | ![Remove Device Step 3](removedevice03.JPG)|   
+    | Confirm by clicking "REMOVE DEVICE".  | ![Remove Device Step 4](removedevice04.JPG)|   
+    | DONE | ![Remove Device Step 5](removedevice05.JPG)|      
     | Go back to dashboard. | |
 
 #### SHARE YOUR CONTACT VIA QR CODE <br>
@@ -84,9 +84,9 @@ With a FUTURE ID, you can conveniently access the following platforms:
 
   |||
   | ------------- |:-------------:|  
-  | Click on the hamburger button in the top right corner.  | ![Share Contact via QR Code 1](shareviaqrcode01.jpg)|   
-  | Click on "SHARE YOUR PROFILE"  | ![Share Contact via QR Code 2](shareviaqrcode02.jpg)|
-  | Now you can share the QR Code, which is shown on your display, with others.  | ![Share Contact via QR Code 3](shareviaqrcode03.jpg)|       
+  | Click on the hamburger button in the top right corner.  | ![Share Contact via QR Code 1](shareviaqrcode01.JPG)|   
+  | Click on "SHARE YOUR PROFILE"  | ![Share Contact via QR Code 2](shareviaqrcode02.JPG)|
+  | Now you can share the QR Code, which is shown on your display, with others.  | ![Share Contact via QR Code 3](shareviaqrcode03.JPG)|       
   | Go back to dashboard. | |
 
 #### LOGIN TO A PLATFORM
