@@ -56,29 +56,89 @@ Visit [https://id.dubaifuture.gov.ae](https://id.dubaifuture.gov.ae)
 
 ## CREATE AN ORGANISATION <br>
 
-* Visit [https://id.dubaifuture.gov.ae](https://id.dubaifuture.gov.ae)
-* Click on "Login/Register":
+Visit [https://id.dubaifuture.gov.ae](https://id.dubaifuture.gov.ae)
+
+Click on "Login/Register":
   * If you're already signed in with FUTURE ID, you'll automatically be logged in.
   * If you're not signed in with FUTURE ID, you'll be redirected to FUTURE ID to sign in.
+  * 
+<table>
+    <thead>
+    </thead>
+    <tbody>
+      <tr>
+        <tr><td colspan="3"><b>Login/Register </b></td>      
+      </tr>
+      <tr>
+        <tr><td colspan="3"><b>Create an Organisation</b></td>      
+      </tr>
+      <tr>
+        <td style="text-align: left"><b><p>Step 1:</p></b>Click on "ADD ORGANISATION" after finishing with "Login/Register".</td>
+        <td style="text-align: center"><img src="createorganisation01.JPG" alt="Create Organisation Step 1"></td>
+      </tr>
+      <tr>
+      <td style="text-align: left"><b><p>Step 2:</p></b>Insert your Organisation/Company Name.</td>
+      <td style="text-align: center"><img src="createorganisation02.JPG" alt="Create Organisation Step 2"></td>
+      </tr>
+      <tr>
+      <td style="text-align: left"><b><p>Step 3:</p></b>Upload your logo by uploading an image either via drag & drop or browse your files.</td>
+      <td style="text-align: center"><img src="createorganisation03.JPG" alt="Create Organisation Step 3"></td>
+      </tr>
+      <tr>
+      <td style="text-align: left"><b><p>Step 4:</p></b>Insert a short description of your organisation with maximum 200 letters.</td>
+      <td style="text-align: center"><img src="createorganisation04.JPG" alt="CreateOrganisation Step 4"></td>
+      </tr>
+      <tr>
+        <td style="text-align: left"><b><p>Step 5:</p></b>Insert a long description of your organisation with maximum 1000 letters.</td>
+        <td style="text-align: center"><img src="createorganisation05.JPG" alt="Create Organisation Step 5"></td>
+      </tr>
+      <tr>
+      <td style="text-align: left"><b><p>Step 6:</p></b>Insert your company website URL.</td>
+      <td style="text-align: center"><img src="createorganisation06.JPG" alt="Create Organisation Step 6"></td>
+      </tr>
+      <tr>
+      <td style="text-align: left"><b><p>Step 7:</p></b>Insert your Social Media URL.</td>
+      <td style="text-align: center"><img src="createorganisation07.JPG" alt="Create Organisation Step 7"></td>
+      </tr>
+      <tr>
+      <td style="text-align: left"><b><p>Step 8:</p></b>Insert your location by typing your city and country. (e.g. Munich, Germany)</td>
+      <td style="text-align: center"><img src="createorganisation08.JPG" alt="CreateOrganisation Step 8"></td>
+      </tr>
+      <tr>
+      <td style="text-align: left"><b><p>Step 9:</p></b>Choose your core business between "Physical Product", "Consulting" and "Software".</td>
+      <td style="text-align: center"><img src="createorganisation09.JPG" alt="Create Organisation Step 9"></td>
+      </tr>
+      <tr>
+      <td style="text-align: left"><b><p>Step 10:</p></b>Add Tags here.</td>
+      <td style="text-align: center"><img src="createorganisation10.JPG" alt="Create Organisation Step 10"></td>
+      </tr>
+      <tr>
+      <td style="text-align: left"><b><p>Step 11:</p></b>Add the number of full time employees working in your organisation/company.</td>
+      <td style="text-align: center"><img src="createorganisation11.JPG" alt="CreateOrganisation Step 11"></td>
+      </tr>
+      <tr>
+        <td style="text-align: left"><b><p>Step 12:</p></b>Insert the incorporation date.</td>
+        <td style="text-align: center"><img src="createorganisation12.JPG" alt="Create Organisation Step 12"></td>
+      </tr>
+      <tr>
+      <td style="text-align: left"><b><p>Step 13:</p></b>Choose your current market stage between "Idea", "Prototype", "Ready for Market" and "Product in Market". </td>
+      <td style="text-align: center"><img src="createorganisation13.JPG" alt="Create Organisation Step 13"></td>
+      </tr>
+      <tr>
+      <td style="text-align: left"><b><p>Step 14:</p></b>Choose your funding type between "Self-Funded", "External Investment" and "Revenue".</td>
+      <td style="text-align: center"><img src="createorganisation14.JPG" alt="Create Organisation Step 14"></td>
+      </tr>
+      <tr>
+      <td style="text-align: left"><b><p>Step 15:</p></b>Insert Members by adding their email address. Make them either to a member or to an admin.</td>
+      <td style="text-align: center"><img src="createorganisation15.JPG" alt="CreateOrganisation Step 15"></td>
+      </tr>
+      <tr>
+        <tr><td colspan="3">Go to dashboard.</td>      
+      </tr>
+    </tbody>
+  </table>
 
-  |||
-  | ------------- |:-------------:|
-  | Click on "ADD ORGANISATION" after finishing with "Login/Register".     | ![Create Organisation Step 1](createorganisation01.JPG)|
-  | Insert your Organisation/Company Name. | ![Create Organisation Step 2](createorganisation02.JPG)|   
-  | Upload your logo by uploading an image either via drag & drop or browse your files.  | ![Create Organisation Step 3](createorganisation03.JPG)|   
-  | Insert a short description of your organisation with maximum 200 letters.| ![Create Organisation Step 4](createorganisation04.JPG)|
-  | Insert a long description of your organisation with maximum 1000 letters.  | ![Create Organisation Step 5](createorganisation05.JPG)|
-  | Insert your company website URL.| ![Create Organisation Step 6](createorganisation06.JPG)|
-  | Insert your Social Media URL. | ![Create Organisation Step 7](createorganisation07.JPG)|  
-  | Insert your location by typing your city and country. (e.g. Munich, Germany)  | ![Create Organisation Step 8](createorganisation08.JPG)|
-  | Choose your core business between "Physical Product", "Consulting" and "Software".  | ![Create Organisation Step 9](createorganisation09.JPG)|
-  | Add Tags here.  | ![Create Organisation Step 10](createorganisation10.JPG)|
-  | Add the number of full time employees working in your organisation/company.  | ![Create Organisation Step 11](createorganisation11.JPG)|
-  | Insert the incorporation date.  | ![Create Organisation Step 12](createorganisation12.JPG)|
-  | Choose your current market stage between "Idea", "Prototype", "Ready for Market" and "Product in Market".  | ![Create Organisation Step 13](createorganisation13.JPG)|
-  | Choose your funding type between "Self-Funded", "External Investment" and "Revenue".  | ![Create Organisation Step 14](createorganisation14.JPG)|
-  | Insert Members by adding their email address. Make them either to a member or to an admin. | ![Create Organisation Step 15](createorganisation15.JPG)|
-  | Go back to dashboard. | |
+
 
 ## REMOVE A SPECIFIC DEVICE <br>
 
