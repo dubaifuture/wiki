@@ -26,14 +26,3 @@ This documentation contains instructions on how to use our various platforms. Pl
 * **I received an email from Dubai Future Foundation asking for my password, credit card information, or other personal information.**<br>
   *Any emails asking for personal information will be sent by an authorized member of one of our teams, and will be in relation to an active application you have for one of our programs (e.g. AREA 2071, Dubai Future Accelerators). Be cautious about sharing personal data to people you do not know, and if you have any doubt, please reach out to us by opening a ticket through the appropriate Help Desk (kinks above).*
 
-## Help
-
-TODO
-
-## Bug report and feedback
-
-TODO
-
-## Copyright and license
-
-TODO
