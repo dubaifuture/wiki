@@ -1,15 +1,15 @@
 # ALIA
 #### Table of contents
 
-* [Welcome](#welcome)
-* [Roombooking](#roombooking)
-* [Frequently Asked Questions](#frequently-asked-questions)
+* [WELCOME](#welcome)
+* [ROOMBOKING](#roombooking)
+* [FREQUENTLY ASKED QUESTIONS](#frequently-asked-questions)
 
-## Welcome
-TODO
+## WELCOME
+Use your very own personal assistant to book meeting rooms at AREA 2071, or find needed expertise from across the ecosystem.
 
-## Roombooking
+## ROOMBOKING
 ![placeholder](placeholder.jpg)
-___
 
-## Frequently Asked Questions
+
+## FREQUENTLY ASKED QUESTIONS
