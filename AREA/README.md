@@ -1,19 +1,22 @@
 # AREA 2071
-#### Table of contents
+#### TABLE OF CONTENTS
+* [WELCOME](#welcome)
+* [COMMUNITIES](#communities)
+* [CREATE COMMUNITIES](#create-communities)
+* [FREQUENTLY ASKED QUESTIONS](#frequently-asked-questions)
 
-* [Welcome](#welcome)
-* [Communities](#communities)
-* [Create Communities](#create-communities)
-* [Frequently Asked Questions](#frequently-asked-questions)
+## WELCOME
 
-## Welcome
+AREA 2071 is home to innovators, disruptors, and change makers. 
+Join a global communityof the world's greatest minds and begin co-creating the future. Showcase your expertiseyour organisation, and the projects you're working on. 
+Get access to mentorship, support, and a suite of benefits exclusive to the AREA 2071 community. 
+AREA 2071 is a project managed by the Dubai Future Foundation in alignment with the vision of His Highness Sheikh Mohammed bin Rashid Al Maktoum, Vice President and Prime Minister of the UAE and Ruler of Dubai, and the UAE Centennial Plan.
 
-AREA 2071 is home to innovators, disruptors, and change makers. Join a global communityof the world's greatest minds and begin co-creating the future. Showcase your expertiseyour organisation, and the projects you're working on. Get access to mentorship, support, and a suite of benefits exclusive to the AREA 2071 community. AREA 2071 is a project managed by the Dubai Future Foundation in alignment with the vision of His Highness Sheikh Mohammed bin Rashid Al Maktoum, Vice President and Prime Minister of the UAE and Ruler of Dubai, and the UAE Centennial Plan.
-___
+## COMMUNITIES
 
-## Communities
+Join a community or create your own, and begin co-creating with like-minded individuals from across our ecosystem.
 
-## Create Communities
+## CREATE COMMUNITIES
 
 |||
 | ------------- |:-------------:|  
@@ -21,7 +24,7 @@ ___
 | Swipe up the "Create" a new Community bar above the bottom bar.  | ![Create Community 2](createcommunity02.JPG)|  
 | Upload a banner image and make your new Community either Private or Public. Insert a title, location, details and tags.  | ![Create Community 3](createcommunity03.JPG)|
 
-## Edit Communities  
+## EDIT COMMUNITIES 
 
 |||
 | ------------- |:-------------:|  
@@ -32,4 +35,4 @@ ___
 
 
 
-## Frequently Asked Questions
+## FREQUENTLY ASKED QUESTIONS
