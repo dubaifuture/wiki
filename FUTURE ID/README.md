@@ -58,7 +58,7 @@ Visit [https://id.dubaifuture.gov.ae](https://id.dubaifuture.gov.ae)
 Click on "Login/Register":
   * If you're already signed in with FUTURE ID, you'll automatically be logged in.
   * If you're not signed in with FUTURE ID, you'll be redirected to FUTURE ID to sign in.
-  * 
+   
 <table>
   <thead>
   </thead>
