@@ -34,19 +34,19 @@ Visit [https://id.dubaifuture.gov.ae](https://id.dubaifuture.gov.ae)
     </tr>
     <tr>
       <td style="text-align: left"><b><p>Step 1:</p></b>Click on "Register" and complete your profile</td>
-      <td style="text-align: center"><img src="createaccount01.jpg" alt="Create Account Step 1"></td>
+      <td style="text-align: center"><img src="createaccount01.JPG" alt="Create Account Step 1"></td>
     </tr>
     <tr>
     <td style="text-align: left"><b><p>Step 2:</p></b>Insert your email address and agree with the Terms and Conditions and Privacy Policy.</td>
-    <td style="text-align: center"><img src="createaccount02.jpg" alt="Create Account Step 2"></td>
+    <td style="text-align: center"><img src="createaccount02.JPG" alt="Create Account Step 2"></td>
     </tr>
     <tr>
     <td style="text-align: left"><b><p>Step 3:</p></b>Insert a new password and agree with the Terms and Conditions and Privacy Policy.</td>
-    <td style="text-align: center"><img src="createaccount03.jpg" alt="Create Account Step 3"></td>
+    <td style="text-align: center"><img src="createaccount03.JPG" alt="Create Account Step 3"></td>
     </tr>
     <tr>
     <td style="text-align: left"><b><p>Step 4:</p></b>Enter the verification code which was sent to your email adress. If you didn't get an email yet, click on "Resend Email".</td>
-    <td style="text-align: center"><img src="createaccount04.jpg" alt="Create Account Step 4"></td>
+    <td style="text-align: center"><img src="createaccount04.JPG" alt="Create Account Step 4"></td>
     </tr>
     <tr>
       <tr><td colspan="3">Go to dashboard.</td>      
