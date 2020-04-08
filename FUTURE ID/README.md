@@ -1,16 +1,16 @@
 # FUTURE ID
-#### Table of contents
+#### TABLE OF CONTENTS
 
-* [Welcome](#welcome)
-* [Create an account](#create-an-account)
-* [Create an organisation](#create-an-organisation)
-* [Remove a specific device](#remove-a-specific-device)
-* [Share your contact via QR Code](#share-your-contact-via-qr-code)
-* [Login to a platform](#login-to-a-platform)
-* [User Manual](#user-manual)
-* [Frequently Asked Questions](#frequently-asked-questions)
+* [WELCOME](#welcome)
+* [CREATE AN ACCOUNT](#create-an-account)
+* [CREATE AN ORGANISATION](#create-an-organisation)
+* [REMOVE A SPECIFIC DEVICE](#remove-a-specific-device)
+* [SHARE YOUR CONTACT VIA QR CODE](#share-your-contact-via-qr-code)
+* [LOGIN TO A PLATFORM](#login-to-a-platform)
+* [USER MANUAL](#user-manual)
+* [FREQUENTLY ASKED QUESTIONS](#frequently-asked-questions)
 
-## Welcome
+## WELCOME
 
 FUTURE ID is a Single Sign-On (SSO) and Profile Management Service owned and operated by the Dubai Future Foundation. It allows startups, entrepreneurs, academics, researchers, scientists, and the general public to securely and conveniently access a variety of our services.
 
@@ -84,9 +84,9 @@ With a FUTURE ID, you can conveniently access the following platforms:
 
   |||
   | ------------- |:-------------:|  
-  | Click on the hamburger button in the top right corner.  | ![Share Contact via QR Code 1](shareviaqrcode01.JPG)|   
-  | Click on "SHARE YOUR PROFILE"  | ![Share Contact via QR Code 2](shareviaqrcode02.JPG)|
-  | Now you can share the QR Code, which is shown on your display, with others.  | ![Share Contact via QR Code 3](shareviaqrcode03.JPG)|       
+  | Click on the hamburger button in the top right corner.  | ![Share Contact via QR Code 1](shareviaqrcode01.jpg)|   
+  | Click on "SHARE YOUR PROFILE"  | ![Share Contact via QR Code 2](shareviaqrcode02.jpg)|
+  | Now you can share the QR Code, which is shown on your display, with others.  | ![Share Contact via QR Code 3](shareviaqrcode03.jpg)|       
   | Go back to dashboard. | |
 
 #### LOGIN TO A PLATFORM
@@ -97,7 +97,7 @@ With a FUTURE ID, you can conveniently access the following platforms:
   * If you're not signed in with FUTURE ID, you'll be redirected to FUTURE ID to sign in.
   ---
 
-## User Manual
+## USER MANUAL
 
 #### Account Setup and Management
 
