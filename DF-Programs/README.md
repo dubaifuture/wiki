@@ -44,7 +44,7 @@ Visit [Dubai Future Programs](https://programs.dubaifuture.gov.ae)
 
 <br>
 
-![login](loginscreen.jpg)
+![login](loginscreen.JPG)
 
 *  Create your future match:
     * Drag & Drop an Organisation with which you want to apply for a Program into the left rectangle with a cross in the middle.
@@ -52,7 +52,7 @@ Visit [Dubai Future Programs](https://programs.dubaifuture.gov.ae)
 
 <br>
 
-![dashboard](dashboard.jpg)
+![dashboard](dashboard.JPG)
 
 *  Apply now:
     * Select your organisation.
@@ -62,7 +62,7 @@ Visit [Dubai Future Programs](https://programs.dubaifuture.gov.ae)
 
 <br>
 
-![application step 1](application01.jpg)
+![application step 1](application01.JPG)
 
 *  Next Step:
     * Choose your country.
@@ -74,8 +74,8 @@ Visit [Dubai Future Programs](https://programs.dubaifuture.gov.ae)
 
 <br>
 
-![application step 2](application02.jpg)
-![application step 3](application03.jpg)
+![application step 2](application02.JPG)
+![application step 3](application03.JPG)
 
 #### EDIT PROFILE <br>
 
