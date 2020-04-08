@@ -143,10 +143,10 @@ Click on "Login/Register":
   * If you're already signed in with FUTURE ID, you'll automatically be logged in.
   * If you're not signed in with FUTURE ID, you'll be redirected to FUTURE ID to sign in.
 
-    <table>
+<table>
   <thead>
   </thead>
-  <tbody>
+    <tbody>
     <tr>
       <tr><td colspan="3"><b>Login/Register</b></td>      
     </tr>
@@ -183,9 +183,9 @@ Click on "Login/Register":
   * If you're already signed in with FUTURE ID, you'll automatically be logged in.
   * If you're not signed in with FUTURE ID, you'll be redirected to FUTURE ID to sign in.
 
-  <table>
-<thead>
-</thead>
+<table>
+  <thead>
+  </thead>
 <tbody>
   <tr>
     <tr><td colspan="3"><b>Login/Register</b></td>      
