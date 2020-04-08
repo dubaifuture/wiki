@@ -10,7 +10,7 @@
 * [USER MANUAL](#user-manual)
 * [FREQUENTLY ASKED QUESTIONS](#frequently-asked-questions)
 
-## WELCOME
+## WELCOME <br>
 
 FUTURE ID is a Single Sign-On (SSO) and Profile Management Service owned and operated by the Dubai Future Foundation. It allows startups, entrepreneurs, academics, researchers, scientists, and the general public to securely and conveniently access a variety of our services.
 
@@ -109,7 +109,7 @@ Visit [https://id.dubaifuture.gov.ae](https://id.dubaifuture.gov.ae)
   | Now you can share the QR Code, which is shown on your display, with others.  | ![Share Contact via QR Code 3](shareviaqrcode03.jpg)|       
   | Go back to dashboard. | |
 
-## LOGIN TO A PLATFORM
+## LOGIN TO A PLATFORM <br>
 
 * Visit one of platforms listed above
 * Click on "Login/Register":
@@ -117,7 +117,7 @@ Visit [https://id.dubaifuture.gov.ae](https://id.dubaifuture.gov.ae)
   * If you're not signed in with FUTURE ID, you'll be redirected to FUTURE ID to sign in.
   ---
 
-## USER MANUAL
+## USER MANUAL <br>
 
 #### Account Setup and Management
 
