@@ -39,7 +39,7 @@ Join a community or create your own, and begin co-creating with like-minded indi
     </tr>
     <tr>
     <td style="text-align: left"><b><p>Step:</p></b>text.</td>
-    <td style="text-align: center"><img src="createcommunity01.jpg" alt="Create Community Step 1"></td>
+    <td style="text-align: center"><img src="communities01.jpg" alt="Create Community Step 1"></td>
     </tr>
     <tr>
     <td style="text-align: left"><b><p>Step:</p></b>text.</td>
