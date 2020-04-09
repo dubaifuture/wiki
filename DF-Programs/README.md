@@ -12,7 +12,7 @@
 * [REVIEW APPLICATION](#review-applications)
 * [FREQUENTLY ASKED QUESTIONS](#frequently-asked-questions)
 
-## WELCOME
+## WELCOME <br>
 
 Dubai Future Programs is an open platform for innovation. It stands to its name as it helps both corporate and public sectors get access and connect with creative entrepreneurs and unique startups to co-create the future.
 
@@ -20,7 +20,7 @@ Working closely with technology leaders in the region and internationally, allow
 
 Helping governments, and industry leaders navigate and address complex technology challenges through a number of programs that connect startups to develop solutions to real challenges. Startups work with government and industry partners to understand identified problems. Through a streamlined process, startups develop solutions with an expedited pathway to implementation.
 
-#### PROGRAMS <br>
+### PROGRAMS <br>
 
 **Use Cases**
 
@@ -34,7 +34,7 @@ Get unique access to startups that are changing the landscape of technology.
 
 Engage with public sector leaders and civic entrepreneurs bringing new, innovative technologies to the public sector to drive impact in government.
 
-#### APPLICATION TO A PROGRAM <br>
+## APPLICATION TO A PROGRAM <br>
 
 Visit [Dubai Future Programs](https://programs.dubaifuture.gov.ae)
 
@@ -83,18 +83,18 @@ Visit [Dubai Future Programs](https://programs.dubaifuture.gov.ae)
 
 ![application step 3](application03.JPG)
 
-#### EDIT PROFILE <br>
+## EDIT PROFILE <br>
 
-#### PROGRAM OWNER <br>
+## PROGRAM OWNER <br>
 
 A Program Owner owns a Program on DUBAI FUTURE PROGRAMS. A Program Owner can change program settings, manage rights and add new gates.
 
-#### LOGIN TO A PLATFORM <br>
+## LOGIN TO A PLATFORM <br>
 
-#### CREATE A PROGRAM <br>
+## CREATE A PROGRAM <br>
 
-#### ONBOARDING STAGE <br>
+## ONBOARDING STAGE <br>
 
-#### REVIEW APPLICATIONS <br>
+## REVIEW APPLICATIONS <br>
 
-#### FREQUENTLY ASKED QUESTIONS <br>
+## FREQUENTLY ASKED QUESTIONS <br>
