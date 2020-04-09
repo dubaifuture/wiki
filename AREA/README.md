@@ -90,27 +90,19 @@ Join a community or create your own, and begin co-creating with like-minded indi
     <td style="text-align: center"><img src="createevent01.jpg" alt="Create Event Step 1"></td>
     </tr>
     <tr>
-    <td style="text-align: left"><p><b>Smart Screen</b></p>Upload an image as your Event banner and fill out the required fields.</td>
+    <td style="text-align: left"><p><b>Smart Screen</b></p>Swipe up on any screen to expose a menu of special options for the screen that you're on.</td>
     <td style="text-align: center"><img src="smartmenu03.jpg" alt="Smart Menu"></td>
     </tr>
     <tr>
-    <td style="text-align: left"><p><b>Step 2:</b></p>If you can see this page page, you have successfully logged in.</td>
+    <td style="text-align: left"><p><b>Step 2:</b></p>Upload an image as your Event banner and fill out the required fields "Title", "Date", "Location", "Details" and "Tags".</td>
     <td style="text-align: center"><img src="createevent02.jpg" alt="Create Event Step 2"></td>
     </tr>
     <tr>
-    <td style="text-align: left"><p><b>Smart Screen</b></p>Swipe up on any screen to expose a menu of special options for the screen that you're on.</td>
-    <td style="text-align: center"><img src="createevent03.jpg" alt="Create Event Step 3"></td>
-    </tr>
-    <tr>
-    <td style="text-align: left"><p><b>Step 3:</b></p>Click on the bottom bar on the community icon. Afterwards swipe up smart screen and click on "Create".</td>
-    <td style="text-align: center"><img src="createevent04.jpg" alt="Create Event Step 4"></td>
-    </tr>
-    <tr>
-    <td style="text-align: left"><p><b>Step 4:</b></p>Fill out the required fields "Title", "Location", "Details" and "Tags" and decide if you want to make your new community either public or private. Afterwards upload an image as your Community banner.</td>
+    <td style="text-align: left"><p><b>Step 4:</b></p>Afterwards click on the button "CREATE EVENT".</td>
     <td style="text-align: center"><img src="createevent05.jpg" alt="Create Event Step 5"></td>
     </tr>
     <tr>
-    <td style="text-align: left"><p><b></b></p>Success. You created a new community!</td>
+    <td style="text-align: left"><p><b></b></p>Success. You created a new Event!</td>
     <td style="text-align: center"><img src="createevent06.jpg" alt="Create Event Step 6"></td>
     </tr>
   </tbody>
