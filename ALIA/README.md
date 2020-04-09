@@ -26,19 +26,15 @@ Use your very own personal assistant to book meeting rooms at AREA 2071, or find
       <td style="text-align: center"><img src="connectwithfutureid.jpg" alt="Connect with future id"></td>
     </tr>
     <tr>
-    <td style="text-align: left"><p><b></b></p>If you can see this page page, you have successfully logged in.</td>
-    <td style="text-align: center"><img src="landingpage.jpg" alt="Landing Page"></td>
-    </tr>
-    <tr>
     <td style="text-align: left"><p><b>Step 1:</b></p>Click on the message icon, which you can find in the bottom bar.</td>
     <td style="text-align: center"><img src="alia.jpg" alt="Alia Step 1"></td>
     </tr>
     <tr>
-    <td style="text-align: left"><p><b>Step 2:</b></p></td>
+    <td style="text-align: left"><p><b>Step 2:</b></p>Click on Alia</td>
     <td style="text-align: center"><img src="alia01.jpg" alt="Alia Step 2"></td>
     </tr>
     <tr>
-    <td style="text-align: left"><p><b></b></p>Success. You created a new community!</td>
+    <td style="text-align: left"><p><b></b></p>Text</td>
     <td style="text-align: center"><img src="alia02.jpg" alt="Alia Step 3"></td>
     </tr>
   </tbody>
