@@ -34,7 +34,7 @@ Use your very own personal assistant to book meeting rooms at AREA 2071, or find
     <td style="text-align: center"><img src="alia01.jpg" alt="Alia Step 2"></td>
     </tr>
     <tr>
-    <td style="text-align: left"><p><b>Step 3:</b></p>Text</td>
+    <td style="text-align: left"><p><b>Step 3:</b></p>Now you can start to book a room by writing the Chatbot ALIA things like "Hi" and "I want to book a room now".</td>
     <td style="text-align: center"><img src="alia02.jpg" alt="Alia Step 3"></td>
     </tr>
   </tbody>
