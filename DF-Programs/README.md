@@ -92,8 +92,11 @@ Visit [Dubai Future Programs](https://programs.dubaifuture.gov.ae)
   </thead>
   <tbody>
     <tr>
+      <tr><td colspan="3"><b>Register/Login</b></td>      
+    </tr>
+    <tr>
       <td style="text-align: left"><p><b>Step 1:</b></p>text.</td>
-      <td style="text-align: center"><img src="editprofile02.JPG" alt="Edit-1"></td>
+      <td style="text-align: center"><img src="editprofile01.JPG" alt="Edit-1"></td>
     </tr>
     <tr>
       <td style="text-align: left"><p><b>Step 2:</b></p>text. </td>
