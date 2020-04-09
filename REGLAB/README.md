@@ -23,8 +23,8 @@ Visit [https://reglab.gov.ae](https://reglab.gov.ae/)
 
 |||
 | ------------- |:-------------:|
-| Click on "APPLY NOW"      | ![Application Step 1](howtoapply01.jpg) |
-| Connect with FUTURE ID and aggree with the Terms & Conditions.     | ![Application Step 2](howtoapply02.jpg) |
+| Click on "APPLY NOW"      | ![Application Step 1](howtoapply01.JPG) |
+| Connect with FUTURE ID and aggree with the Terms & Conditions.     | ![Application Step 2](howtoapply02.JPG) |
 
 ## REVIEW <br>
 
