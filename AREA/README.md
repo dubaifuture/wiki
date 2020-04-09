@@ -74,7 +74,7 @@ Join a community or create your own, and begin co-creating with like-minded indi
     <td style="text-align: center"><img src="createcommunity04.jpg" alt="Edit Community Step 1"></td>
     </tr>
     <tr>
-    <td style="text-align: left"><p><b>Step 2:</b></p>Click on the edit button on the top left below the star.</td>
+    <td style="text-align: left"><p><b>Step 2:</b></p>Click on the edit button on the top left, below the star.</td>
     <td style="text-align: center"><img src="editcommunity01.jpg" alt="Edit Community Step 2"></td>
     </tr>
     <tr>
