@@ -120,7 +120,7 @@ Visit [https://business.goldenvisa.ae](https://business.goldenvisa.ae/)
   <tbody>
     <tr>
       <td style="text-align: left"><p><b>Step 1:</b></p>Log into VISA.</td>
-      <td style="text-align: center"><img src="visa_landing.JPG" alt="landing"></td>
+      <td style="text-align: center"><img src="visa_landing.jpg" alt="landing"></td>
     </tr>
     <tr>
       <td style="text-align: left"><p><b>Step 2:</b></p>Text. </td>
