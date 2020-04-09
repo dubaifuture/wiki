@@ -1,13 +1,13 @@
 ![DFF Logo](dff_logo2.png)
 ---
 
-## Welcome
+## Welcome <br>
 
 Dubai Future Foundation aims to develop a suite of best-in-class applications to serve and support its global network of startups, entrepreneurs, academics, researchers, and scientists.
 
 This documentation contains instructions on how to use our various platforms. Please reach out through the appropriate channels should you need any additional support or if you face any technical issues.
 
-## Our Platforms
+## Our Platforms <br>
 
 | **AREA 2071**     | **ALIA**     | **Dubai Future Programs**           | **Future ID**           | **UAE Golden Visa** |**UAE Regulations Lab** |
 |-------------------------------------|-------------------------------------|-------------------------------------|-------------------------------|-----------------------------------|---------------------------------------------|
@@ -15,7 +15,7 @@ This documentation contains instructions on how to use our various platforms. Pl
 | [Contact Help Desk](https://area2071.ae/contact-us/) | [Contact Help Desk](https://area2071.ae/contact-us/) | [Contact Help Desk](https://id.dubaifuture.gov.ae/) | [Contact Help Desk](https://programs.dubaifuture.gov.ae/) | [Contact Help Desk](https://www.ica.gov.ae/) | [Contact Help Desk](https://reglab.gov.ae/contact) |
 
 
-## Frequently Asked Questions
+## Frequently Asked Questions <br>
 
 * **How do I file a complaint or report a technical error?**<br>
   *Please click on the Help Desk link next to the name of the platform above.*
