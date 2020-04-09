@@ -8,11 +8,11 @@
 * [REVIEW AN APPLICATION](#review-an-application)
 * [FREQUENTLY ASKED QUESTIONS](#frequently-asked-questions)
 
-## WELCOME
+## WELCOME <br>
 
 The startup ecosystem in the United Arab Emirates has progressed at an unprecedented speed. We are now home to an ever-growing technology startup ecosystem, attracting the best and brightest entrepreneurs to our dynamic and flourishing country. The Business Visa is part of the Golden Visa system for permanent residents and foreigners to establish a home in the United Arab Emirates. The Business Visa allows entrepreneurs the freedom to explore and experiment in the UAE, while securing a future for themselves and their families.
 
-## APPLICATION
+## APPLICATION <br>
 
 **1. APPLY FOR NOMINATION** :memo:
 
@@ -31,7 +31,7 @@ Your application will be verified by the Federal Authority for Identity and Citi
 receive your visa.
 
 
-## SUBMIT AN APPLICATION
+## SUBMIT AN APPLICATION <br>
 
 Visit [https://business.goldenvisa.ae](https://business.goldenvisa.ae/)
 
@@ -52,12 +52,12 @@ The visa allows for the applicants to get visas for their dependents. This may i
 **Step 3 - Submit application**   | Once you have submitted the application, the review will take approximately 30 days. Approval of the nomination does not mean that you will definitely get the visa. It simply implies that you have qualified for the visa, after specialised committees review the application and the attached documents.   |
 **Step 4 - Complete the visa requirements**   | Once your nomination has been approved, you will need to complete the requirements of the Federal Authority for Identity and Citizenship, which can take up to an additional thirty days. You will then receive an email with further instructions on how to receive your visa. If you are currently residing outside of the UAE, you will be given a six-month visa to enter the UAE, explore the opportunities, and settle. During this period, you will be required to convert your temporary visa into the residency permit. If you are currently residing within the UAE, you will be given a temporary one-month visa, and will be required to convert your temporary visa into the residency permit during this period. In both cases, you can convert your one- or six-month visas into the residency quickly and conveniently at SERVICES 1 in Emirates Towers, Dubai, United Arab Emirates; or, directly through the Federal Authority for Identity and Citizenship.   |
 
-## REVIEW
+## REVIEW <br>
 
-## REVIEW AN APPLICATION
+## REVIEW AN APPLICATION <br>
 
 
-## FREQUENTLY ASKED QUESTIONS
+## FREQUENTLY ASKED QUESTIONS <br>
 
 **Who can apply for it?**<br>
 *Professionals with entrepreneurial experience from around the world are eligible to apply for the Business Visa. An eligible entrepreneur is anyone who has set up a business of their own at some point in their careers, and wishes to do so again in the UAE. To obtain the Business Visa, you must:*
