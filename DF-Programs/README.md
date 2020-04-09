@@ -72,11 +72,15 @@ Visit [Dubai Future Programs](https://programs.dubaifuture.gov.ae)
     * Select Rounds you made on a scale from 1 to 4.
       * Select yes, if you won the FINALE.
       * Select no, if you didn't win the FINALE.
+    * Click on "Submit".
 
 
 <br>
 
 ![application step 2](application02.JPG)
+
+<br>
+
 ![application step 3](application03.JPG)
 
 #### EDIT PROFILE <br>
