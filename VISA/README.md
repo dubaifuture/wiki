@@ -123,7 +123,7 @@ Visit [https://business.goldenvisa.ae](https://business.goldenvisa.ae/)
       <td style="text-align: center"><img src="visa_landing.jpg" alt="landing"></td>
     </tr>
     <tr>
-      <td style="text-align: left"><p><b>Step 2:</b></p>Clck on the "REVIEW" tab on the bottom right. </td>
+      <td style="text-align: left"><p><b>Step 2:</b></p>Click on the "REVIEW" tab on the bottom right. </td>
       <td style="text-align: center"><img src="review01.JPG" alt="Review-1"></td>
     </tr>
         <tr>
