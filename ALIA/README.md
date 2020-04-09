@@ -12,6 +12,8 @@ Use your very own personal assistant to book meeting rooms at AREA 2071, or find
 
 ## ROOMBOKING <br>
 
+ALIA is a smart assistant Chatbot, with which you can easily book your room for a specific time and for a specific amount of people by typing, for instance, "I want to book a room for 2 hours".
+
 ## BOOK A ROOM <br>
 
 <table>
