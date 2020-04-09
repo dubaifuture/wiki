@@ -42,7 +42,7 @@ Join a community or create your own, and begin co-creating with like-minded indi
     <td style="text-align: center"><img src="smartmenu03.jpg" alt="Smart Menu"></td>
     </tr>
     <tr>
-    <td style="text-align: left"><p><b>Step 3:</b></p>Click on the bottom bar on the community icon. Afterwards swipe up smart screen and click on "Create".</td>
+    <td style="text-align: left"><p><b>Step 3:</b></p>Click on the community icon, which you can find in the bottom bar. Afterwards swipe up smart screen and click on "Create".</td>
     <td style="text-align: center"><img src="communities01.jpg" alt="Create Community Step 1"></td>
     </tr>
     <tr>
@@ -78,12 +78,21 @@ Join a community or create your own, and begin co-creating with like-minded indi
   <thead>
   </thead>
   <tbody>
+  
     <tr>
       <tr><td colspan="3"><b>Open the AREA 2071 Application on your smartphone.</b></td>      
     </tr>
     <tr>
-      <td style="text-align: left"><p><b>Step 1:</b></p>Continue with FUTURE ID.</td>
+    <td style="text-align: left"><p><b></b></p>Click on the community icon, which you can find in the bottom bar.</td>
+    <td style="text-align: center"><img src="createcommunity04.jpg" alt="Create Community Step 3"></td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><p><b>Step 1:</b></p>Swipe up Smart Screen and click on "Event"</td>
       <td style="text-align: center"><img src="createevent01.jpg" alt="Create Event Step 1"></td>
+    </tr>
+    <tr>
+    <td style="text-align: left"><p><b>Smart Screen</b></p>Upload an image as your Event banner and fill out the required fields.</td>
+    <td style="text-align: center"><img src="smartmenu03.jpg" alt="Smart Menu"></td>
     </tr>
     <tr>
     <td style="text-align: left"><p><b>Step 2:</b></p>If you can see this page page, you have successfully logged in.</td>
