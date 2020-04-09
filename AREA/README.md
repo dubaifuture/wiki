@@ -148,7 +148,7 @@ Join a community or create your own, and begin co-creating with like-minded indi
     <td style="text-align: center"><img src="createevent01.jpg" alt="Create Event Step 1"></td>
     </tr>
     <tr>
-    <td style="text-align: left"><p><b>Step 5:</b></p>Fill out the required fields "Title" and "Content" and upload an image as the banner of your update.</td>
+    <td style="text-align: left"><p><b>Step 4:</b></p>Fill out the required fields "Title" and "Content" and upload an image as the banner of your update.</td>
     <td style="text-align: center"><img src="createupdate01.jpg" alt="Create Update Step 1"></td>
     </tr>
     <tr>
