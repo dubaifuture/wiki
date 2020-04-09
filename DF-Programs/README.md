@@ -140,6 +140,6 @@ Visit [Dubai Future Programs](https://programs.dubaifuture.gov.ae)
 
 Kanban style review page, where we see all application (or only assigned for reviewers) on each gate. 
 
-![Review Page](review01.JPG)
+![Review Page](review01.PNG)
 
 ## FREQUENTLY ASKED QUESTIONS <br>
