@@ -68,9 +68,45 @@ Join a community or create your own, and begin co-creating with like-minded indi
 | Click on the edit button on the top left below the star. | ![Edit Community 1](editcommunity01.JPG)|  
 | Edit your Community. Afterwards click "UPDATE COMMUNITY".  | ![Edit Community 2](editcommunity02.JPG)|  
 
+
+
 ## ADD MEMBERS TO A COMMUNITY <br>
 
 ## CREATE EVENTS <br>
+
+<table>
+  <thead>
+  </thead>
+  <tbody>
+    <tr>
+      <tr><td colspan="3"><b>Open the AREA 2071 Application on your smartphone.</b></td>      
+    </tr>
+    <tr>
+      <td style="text-align: left"><p><b>Step 1:</b></p>Continue with FUTURE ID.</td>
+      <td style="text-align: center"><img src="createevent01.jpg" alt="Create Event Step 1"></td>
+    </tr>
+    <tr>
+    <td style="text-align: left"><p><b>Step 2:</b></p>If you can see this page page, you have successfully logged in.</td>
+    <td style="text-align: center"><img src="createevent02.jpg" alt="Create Event Step 2"></td>
+    </tr>
+    <tr>
+    <td style="text-align: left"><p><b>Smart Screen</b></p>Swipe up on any screen to expose a menu of special options for the screen that you're on.</td>
+    <td style="text-align: center"><img src="createevent03.jpg" alt="Create Event Step 3"></td>
+    </tr>
+    <tr>
+    <td style="text-align: left"><p><b>Step 3:</b></p>Click on the bottom bar on the community icon. Afterwards swipe up smart screen and click on "Create".</td>
+    <td style="text-align: center"><img src="createevent04.jpg" alt="Create Event Step 4"></td>
+    </tr>
+    <tr>
+    <td style="text-align: left"><p><b>Step 4:</b></p>Fill out the required fields "Title", "Location", "Details" and "Tags" and decide if you want to make your new community either public or private. Afterwards upload an image as your Community banner.</td>
+    <td style="text-align: center"><img src="createevent05.jpg" alt="Create Event Step 5"></td>
+    </tr>
+    <tr>
+    <td style="text-align: left"><p><b></b></p>Success. You created a new community!</td>
+    <td style="text-align: center"><img src="createevent06.jpg" alt="Create Event Step 6"></td>
+    </tr>
+  </tbody>
+</table>
 
 ## CREATE UPDATES <br>
 
