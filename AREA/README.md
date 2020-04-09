@@ -156,7 +156,7 @@ Join a community or create your own, and begin co-creating with like-minded indi
     <td style="text-align: center"><img src="createupdate02.jpg" alt="Create Update Step 2"></td>
     </tr>
     <tr>
-    <td style="text-align: left"><p><b></b></p>text</td>
+    <td style="text-align: left"><p><b></b></p>Success. You have successfully updated your Community!</td>
     <td style="text-align: center"><img src="createupdate03.jpg" alt="Create Update Step 3"></td>
     </tr>
   </tbody>
