@@ -132,11 +132,11 @@ Join a community or create your own, and begin co-creating with like-minded indi
       <tr><td colspan="3"><b>Open the AREA 2071 Application on your smartphone.</b></td>      
     </tr>
     <tr>
-    <td style="text-align: left"><p><b>Step 1:</b></p>Click on the community icon, which you can find in the bottom bar and choose your community you want to edit.</td>
+    <td style="text-align: left"><p><b>Step 1:</b></p>Click on the community icon, which you can find in the bottom bar.</td>
     <td style="text-align: center"><img src="createcommunity04.jpg" alt="Edit Community Step 1"></td>
     </tr>
     <tr>
-    <td style="text-align: left"><p><b>Step 2:</b></p>Click on the edit button on the top left, below the star.</td>
+    <td style="text-align: left"><p><b>Step 2:</b></p>choose the Community you want to edit.</td>
     <td style="text-align: center"><img src="editcommunity01.jpg" alt="Edit Community Step 2"></td>
     </tr>
     <tr>
@@ -156,7 +156,7 @@ Join a community or create your own, and begin co-creating with like-minded indi
     <td style="text-align: center"><img src="createupdate02.jpg" alt="Create Update Step 2"></td>
     </tr>
     <tr>
-    <td style="text-align: left"><p><b></b></p>Success. You have successfully updated your Community!</td>
+    <td style="text-align: left"><p><b></b></p>Success. You have updated your Community!</td>
     <td style="text-align: center"><img src="createupdate03.jpg" alt="Create Update Step 3"></td>
     </tr>
   </tbody>
