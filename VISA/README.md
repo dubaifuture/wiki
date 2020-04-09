@@ -110,6 +110,8 @@ Visit [https://business.goldenvisa.ae](https://business.goldenvisa.ae/)
 
 ## REVIEW <br>
 
+The review of an application will take approximately 30 days. Once a nomination has been approved, you will need to complete the requirements of the Federal Authority for Identity and Citizenship, which can take up to an additional thirty days.
+
 ## REVIEW AN APPLICATION <br>
 
 Visit [https://business.goldenvisa.ae](https://business.goldenvisa.ae/)
