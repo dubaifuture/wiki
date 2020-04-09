@@ -138,9 +138,7 @@ Visit [Dubai Future Programs](https://programs.dubaifuture.gov.ae)
 
 ## REVIEW APPLICATIONS <br>
 
-Kanban style review page, where we see all application (or only assigned for reviewers) on each gate. 
-
-Applications can either "ACCEPTED" or "REJECTED" on each gate, as well as moved between each gate.
+Kanban style review page, where we see all application (or only assigned for reviewers) on each gate. Applications can either approved, rejected or moved between different gates.
 
 ![Review Page](review01.png)
 
