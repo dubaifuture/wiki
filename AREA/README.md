@@ -148,11 +148,11 @@ Join a community or create your own, and begin co-creating with like-minded indi
     <td style="text-align: center"><img src="createevent01.jpg" alt="Create Event Step 1"></td>
     </tr>
     <tr>
-    <td style="text-align: left"><p><b>Step 5:</b></p>Text</td>
+    <td style="text-align: left"><p><b>Step 5:</b></p>Fill out the required fields "Title" and "Content" and upload an image as the banner of your update.</td>
     <td style="text-align: center"><img src="createupdate01.jpg" alt="Create Update Step 1"></td>
     </tr>
     <tr>
-    <td style="text-align: left"><p><b></b></p>Text</td>
+    <td style="text-align: left"><p><b></b></p>You can attach files or a YouTube URL as well. Afterwards click on "POST UPDATE"</td>
     <td style="text-align: center"><img src="createupdate02.jpg" alt="Create Update Step 2"></td>
     </tr>
     <tr>
