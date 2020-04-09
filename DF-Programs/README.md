@@ -109,7 +109,7 @@ Visit [Dubai Future Programs](https://programs.dubaifuture.gov.ae)
 
 A Program Owner owns a Program on DUBAI FUTURE PROGRAMS. A Program Owner can change program settings, manage rights and add new gates.
 
-## LOGIN TO A PLATFORM <br>
+## CREATE A PROGRAM <br>
 
 Visit [Dubai Future Programs](https://programs.dubaifuture.gov.ae)
 
@@ -135,7 +135,7 @@ Visit [Dubai Future Programs](https://programs.dubaifuture.gov.ae)
   </tbody>
 </table>
 
-## CREATE A PROGRAM <br>
+## LOGIN TO A PLATFORM <br>
 
 ## ONBOARDING STAGE <br>
 
