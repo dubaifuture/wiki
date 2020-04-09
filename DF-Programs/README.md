@@ -85,6 +85,23 @@ Visit [Dubai Future Programs](https://programs.dubaifuture.gov.ae)
 
 ## EDIT PROFILE <br>
 
+Visit [Dubai Future Programs](https://programs.dubaifuture.gov.ae)
+
+<table>
+  <thead>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left"><p><b>Step 1:</b></p>text.</td>
+      <td style="text-align: center"><img src="editprofile02.JPG" alt="Edit-1"></td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><p><b>Step 2:</b></p>text. </td>
+      <td style="text-align: center"><img src="editprofile02.JPG" alt="Edit-2"></td>
+    </tr>
+  </tbody>
+</table>
+
 ## PROGRAM OWNER <br>
 
 A Program Owner owns a Program on DUBAI FUTURE PROGRAMS. A Program Owner can change program settings, manage rights and add new gates.
