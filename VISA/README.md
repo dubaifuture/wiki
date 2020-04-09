@@ -83,7 +83,7 @@ Visit [https://business.goldenvisa.ae](https://business.goldenvisa.ae/)
     </tr>
     <tr>
     <td style="text-align: left"><p><b>Step 8:</b></p>The website also asks applicants to upload a two-minute video profile of themselves.</td>
-    <td style="text-align: center"><img src="visa10.JPG" alt="VISA-10"></td>
+    <td style="text-align: center"><img src="visa10.jpg" alt="VISA-10"></td>
     </tr>
     <tr>
     <td style="text-align: left"><p><b>Step 9:</b></p>You would also be required to provide details of the sector you would operate in and what details of your business so far.</td>
