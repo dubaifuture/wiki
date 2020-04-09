@@ -26,18 +26,12 @@ Visit [https://reglab.gov.ae](https://reglab.gov.ae/)
   </thead>
   <tbody>
     <tr>
-      <tr><td colspan="3"><b>Login/Register</b></td>      
-    </tr>
-    <tr>
       <td style="text-align: left"><p><b>Step 1:</b></p>Click on "APPLY NOW"</td>
       <td style="text-align: center"><img src="howtoapply01.JPG" alt="Apply Step 1"></td>
     </tr>
     <tr>
     <td style="text-align: left"><p><b>Step 2:</b></p>Connect with FUTURE ID and aggree with the Terms & Conditions.</td>
     <td style="text-align: center"><img src="howtoapply02.JPG" alt="Apply Step 2"></td>
-    </tr>
-    <tr>
-      <tr><td colspan="3">Go to dashboard.</td>      
     </tr>
   </tbody>
 </table>
