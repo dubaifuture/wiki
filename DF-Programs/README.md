@@ -6,7 +6,6 @@
 * [APPLICATION TO A PROGRAM](#application-to-a-program)
 * [EEDIT PROFILE](#edit-profile)
 * [PROGRAM OWNER](#program-owner)
-* [LOGIN TO A PLATFORM](#login-to-a-platform)
 * [CREATE PROGRAM](#create-a-program)
 * [ONBOARDING STAGE](#onboarding-stage)
 * [REVIEW APPLICATION](#review-applications)
@@ -134,8 +133,6 @@ Visit [Dubai Future Programs](https://programs.dubaifuture.gov.ae)
     </tr>
   </tbody>
 </table>
-
-## LOGIN TO A PLATFORM <br>
 
 ## ONBOARDING STAGE <br>
 
