@@ -119,23 +119,23 @@ Visit [https://business.goldenvisa.ae](https://business.goldenvisa.ae/)
   </thead>
   <tbody>
     <tr>
-      <td style="text-align: left"><p><b>Step 1:</b></p>Log into VISA.</td>
+      <td style="text-align: left"><p><b>Step 1:</b></p>Click on "APPLY NOW" and log into your VISA Account.</td>
       <td style="text-align: center"><img src="visa_landing.jpg" alt="landing"></td>
     </tr>
     <tr>
-      <td style="text-align: left"><p><b>Step 2:</b></p>Text. </td>
+      <td style="text-align: left"><p><b>Step 2:</b></p>Clck on the "REVIEW" tab on the bottom right. </td>
       <td style="text-align: center"><img src="review01.JPG" alt="Review-1"></td>
     </tr>
         <tr>
-      <td style="text-align: left"><p><b>Step 3:</b></p>Text. </td>
+      <td style="text-align: left"><p><b>Step 3:</b></p>Now you can see different applications on different stages. You can either "APPROVE" or "REJECT" an application by clicking on of those buttons on the bottom right.</td>
       <td style="text-align: center"><img src="review02.JPG" alt="Review-2"></td>
     </tr>
         <tr>
-      <td style="text-align: left"><p><b>Step 4:</b></p>Text. </td>
+      <td style="text-align: left"><p><b>Step 4:</b></p>If you decide to reject an application, you have to approve your rejection twice. </td>
       <td style="text-align: center"><img src="review03.JPG" alt="Review-3"></td>
     </tr>
         <tr>
-      <td style="text-align: left"><p><b>Step 5:</b></p>Text. </td>
+      <td style="text-align: left"><p><b>Step 5:</b></p>On the bottom left you can switch between the different application stages. </td>
       <td style="text-align: center"><img src="review04.jpg" alt="Review-4"></td>
     </tr>
   </tbody>
