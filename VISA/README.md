@@ -2,7 +2,7 @@
 #### TABLE OF CONTENTS
 
 * [WELCOME](#short-explanation-to-visa)
-* [AAPPLICATION](#application)
+* [APPLICATION](#application)
 * [SUBMIT AN APPLICATION](#submit-an-application)
 * [REVIEW](#review)
 * [REVIEW AN APPLICATION](#review-an-application)
@@ -111,7 +111,6 @@ Visit [https://business.goldenvisa.ae](https://business.goldenvisa.ae/)
 ## REVIEW <br>
 
 ## REVIEW AN APPLICATION <br>
-
 
 ## FREQUENTLY ASKED QUESTIONS <br>
 
