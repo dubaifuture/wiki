@@ -3,20 +3,24 @@
 * [WELCOME](#welcome)
 * [COMMUNITIES](#communities)
 * [CREATE COMMUNITIES](#create-communities)
+* [EDIT COMMUNITIES](#edit-communities)
+* [ADD MEMBERS TO A COMMUNITY](#add-members-to-a-community)
+* [CREATE EVENTS](#create-events)
+* [CREATE UPDATES](#create-updates)
 * [FREQUENTLY ASKED QUESTIONS](#frequently-asked-questions)
 
-## WELCOME
+## WELCOME <br>
 
 AREA 2071 is home to innovators, disruptors, and change makers. 
 Join a global communityof the world's greatest minds and begin co-creating the future. Showcase your expertiseyour organisation, and the projects you're working on. 
 Get access to mentorship, support, and a suite of benefits exclusive to the AREA 2071 community. 
 AREA 2071 is a project managed by the Dubai Future Foundation in alignment with the vision of His Highness Sheikh Mohammed bin Rashid Al Maktoum, Vice President and Prime Minister of the UAE and Ruler of Dubai, and the UAE Centennial Plan.
 
-## COMMUNITIES
+## COMMUNITIES <br>
 
 Join a community or create your own, and begin co-creating with like-minded individuals from across our ecosystem.
 
-## CREATE COMMUNITIES
+## CREATE COMMUNITIES <br>
 
 <table>
   <thead>
@@ -56,7 +60,7 @@ Join a community or create your own, and begin co-creating with like-minded indi
   </tbody>
 </table>
 
-## EDIT COMMUNITIES 
+## EDIT COMMUNITIES <br>
 
 |||
 | ------------- |:-------------:|  
@@ -64,5 +68,10 @@ Join a community or create your own, and begin co-creating with like-minded indi
 | Click on the edit button on the top left below the star. | ![Edit Community 1](editcommunity01.JPG)|  
 | Edit your Community. Afterwards click "UPDATE COMMUNITY".  | ![Edit Community 2](editcommunity02.JPG)|  
 
+## ADD MEMBERS TO A COMMUNITY <br>
 
-## FREQUENTLY ASKED QUESTIONS
+## CREATE EVENTS <br>
+
+## CREATE UPDATES <br>
+
+## FREQUENTLY ASKED QUESTIONS <br>
