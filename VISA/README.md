@@ -112,6 +112,38 @@ Visit [https://business.goldenvisa.ae](https://business.goldenvisa.ae/)
 
 ## REVIEW AN APPLICATION <br>
 
+Visit [https://business.goldenvisa.ae](https://business.goldenvisa.ae/)
+
+<table>
+  <thead>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left"><p><b>Step 1:</b></p>Log into VISA.</td>
+      <td style="text-align: center"><img src="landing.jpg" alt="landing"></td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><p><b>Step 2:</b></p>Text. </td>
+      <td style="text-align: center"><img src="review01.jpg" alt="Review-1"></td>
+    </tr>
+        <tr>
+      <td style="text-align: left"><p><b>Step 3:</b></p>Text. </td>
+      <td style="text-align: center"><img src="review02.jpg" alt="Review-2"></td>
+    </tr>
+        <tr>
+      <td style="text-align: left"><p><b>Step 4:</b></p>Text. </td>
+      <td style="text-align: center"><img src="review03.jpg" alt="Review-3"></td>
+    </tr>
+        <tr>
+      <td style="text-align: left"><p><b>Step 5:</b></p>Text. </td>
+      <td style="text-align: center"><img src="review04.jpg" alt="Review-4"></td>
+    </tr>
+    <tr>
+      <tr><td colspan="3"><b>Enter personal details</b></td>      
+    </tr>
+  </tbody>
+</table>
+
 ## FREQUENTLY ASKED QUESTIONS <br>
 
 **Who can apply for it?** <br>
