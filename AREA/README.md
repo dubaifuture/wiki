@@ -185,3 +185,4 @@ Join a community or create your own, and begin co-creating with like-minded indi
 </table>
 
 ## FREQUENTLY ASKED QUESTIONS <br>
+** How can I mark a community as favourite? ** 
