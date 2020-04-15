@@ -42,7 +42,7 @@ Join a community or create your own, and begin co-creating with like-minded indi
     <td style="text-align: center"><img src="smartmenu03.jpg" alt="Smart Menu"></td>
     </tr>
     <tr>
-    <td style="text-align: left"><p><b>Step 3:</b></p>Click on the community icon, which you can find in the bottom bar. Afterwards swipe up smart screen and click on "Create".</td>
+    <td style="text-align: left"><p><b>Step 3:</b></p>Click on the community icon, which you can find in the bottom bar. Afterwards swipe up smart screen**slider** and click on "Create".</td>
     <td style="text-align: center"><img src="communities01.jpg" alt="Create Community Step 1"></td>
     </tr>
     <tr>
