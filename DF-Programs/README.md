@@ -98,7 +98,7 @@ Visit [Dubai Future Programs](https://programs.dubaifuture.gov.ae)
       <td style="text-align: center"><img src="editprofile01.JPG" alt="Edit-1"></td>
     </tr>
     <tr>
-      <td style="text-align: left"><p><b>Step 2:</b></p>You will get redirected to FUTURE ID, where you can edit your profile.</td>
+      <td style="text-align: left"><p><b>Step 2:</b></p>You will get directed to FUTURE ID, where you can edit your profile.</td>
       <td style="text-align: center"><img src="editprofile02.JPG" alt="Edit-2"></td>
     </tr>
   </tbody>
