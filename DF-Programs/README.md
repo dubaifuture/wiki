@@ -4,7 +4,7 @@
 * [WELCOME](#welcome)
 * [PROGRAMS](#programs)
 * [APPLICATION TO A PROGRAM](#application-to-a-program)
-* [EEDIT PROFILE](#edit-profile)
+* [EDIT PROFILE](#edit-profile)
 * [PROGRAM OWNER](#program-owner)
 * [CREATE PROGRAM](#create-a-program)
 * [ONBOARDING STAGE](#onboarding-stage)
