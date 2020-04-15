@@ -42,7 +42,7 @@ ALIA is a smart assistant chatbot, where you can easily book a room for a specif
     <td style="text-align: center"><img src="alia01.jpg" alt="Alia Step 2"></td>
     </tr>
     <tr>
-    <td style="text-align: left"><p><b>Step 3:</b></p>Now you can start to book a room by writing to the Chatbot ALIA "I want to book a room now".</td>
+    <td style="text-align: left"><p><b>Step 3:</b></p>Now you can start to book a room by writing to the Chatbot ALIA "I want to book a room".**Please wirte down options for booking a room. something like: You can ask ALIA in different formats to book a room. Like: 1. book a room tomorrow at 11am, .....**</td>
     <td style="text-align: center"><img src="alia02.jpg" alt="Alia Step 3"></td>
     </tr>
   </tbody>
