@@ -4,15 +4,14 @@
 * [WELCOME](#welcome)
 * [PROGRAMS](#programs)
 * [APPLICATION TO A PROGRAM](#application-to-a-program)
-* [EEDIT PROFILE](#edit-profile)
+* [EDIT PROFILE](#edit-profile)
 * [PROGRAM OWNER](#program-owner)
-* [LOGIN TO A PLATFORM](#login-to-a-platform)
 * [CREATE PROGRAM](#create-a-program)
 * [ONBOARDING STAGE](#onboarding-stage)
 * [REVIEW APPLICATION](#review-applications)
 * [FREQUENTLY ASKED QUESTIONS](#frequently-asked-questions)
 
-## WELCOME
+## WELCOME <br>
 
 Dubai Future Programs is an open platform for innovation. It stands to its name as it helps both corporate and public sectors get access and connect with creative entrepreneurs and unique startups to co-create the future.
 
@@ -20,21 +19,21 @@ Working closely with technology leaders in the region and internationally, allow
 
 Helping governments, and industry leaders navigate and address complex technology challenges through a number of programs that connect startups to develop solutions to real challenges. Startups work with government and industry partners to understand identified problems. Through a streamlined process, startups develop solutions with an expedited pathway to implementation.
 
-#### PROGRAMS <br>
+### PROGRAMS <br>
 
-* Use Cases
+**Use Cases**
 
 Learn firsthand the application of cutting-edge technologies like artificial intelligence and robotics, 3D printing, and new business models and best practices
 
-* Access to Startups
+**Access to Startups**
 
 Get unique access to startups that are changing the landscape of technology.
 
-* Build Relationships
+**Build Relationships**
 
 Engage with public sector leaders and civic entrepreneurs bringing new, innovative technologies to the public sector to drive impact in government.
 
-#### APPLICATION TO A PROGRAM <br>
+## APPLICATION TO A PROGRAM <br>
 
 Visit [Dubai Future Programs](https://programs.dubaifuture.gov.ae)
 

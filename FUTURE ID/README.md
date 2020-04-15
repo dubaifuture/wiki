@@ -1,16 +1,15 @@
 # FUTURE ID
-#### Table of contents
+#### TABLE OF CONTENTS
 
-* [Welcome](#welcome)
-* [Create an account](#create-an-account)
-* [Create an organisation](#create-an-organisation)
-* [Remove a specific device](#remove-a-specific-device)
-* [Share your contact via QR Code](#share-your-contact-via-qr-code)
-* [Login to a platform](#login-to-a-platform)
-* [User Manual](#user-manual)
-* [Frequently Asked Questions](#frequently-asked-questions)
+* [WELCOME](#welcome)
+* [CREATE AN ACCOUNT](#create-an-account)
+* [CREATE AN ORGANISATION](#create-an-organisation)
+* [REMOVE A SPECIFIC DEVICE](#remove-a-specific-device)
+* [SHARE YOUR CONTACT VIA QR CODE](#share-your-contact-via-qr-code)
+* [USER MANUAL](#user-manual)
+* [FREQUENTLY ASKED QUESTIONS](#frequently-asked-questions)
 
-## Welcome
+## WELCOME <br>
 
 FUTURE ID is a Single Sign-On (SSO) and Profile Management Service owned and operated by the Dubai Future Foundation. It allows startups, entrepreneurs, academics, researchers, scientists, and the general public to securely and conveniently access a variety of our services.
 
@@ -20,84 +19,197 @@ With a FUTURE ID, you can conveniently access the following platforms:
 * [AREA 2071](https://area2071.ae/app)
 * [UAE Regulations Lab](https://apply.reglab.ae)
 
-(More platforms will be added to this list over time.)
 
-#### CREATE AN ACCOUNT <br>
+## CREATE AN ACCOUNT <br>
 
-* Visit [https://id.dubaifuture.gov.ae](https://id.dubaifuture.gov.ae)
+Visit [https://id.dubaifuture.gov.ae](https://id.dubaifuture.gov.ae)
 
-|||
-| ------------- |:-------------:|
-| Click on "Register" and complete your profile      | ![Create Account Step 1](createaccount01.JPG) |
-| Insert your email address and agree with the Terms and Conditions and Privacy Policy. | ![Create Account Step 2](createaccount02.jpg)      |   
-| Insert a new password and agree with the Terms and Conditions and Privacy Policy. | ![Create Account Step 3](createaccount03.jpg)      |   
-| Enter the verification code which was sent to your email adress. If you didn't get an email yet, click on "Resend Email".| ![Create Account Step 4](createaccount04.jpg)     |
-| Go to dashboard. | |
+<table>
+  <thead>
+  </thead>
+  <tbody>
+    <tr>
+      <tr><td colspan="3"><b>Login/Register</b></td>      
+    </tr>
+    <tr>
+      <td style="text-align: left"><p><b>Step 1:</b></p>Click on "register" and complete your profile.</td>
+      <td style="text-align: center"><img src="createaccount01.JPG" alt="Create Account Step 1"></td>
+    </tr>
+    <tr>
+    <td style="text-align: left"><p><b>Step 2:</b></p>Insert your email address and agree with the Terms & Conditions and Privacy Policy.</td>
+    <td style="text-align: center"><img src="createaccount02.JPG" alt="Create Account Step 2"></td>
+    </tr>
+    <tr>
+    <td style="text-align: left"><p><b>Step 3:</b></p>Insert a new password and agree with the Terms & Conditions and Privacy Policy.</td>
+    <td style="text-align: center"><img src="createaccount03.JPG" alt="Create Account Step 3"></td>
+    </tr>
+    <tr>
+    <td style="text-align: left"><p><b>Step 4:</b></p>Enter the verification code which was sent to your email adress. If you didn't get an email yet, click on "Resend Email".</td>
+    <td style="text-align: center"><img src="createaccount04.JPG" alt="Create Account Step 4"></td>
+    </tr>
+    <tr>
+      <tr><td colspan="3">Go to dashboard.</td>      
+    </tr>
+  </tbody>
+</table>
 
-#### CREATE AN ORGANISATION <br>
+## CREATE AN ORGANISATION <br>
 
-* Visit [https://id.dubaifuture.gov.ae](https://id.dubaifuture.gov.ae)
-* Click on "Login/Register":
+Click on "Login/Register":
+  * If you're already signed in with FUTURE ID, you'll automatically be logged in.
+  * If you're not signed in with FUTURE ID, you'll be redirected to FUTURE ID to sign in.
+   
+<table>
+  <thead>
+  </thead>
+  <tbody>
+    <tr>
+        <tr><td colspan="3"><b>Login/Register </b></td>      
+      </tr>
+      <tr>
+        <tr><td colspan="3"><b>Create an Organisation</b></td>      
+      </tr>
+      <tr>
+        <td style="text-align: left"><p><b>Step 1:</b></p>Click on "ADD ORGANISATION" after finishing with "Login/Register".</td>
+        <td style="text-align: center"><img src="createorganisation01.JPG" alt="Create Organisation Step 1"></td>
+      </tr>
+      <tr>
+      <td style="text-align: left"><p><b>Step 2:</b></p>Insert your Organisation/Company Name.</td>
+      <td style="text-align: center"><img src="createorganisation02.JPG" alt="Create Organisation Step 2"></td>
+      </tr>
+      <tr>
+      <td style="text-align: left"><p><b>Step 3:</b></p>Upload your logo by uploading an image either via drag & drop or browse your files.</td>
+      <td style="text-align: center"><img src="createorganisation03.JPG" alt="Create Organisation Step 3"></td>
+      </tr>
+      <tr>
+      <td style="text-align: left"><p><b>Step 4:</b></p>Insert a short description of your organisation with maximum 200 letters.</td>
+      <td style="text-align: center"><img src="createorganisation04.JPG" alt="CreateOrganisation Step 4"></td>
+      </tr>
+      <tr>
+        <td style="text-align: left"><p><b>Step 5:</b></p>Insert a long description of your organisation with maximum 1000 letters.</td>
+        <td style="text-align: center"><img src="createorganisation05.JPG" alt="Create Organisation Step 5"></td>
+      </tr>
+      <tr>
+      <td style="text-align: left"><p><b>Step 6:</b></p>Insert your company's website URL.</td>
+      <td style="text-align: center"><img src="createorganisation06.JPG" alt="Create Organisation Step 6"></td>
+      </tr>
+      <tr>
+      <td style="text-align: left"><p><b>Step 7:</b></p>Insert your social media URL.</td>
+      <td style="text-align: center"><img src="createorganisation07.JPG" alt="Create Organisation Step 7"></td>
+      </tr>
+      <tr>
+      <td style="text-align: left"><p><b>Step 8:</b></p>Insert your location by typing your city and country. (e.g. Munich, Germany)</td>
+      <td style="text-align: center"><img src="createorganisation08.JPG" alt="CreateOrganisation Step 8"></td>
+      </tr>
+      <tr>
+      <td style="text-align: left"><p><b>Step 9:</b></p>Choose your core business between "Physical Product", "Consulting" and "Software".</td>
+      <td style="text-align: center"><img src="createorganisation09.JPG" alt="Create Organisation Step 9"></td>
+      </tr>
+      <tr>
+      <td style="text-align: left"><p><b>Step 10:</b></p>Add Tags here.</td>
+      <td style="text-align: center"><img src="createorganisation10.JPG" alt="Create Organisation Step 10"></td>
+      </tr>
+      <tr>
+      <td style="text-align: left"><p><b>Step 11:</b></p>Add the number of full time employees working in your organisation/company.</td>
+      <td style="text-align: center"><img src="createorganisation11.JPG" alt="CreateOrganisation Step 11"></td>
+      </tr>
+      <tr>
+        <td style="text-align: left"><p><b>Step 12:</b></p>Insert the incorporation date.</td>
+        <td style="text-align: center"><img src="createorganisation12.JPG" alt="Create Organisation Step 12"></td>
+      </tr>
+      <tr>
+      <td style="text-align: left"><p><b>Step 13:</b></p>Choose your current market stage between "Idea", "Prototype", "Ready for Market" and "Product in Market". </td>
+      <td style="text-align: center"><img src="createorganisation13.JPG" alt="Create Organisation Step 13"></td>
+      </tr>
+      <tr>
+      <td style="text-align: left"><p><b>Step 14:</b></p>Choose your funding type between "Self-Funded", "External Investment" and "Revenue".</td>
+      <td style="text-align: center"><img src="createorganisation14.JPG" alt="Create Organisation Step 14"></td>
+      </tr>
+      <tr>
+      <td style="text-align: left"><p><b>Step 15:</b></p>Insert Members by adding their email address. Make them either to a member or to an admin.</td>
+      <td style="text-align: center"><img src="createorganisation15.JPG" alt="CreateOrganisation Step 15"></td>
+      </tr>
+      <tr>
+        <tr><td colspan="3">Go to dashboard.</td>      
+      </tr>
+    </tbody>
+  </table>
+
+
+
+## REMOVE A SPECIFIC DEVICE <br>
+
+Click on "Login/Register":
   * If you're already signed in with FUTURE ID, you'll automatically be logged in.
   * If you're not signed in with FUTURE ID, you'll be redirected to FUTURE ID to sign in.
 
-  |||
-  | ------------- |:-------------:|
-  | Click on "ADD ORGANISATION" after finishing with "Login/Register".     | ![Create Organisation Step 1](createorganisation01.jpg)|
-  | Insert your Organisation/Company Name. | ![Create Organisation Step 2](createorganisation02.jpg)|   
-  | Upload your logo by uploading an image either via drag & drop or browse your files.  | ![Create Organisation Step 3](createorganisation03.jpg)|   
-  | Insert a short description of your organisation with maximum 200 letters.| ![Create Organisation Step 4](createorganisation04.jpg)|
-  | Insert a long description of your organisation with maximum 1000 letters.  | ![Create Organisation Step 5](createorganisation05.jpg)|
-  | Insert your company website URL.| ![Create Organisation Step 6](createorganisation06.jpg)|
-  | Insert your Social Media URL. | ![Create Organisation Step 7](createorganisation07.jpg)|  
-  | Insert your location by typing your city and country. (e.g. Munich, Germany)  | ![Create Organisation Step 8](createorganisation08.jpg)|
-  | Choose your core business between "Physical Product", "Consulting" and "Software".  | ![Create Organisation Step 9](createorganisation09.jpg)|
-  | Add Tags here.  | ![Create Organisation Step 10](createorganisation10.jpg)|
-  | Add the number of full time employees working in your organisation/company.  | ![Create Organisation Step 11](createorganisation11.jpg)|
-  | Insert the incorporation date.  | ![Create Organisation Step 12](createorganisation12.jpg)|
-  | Choose your current market stage between "Idea", "Prototype", "Ready for Market" and "Product in Market".  | ![Create Organisation Step 13](createorganisation13.jpg)|
-  | Choose your funding type between "Self-Funded", "External Investment" and "Revenue".  | ![Create Organisation Step 14](createorganisation14.jpg)|
-  | Insert Members by adding their email address. Make them either to a member or to an admin. | ![Create Organisation Step 15](createorganisation15.jpg)|
-  | Go back to dashboard. | |
+<table>
+  <thead>
+  </thead>
+    <tbody>
+    <tr>
+      <tr><td colspan="3"><b>Login/Register</b></td>      
+    </tr>
+    <tr>
+      <td style="text-align: left"><p><b>Step 1:</b></p>Click on the hamburger button in the top right corner.</td>
+      <td style="text-align: center"><img src="removedevice01.JPG" alt="Remove Device Step 1"></td>
+    </tr>
+    <tr>
+    <td style="text-align: left"><p><b>Step 2:</b></p>Click on "GO TO SETTINGS"</td>
+    <td style="text-align: center"><img src="removedevice02.JPG" alt="Remove Device Step 2"></td>
+    </tr>
+    <tr>
+    <td style="text-align: left"><p><b>Step 3:</b></p>Remove one of the devices listed below "DEVICES".</td>
+    <td style="text-align: center"><img src="removedevice03.JPG" alt="Remove Device Step 3"></td>
+    </tr>
+    <tr>
+    <td style="text-align: left"><p><b>Step 4:</b></p>Confirm by clicking "REMOVE DEVICE".</td>
+    <td style="text-align: center"><img src="removedevice04.JPG" alt="Remove Device Step 4"></td>
+    </tr>
+    <tr>
+    <td style="text-align: center" colspan="3"><img src="removedevice05.JPG" alt="Remove Device Step 5"></td>
+    </tr>
+    <tr>
+      <tr><td colspan="2">Go to dashboard.</td>      
+    </tr>
+  </tbody>
+</table>
 
-#### REMOVE A SPECIFIC DEVICE <br>
+## SHARE YOUR CONTACT VIA QR CODE <br>
 
-* Visit [https://id.dubaifuture.gov.ae](https://id.dubaifuture.gov.ae)
-* Click on "Login/Register":
+Visit [https://id.dubaifuture.gov.ae](https://id.dubaifuture.gov.ae) **on your smartphone**.
+
+Click on "Login/Register":
   * If you're already signed in with FUTURE ID, you'll automatically be logged in.
   * If you're not signed in with FUTURE ID, you'll be redirected to FUTURE ID to sign in.
 
-    |||
-    | ------------- |:-------------:|  
-    | Click on the hamburger button in the top right corner.  | ![Remove Device Step 1](removedevice01.jpg)|   
-    | Click on "GO TO SETTINGS"  | ![Remove Device Step 2](removedevice02.jpg)|   
-    | Remove one of the devices listed below "DEVICES".  | ![Remove Device Step 3](removedevice03.jpg)|   
-    | Confirm by clicking "REMOVE DEVICE".  | ![Remove Device Step 4](removedevice04.jpg)|   
-    | DONE | ![Remove Device Step 5](removedevice05.jpg)|      
-    | Go back to dashboard. | |
+<table>
+  <thead>
+  </thead>
+<tbody>
+  <tr>
+    <tr><td colspan="3"><b>Login/Register</b></td>      
+  </tr>
+  <tr>
+    <td style="text-align: left"><p><b>Step 1:</b></p>Click on the hamburger button in the top right corner.</td>
+    <td style="text-align: center"><img src="shareviaqrcode01.jpg" alt="Share Contact via QR Code Step 1"></td>
+  </tr>
+  <tr>
+  <td style="text-align: left"><p><b>Step 2:</b></p>Click on "SHARE YOUR PROFILE"</td>
+  <td style="text-align: center"><img src="shareviaqrcode02.jpg" alt="Share Contact via QR Code Step 2"></td>
+  </tr>
+  <tr>
+  <td style="text-align: left"><p><b>Step 3:</b></p>Share Contact via QR Code Step</td>
+  <td style="text-align: center"><img src="shareviaqrcode03.jpg" alt="Share Contact via QR Code Step 3"></td>
+  </tr>
+  <tr>
+    <tr><td colspan="2">Go to dashboard.</td>      
+  </tr>
+</tbody>
+</table>
 
-#### SHARE YOUR CONTACT VIA QR CODE <br>
-* Visit [https://id.dubaifuture.gov.ae](https://id.dubaifuture.gov.ae) on your smartphone.
-* Click on "Login/Register":
-  * If you're already signed in with FUTURE ID, you'll automatically be logged in.
-  * If you're not signed in with FUTURE ID, you'll be redirected to FUTURE ID to sign in.
 
-  |||
-  | ------------- |:-------------:|  
-  | Click on the hamburger button in the top right corner.  | ![Share Contact via QR Code 1](shareviaqrcode01.jpg)|   
-  | Click on "SHARE YOUR PROFILE"  | ![Share Contact via QR Code 2](shareviaqrcode02.jpg)|
-  | Now you can share the QR Code, which is shown on your display, with others.  | ![Share Contact via QR Code 3](shareviaqrcode03.jpg)|       
-  | Go back to dashboard. | |
-
-#### LOGIN TO A PLATFORM
-
-* Visit one of platforms listed above
-* Click on "Login/Register":
-  * If you're already signed in with FUTURE ID, you'll automatically be logged in.
-  * If you're not signed in with FUTURE ID, you'll be redirected to FUTURE ID to sign in.
-  ---
-
-## User Manual
+## USER MANUAL <br>
 
 #### Account Setup and Management
 
@@ -128,10 +240,10 @@ With a FUTURE ID, you can conveniently access the following platforms:
 
 ___
 
-## Frequently Asked Questions
+## FREQUENTLY ASKED QUESTIONS <br>
 
 * **Can anyone create a FUTURE ID?**<br>
   *Yes, anyone can create a FUTURE ID and access any of our platforms.*
 
-* **How is FUTURE ID different from other Single Sign-On (SSO) services?**
+* **How is FUTURE ID different from other Single Sign-On (SSO) services?**<br>
   *FUTURE ID gives you access to platforms owned and operated by Dubai Future Foundation. Creating a free account keeps you connected to our global ecosystem of entrepreneurs, startups, academics, researchers, and scientists, and gives you access to many of our programs such as AREA 2071 and Dubai Future Accelerators.*
