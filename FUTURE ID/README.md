@@ -146,7 +146,7 @@ Click on "Login/Register":
 <table>
   <thead>
   </thead>
-  <tbody>
+    <tbody>
     <tr>
       <tr><td colspan="3"><b>Login/Register</b></td>      
     </tr>
@@ -186,8 +186,8 @@ Click on "Login/Register":
 <table>
   <thead>
   </thead>
-  <tbody>
-    <tr>
+<tbody>
+  <tr>
     <tr><td colspan="3"><b>Login/Register</b></td>      
   </tr>
   <tr>
