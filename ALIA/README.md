@@ -76,14 +76,16 @@ ALIA is a smart assistant chatbot, where you can easily book a room for a specif
     * *I want to book Huddle*<br>
     * *I want to book a room in one week*<br>
     * *I want to book a room for 5 people*<br>
-    * *I want to book a room for one person*<br>
-<br>
+    * *I want to book a room for one person*<br><br>
+
+
 * **I need help with something**<br>
     * *You can easily book a room by starting a conversation with "Hey Alia" and afterwards use one of the following example queries:*<br>
     * *I need help with [something]*<br>
     * *I need someone to help me on [something]*<br>
-    * *Who should I contact about [something]*<br>
-<br>
+    * *Who should I contact about [something]*<br><br>
+
+
 * **I don´t have the permissions to book a room and how can I get them?**<br>
     *Please contact an administrator*<br>
 
