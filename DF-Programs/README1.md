@@ -199,4 +199,10 @@ Visit [Dubai Future Programs](https://programs.dubaifuture.gov.ae)
   </tbody>
 </table>
 
+## USER MANUAL <br>
+
+#### TODO
+
+* [TODO](link.md)
+
 ## FREQUENTLY ASKED QUESTIONS <br>
