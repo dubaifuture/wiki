@@ -6,6 +6,7 @@
 * [SUBMIT AN APPLICATION](#submit-an-application)
 * [REVIEW](#review)
 * [REVIEW AN APPLICATION](#review-an-application)
+* [USER MANUAL](#user-manual)
 * [FREQUENTLY ASKED QUESTIONS](#frequently-asked-questions)
 
 ## WELCOME <br>
@@ -14,18 +15,18 @@ The startup ecosystem in the United Arab Emirates has progressed at an unprecede
 
 ## APPLICATION <br>
 
-**1. APPLY FOR NOMINATION** :memo:
+**1. APPLY FOR NOMINATION** 
 
 Start by applying for nomination. Your application will be reviewed by an authorised government incubator
 within 30 days and you will receive an email notifying you of the outcome.
 
 
-**2. UPLOAD DOCUMENTS** :cloud:
+**2. UPLOAD DOCUMENTS** 
 
 Once your nomination has been approved, you will receive a link through email to upload the required
 documents for the visa.
 
-**3. RECEIVE YOUR VISA** :page_facing_up:
+**3. RECEIVE YOUR VISA**
 
 Your application will be verified by the Federal Authority for Identity and Citizenship, and you will
 receive your visa.
@@ -136,12 +137,15 @@ Visit [https://business.goldenvisa.ae](https://business.goldenvisa.ae/)
       <td style="text-align: left"><p><b>Step 4:</b></p>If you decide to reject an application, you have to approve your rejection twice. </td>
       <td style="text-align: center"><img src="review03.JPG" alt="Review-3"></td>
     </tr>
-        <tr>
-      <td style="text-align: left"><p><b>Step 5:</b></p>On the bottom left you can move applications between different gates. </td>
-      <td style="text-align: center"><img src="review04.jpg" alt="Review-4"></td>
-    </tr>
   </tbody>
 </table>
+
+## USER MANUAL <br>
+
+#### TODO
+
+* [TODO](link.md)
+
 
 ## FREQUENTLY ASKED QUESTIONS <br>
 
