@@ -64,7 +64,7 @@ ALIA is a smart assistant chatbot, where you can easily book a room for a specif
 
 ## USER MANUAL <br>
 
-#### Account Setup and Management
+#### TODO
 
 * [TODO Question?](link.md)
 
