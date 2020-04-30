@@ -177,7 +177,8 @@ Click on "Login/Register":
 
 ## SHARE YOUR CONTACT VIA QR CODE <br>
 
-Visit [https://id.dubaifuture.gov.ae](https://id.dubaifuture.gov.ae) **on your smartphone**.
+Visit [https://id.dubaifuture.gov.ae](https://id.dubaifuture.gov.ae) **on your smartphone.**
+**It is essential to use a smartphone, because the QR code is only available on mobile devices!**
 
 Click on "Login/Register":
   * If you're already signed in with FUTURE ID, you'll automatically be logged in.
@@ -247,3 +248,6 @@ ___
 
 * **How is FUTURE ID different from other Single Sign-On (SSO) services?**<br>
   *FUTURE ID gives you access to platforms owned and operated by Dubai Future Foundation. Creating a free account keeps you connected to our global ecosystem of entrepreneurs, startups, academics, researchers, and scientists, and gives you access to many of our programs such as AREA 2071 and Dubai Future Accelerators.*
+
+* **What is the meaning of the blue pulsating animation around the icons?**<br>
+  *The reason of the blue pulsating animation around the icons is to navigate you through the registration. It basically gives the user a guideline what is still to do to finish the registration.*
