@@ -5,6 +5,7 @@
 * [ROOMBOKING](#roombooking)
 * [BOOK A ROOM](#book-a-room)
 * [MANAGE BOOKINGS](#manage-bookings)
+* [USER MANUAL](#user-manual)
 * [FREQUENTLY ASKED QUESTIONS](#frequently-asked-questions)
 
 ## WELCOME <br>
@@ -60,6 +61,14 @@ ALIA is a smart assistant chatbot, where you can easily book a room for a specif
     </tr>
   </tbody>
 </table>
+
+## USER MANUAL <br>
+
+#### Account Setup and Management
+
+* [TODO Question?](link.md)
+
+
 
 ## FREQUENTLY ASKED QUESTIONS <br>
 
