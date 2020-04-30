@@ -7,6 +7,7 @@
 * [ADD MEMBERS TO A COMMUNITY](#add-members-to-a-community)
 * [CREATE EVENTS](#create-events)
 * [CREATE UPDATES](#create-updates)
+* [USER MANUAL](#user-manual)]
 * [FREQUENTLY ASKED QUESTIONS](#frequently-asked-questions)
 
 ## WELCOME <br>
