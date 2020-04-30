@@ -184,5 +184,13 @@ Join a community or create your own, and begin co-creating with like-minded indi
   </tbody>
 </table>
 
+## USER MANUAL <br>
+
+#### TODO
+
+* [TODO](link.md)
+
+___
+
 ## FREQUENTLY ASKED QUESTIONS <br>
 ** How can I mark a community as favourite? ** 
