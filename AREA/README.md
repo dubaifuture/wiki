@@ -43,11 +43,11 @@ Join a community or create your own, and begin co-creating with like-minded indi
     <td style="text-align: center"><img src="smartmenu03.jpg" alt="Smart Menu"></td>
     </tr>
     <tr>
-    <td style="text-align: left"><p><b>Step 3:</b></p>Click on the community icon, which you can find in the bottom bar. Afterwards swipe up smart screen**slider** and click on "Create".</td>
+    <td style="text-align: left"><p><b>Step 3:</b></p>Click on the community icon, which you can find in the bottom bar. Afterwards swipe up smart screen and click on "Create".</td>
     <td style="text-align: center"><img src="communities01.jpg" alt="Create Community Step 1"></td>
     </tr>
     <tr>
-    <td style="text-align: left"><p><b>Step 3:</b></p>Fill out the required fields "Title", "Location", "Details" and "Tags" and decide if you want to make your new community either public or private. Afterwards upload an image as your Community banner.</td>
+    <td style="text-align: left"><p><b>Step 3:</b></p>Upload an image as your Community banner, fill out the required fields "Title", "Location", "Details" and "Tags" and decide if you want to make your new community either public or private.</td>
     <td style="text-align: center"><img src="createcommunity02.jpg" alt="Create Community Step 1"></td>
     </tr>
     <tr>
@@ -55,7 +55,7 @@ Join a community or create your own, and begin co-creating with like-minded indi
     <td style="text-align: center"><img src="createcommunity03.jpg" alt="Create Community Step 2"></td>
     </tr>
     <tr>
-    <td style="text-align: left"><p><b></b></p>You can find your new community under "MY COMMUNITIES" Ü**and if you want, you can mark them as your favourite one".</td>
+    <td style="text-align: left"><p><b></b></p>You can find your new community under "MY COMMUNITIES" and if you want, you can mark them as your favourite one.</td>
     <td style="text-align: center"><img src="createcommunity04.jpg" alt="Create Community Step 3"></td>
     </tr>
   </tbody>
