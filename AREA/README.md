@@ -19,12 +19,15 @@ Join a community or create your own, and begin co-creating with like-minded indi
 
 ## USER MANUAL <br>
 
+#### CREATE
+
+* [CREATE COMMUNITIES](createcommunities.md)
+* [CREATE UPDATES](createupdates.md)
+* [CREATE EVENTS](createevents.md)
+
 #### ORGANIZATIONS
 
-* [CREATE UPDATES](createupdates.md)
-* [CREATE COMMUNITIES](createcommunities.md)
 * [EDIT COMMUNITIES](editcommunities.md)
-* [CREATE EVENTS](createevents.md)
 * [ADD MEMBERS TO A COMMUNITY](addmemberstoacummunity.md)
 
 
