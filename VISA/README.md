@@ -12,7 +12,7 @@ The startup ecosystem in the United Arab Emirates has progressed at an unprecede
 
 ## USER MANUAL <br>
 
-#### TODO
+#### ORGANIZATIONS
 
 * [APPLICATION](application.md)
 * [SUBMIT AN APPLICATION](submitanapplication.md)
