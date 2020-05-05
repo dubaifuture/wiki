@@ -212,14 +212,14 @@ Click on "Login/Register":
 
 ## USER MANUAL <br>
 
-#### Account Setup and Management
+#### ACCOUNT SETUP AND MANAGEMENT
 
 * [How do I create a FUTURE ID?](link.md)
 * [How do I fill out and manage my profile?](link.md)
 * [Which fields are mandatory and which are optional?](link.md)
 * [How can I share my profile with others?](link.md)
 
-#### Organizations
+#### ORGANIZATIONS
 
 * [How do I create an organization?](link.md)
 * [How can I add members to my organization?](link.md)
@@ -227,13 +227,13 @@ Click on "Login/Register":
 * [How can I delete my organization?](link.md)
 * [What information is private and what is public?](link.md)
 
-#### Account Security
+#### ACCOUNT SECURITY
 
 * [How do I turn on Two-Factor Authentication for additional security?](link.md)
 * [How do I view and manage the devices currently logged into my account?](link.md)
 * [I received an email with a sign-in notification. What is this?](link.md)
 
-#### Logging Into Platforms
+#### LOGGING INTO PLATFORMS
 
 * [How do I login to a platform with my FUTURE ID?](link.md)
 * [How do I see which platforms have access to my data?](link.md)
