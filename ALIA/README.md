@@ -3,8 +3,6 @@
 
 * [WELCOME](#welcome)
 * [ROOMBOKING](#roombooking)
-* [BOOK A ROOM](#book-a-room)
-* [MANAGE BOOKINGS](#manage-bookings)
 * [USER MANUAL](#user-manual)
 * [FREQUENTLY ASKED QUESTIONS](#frequently-asked-questions)
 
@@ -14,7 +12,6 @@ Use your very own personal assistant to book meeting rooms at AREA 2071, or find
 ## ROOMBOKING <br>
 
 ALIA is a smart assistant chatbot, where you can easily book a room for a specific time and a certain amount of people.
-
 
 
 ## USER MANUAL <br>
