@@ -2,11 +2,6 @@
 #### TABLE OF CONTENTS
 * [WELCOME](#welcome)
 * [COMMUNITIES](#communities)
-* [CREATE COMMUNITIES](#create-communities)
-* [EDIT COMMUNITIES](#edit-communities)
-* [ADD MEMBERS TO A COMMUNITY](#add-members-to-a-community)
-* [CREATE EVENTS](#create-events)
-* [CREATE UPDATES](#create-updates)
 * [USER MANUAL](#user-manual)
 * [FREQUENTLY ASKED QUESTIONS](#frequently-asked-questions)
 
@@ -21,136 +16,16 @@ AREA 2071 is a project managed by the Dubai Future Foundation in alignment with 
 
 Join a community or create your own, and begin co-creating with like-minded individuals from across our ecosystem.
 
-## CREATE COMMUNITIES <br>
-
-<table>
-  <thead>
-  </thead>
-  <tbody>
-    <tr>
-      <tr><td colspan="3"><b>Open the AREA 2071 Application on your smartphone.</b></td>      
-    </tr>
-    <tr>
-      <td style="text-align: left"><p><b>Step 1:</b></p>Continue with FUTURE ID.</td>
-      <td style="text-align: center"><img src="connectwithfutureid.jpg" alt="Connect with future id"></td>
-    </tr>
-    <tr>
-    <td style="text-align: left"><p><b>Step 2:</b></p>If you can see this page page, you have successfully logged in.</td>
-    <td style="text-align: center"><img src="landingpage.jpg" alt="Landing Page"></td>
-    </tr>
-    <tr>
-    <td style="text-align: left"><p><b>Smart Screen</b></p>Swipe up on any screen to expose a menu of special options for the screen that you're on.</td>
-    <td style="text-align: center"><img src="smartmenu03.jpg" alt="Smart Menu"></td>
-    </tr>
-    <tr>
-    <td style="text-align: left"><p><b>Step 3:</b></p>Click on the community icon, which you can find in the bottom bar. Afterwards swipe up smart screen and click on "Create".</td>
-    <td style="text-align: center"><img src="communities01.jpg" alt="Create Community Step 1"></td>
-    </tr>
-    <tr>
-    <td style="text-align: left"><p><b>Step 3:</b></p>Upload an image as your Community banner, fill out the required fields "Title", "Location", "Details" and "Tags" and decide if you want to make your new community either public or private.</td>
-    <td style="text-align: center"><img src="createcommunity02.jpg" alt="Create Community Step 1"></td>
-    </tr>
-    <tr>
-    <td style="text-align: left"><p><b></b></p>Success. You have created a new community!</td>
-    <td style="text-align: center"><img src="createcommunity03.jpg" alt="Create Community Step 2"></td>
-    </tr>
-    <tr>
-    <td style="text-align: left"><p><b></b></p>You can find your new community under "MY COMMUNITIES" and if you want, you can mark them as your favourite one.</td>
-    <td style="text-align: center"><img src="createcommunity04.jpg" alt="Create Community Step 3"></td>
-    </tr>
-  </tbody>
-</table>
-
-## EDIT COMMUNITIES <br>
-
-<table>
-  <thead>
-  </thead>
-  <tbody>
-    <tr>
-    <tr><td colspan="3"><b>Open the AREA 2071 Application on your smartphone.</b></td>      
-    </tr>
-    <tr>
-    <td style="text-align: left"><p><b>Step 1:</b></p>Click on the community icon, which you can find in the bottom bar and choose your community you want to edit.</td>
-    <td style="text-align: center"><img src="createcommunity04.jpg" alt="Edit Community Step 1"></td>
-    </tr>
-    <tr>
-    <td style="text-align: left"><p><b>Step 2:</b></p>Click on the edit button on the top left, below the star.</td>
-    <td style="text-align: center"><img src="editcommunity01.jpg" alt="Edit Community Step 2"></td>
-    </tr>
-    <tr>
-    <td style="text-align: left"><p><b>Step 3:</b></p>Edit your Community. Afterwards click "UPDATE COMMUNITY".</td>
-    <td style="text-align: center"><img src="editcommunity02.jpg" alt="Edit Community Step 3"></td>
-    </tr>
-  </tbody>
-</table>
-
-## ADD MEMBERS TO A COMMUNITY <br>
-
-<table>
-  <thead>
-  </thead>
-  <tbody>
-    <tr>
-      <tr><td colspan="3"><b>Open the AREA 2071 Application on your smartphone.</b></td>      
-    </tr>
-    <tr>
-    <td style="text-align: left"><p><b>Step 1:</b></p>Click on the Community icon, which you can find in the bottom bar.</td>
-    <td style="text-align: center"><img src="createcommunity04.jpg" alt="Edit Community Step 1"></td>
-    </tr>
-    <tr>
-    <td style="text-align: left"><p><b>Step 2:</b></p>Choose the Community you want to add members and click on "MORE".</td>
-    <td style="text-align: center"><img src="editcommunity01.jpg" alt="Edit Community Step 2"></td>
-    </tr>
-    <tr>
-    <td style="text-align: left"><p><b>Step 3:</b></p>Search for members and add them to your Community.</td>
-    <td style="text-align: center"><img src="addmembers.jpg" alt="Add Members"></td>
-    </tr>
-    </tbody>
-</table>
-
-## CREATE EVENTS <br>
-
-<table>
-  <thead>
-  </thead>
-  <tbody>
-    <tr>
-    <tr><td colspan="3"><b>Open the AREA 2071 Application on your smartphone.</b></td>      
-    </tr>
-    <tr>
-    <td style="text-align: left"><p><b>Step 1:</b></p>Click on the community icon, which you can find in the bottom bar.</td>
-    <td style="text-align: center"><img src="createcommunity04.jpg" alt="Create Community Step 3"></td>
-    </tr>
-    <tr>
-    <td style="text-align: left"><p><b>Smart Screen</b></p>Swipe up on any screen to expose a menu of special options for the screen that you're on.</td>
-    <td style="text-align: center"><img src="smartmenu03.jpg" alt="Smart Menu"></td>
-    </tr>
-    <tr>
-    <td style="text-align: left"><p><b>Step 2:</b></p>Swipe up Smart Screen and click on "Event".</td>
-    <td style="text-align: center"><img src="createevent01.jpg" alt="Create Event Step 1"></td>
-    </tr>
-    <tr>
-    <td style="text-align: left"><p><b>Step 3:</b></p>Upload an image as your Event banner and fill out the required fields "Title", "Date", "Location", "Details" and "Tags".</td>
-    <td style="text-align: center"><img src="createevent02.jpg" alt="Create Event Step 2"></td>
-    </tr>
-    <tr>
-    <td style="text-align: left"><p><b>Step 4:</b></p>Afterwards click on the button "CREATE EVENT".</td>
-    <td style="text-align: center"><img src="createevent05.jpg" alt="Create Event Step 5"></td>
-    </tr>
-    <tr>
-    <td style="text-align: left"><p><b></b></p>Success. You have created a new Event!</td>
-    <td style="text-align: center"><img src="createevent06.jpg" alt="Create Event Step 6"></td>
-    </tr>
-  </tbody>
-</table>
-
 
 ## USER MANUAL <br>
 
 #### ORGANIZATIONS
 
 * [CREATE UPDATES](createupdates.md)
+* [CREATE COMMUNITIES](createcommunities.md)
+* [EDIT COMMUNITIES](editcommunities.md)
+* [CREATE EVENTS](createevents.md)
+* [ADD MEMBERS TO A COMMUNITY](addmemberstoacummunity.md)
 
 
 ## FREQUENTLY ASKED QUESTIONS <br>
