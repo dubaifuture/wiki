@@ -24,7 +24,7 @@ Visit [https://reglab.gov.ae](https://reglab.gov.ae/)
     </tr>
     <tr>
     <td style="text-align: left"><p><b>Step 5:</b></p>Furthermore add informations to your Company profile like "Target Market", "Are you a UAE-based organization?", "Are you a fortune 500 company?" and optional you can add tags, facebook, linkedin, twitter and members. .</td>
-    <td style="text-align: center"><img src="application02.JPG" alt="Apply Step 5></td>
+    <td style="text-align: center"><img src="application02.JPG" alt="Apply Step 5"></td>
     </tr>
     <tr>
     <td style="text-align: left"><p><b>Step 6:</b></p>Insert Regulation requirements. Explain your current regulation challenge and answer the questions.</td>
