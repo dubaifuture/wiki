@@ -43,8 +43,8 @@ Visit [https://reglab.gov.ae](https://reglab.gov.ae/)
     <td style="text-align: center"><img src="application06.JPG" alt="Apply Step 9"></td>
     </tr>
     <tr>
-    <td style="text-align: left"><p><b>Step 10:</b></p>TEXT</td>
-    <td style="text-align: center"><img src="Here you can Test FID and submit your application." alt="Apply Step 10"></td>
+    <td style="text-align: left"><p><b>Step 10:</b></p>Here you can Test FID and submit your application.</td>
+    <td style="text-align: center"><img src="application07.JPG" alt="Apply Step 10"></td>
     </tr>
   </tbody>
 </table>
