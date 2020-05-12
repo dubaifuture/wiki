@@ -24,6 +24,7 @@ With a FUTURE ID, you can conveniently access the following platforms:
 * [CREATE AN ORGANIZATION](createanorganisation.md)
 * [EDIT DATA VALUES](editdatavalues.md)
 * [DELETE ACCOUNT](deleteaccount.md)
+* [COLLAPSE FID SECTIONS](collapsefidsections.md)
 
 #### ORGANIZATIONS
 
@@ -36,10 +37,6 @@ With a FUTURE ID, you can conveniently access the following platforms:
 #### ACCOUNT SECURITY
 
 * [ENABLE/DISABLE TWO-FACTOR AUTHENTICATION](twofactorauthentication.md)
-
-#### PLATFORMS
-
-* [COLLAPSE FUTURE ID SECTION](collapsefutureidsection.md)
 
 
 ___
