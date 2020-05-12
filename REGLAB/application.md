@@ -16,7 +16,11 @@ Visit [https://reglab.gov.ae](https://reglab.gov.ae/)
     </tr>
     <tr>
     <td style="text-align: left"><p><b>Step 3:</b></p>Choose an Organisation with which you want to apply.</td>
-    <td style="text-align: center"><img src="howtoapply03.JPG" alt="Apply Step 3"></td>
+    <td style="text-align: center"><img src="application00.JPG" alt="Apply Step 3"></td>
+    </tr>
+     <tr>
+    <td style="text-align: left"><p><b>Step 3:</b></p>TEXT</td>
+    <td style="text-align: center"><img src="application01.JPG" alt="Apply Step 3"></td>
     </tr>
   </tbody>
 </table>
