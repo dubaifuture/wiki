@@ -39,6 +39,12 @@ With a FUTURE ID, you can conveniently access the following platforms:
 * [ENABLE/DISABLE TWO-FACTOR AUTHENTICATION](twofactorauthentication.md)
 
 
+#### FUTURE ID ADMIN
+
+* [ADMIN IN GENERAL](admin.md)
+* [CHANGE A USER ROLE](changeauserrole.md)
+
+
 ___
 
 ## FREQUENTLY ASKED QUESTIONS <br>
