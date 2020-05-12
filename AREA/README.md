@@ -25,10 +25,34 @@ Join a community or create your own, and begin co-creating with like-minded indi
 * [CREATE UPDATES](createupdates.md)
 * [CREATE EVENTS](createevents.md)
 
+
 #### ORGANIZATIONS
 
 * [EDIT COMMUNITIES](editcommunities.md)
 * [ADD MEMBERS TO A COMMUNITY](addmemberstoacummunity.md)
+* [CREATIVE COLLISIONS](creativecollisions.md)
+* [DELETE BOOKINGS](deletebookings.md)
+* [CANCEL BOOKING PROCESS](cancelbookingprocess.md)
+* [LEAVE COMMUNITY](leavecommunity.md)
+* [DELETE COMMUNITY](deletecommunity.md)
+* [REPORT THINGS](reportthings.md)
+* [REMOVE A MEMBER FROM A COMMUNITY](removeamemberfromacommunity.md)
+* [MUTE CHAT](mutechat.md)
+* [SHARE ADMIN RIGHTS TO ANOTHER MEMBER IN A COMMUNITY](shareadminrightstoanothermemberinacommunity.md)
+
+
+#### AREA ADMING
+
+* [USER PAGE EXPLANATION](userpageexplanation.md)
+* [COMMUNITY PAGE EXPLANATION](communitypageexplanation.md)
+* [CREATING / EDITING NEWS VIA AREA ADMIN](creatingeditingnewsviaareaadmin.md)
+* [VERIFY ORGANISATIONS](verifyorganisations.md)
+* [REPORTS](reports.md)
+* [ADD / EDIT ROOMS](addeditrooms.md)
+* [CREATE ROOM GROUPS](createroomgroups.md)
+* [CREATE COMMUNITY UPDATES](createcommunityupdates.md)
+* [CREATE COMMUNITY EVENTS](createcommunityevents.md)
+
 
 
 ## FREQUENTLY ASKED QUESTIONS <br>
