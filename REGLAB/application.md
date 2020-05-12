@@ -15,27 +15,27 @@ Visit [https://reglab.gov.ae](https://reglab.gov.ae/)
     <td style="text-align: center"><img src="howtoapply02.JPG" alt="Apply Step 2"></td>
     </tr>
     <tr>
-    <td style="text-align: left"><p><b>Step 3:</b></p>Choose an Organisation with which you want to apply.</td>
+    <td style="text-align: left"><p><b>Step 3:</b></p>Choose an Organisation with which you want to apply and click "Start Application".</td>
     <td style="text-align: center"><img src="application00.JPG" alt="Apply Step 3"></td>
     </tr>
      <tr>
-    <td style="text-align: left"><p><b>Step 4:</b></p>TEXT</td>
+    <td style="text-align: left"><p><b>Step 4:</b></p>Add informationsto your Company profile like "Name of Company", "Location of Head Quarters", "Industry", "Technoloy Most-Closely Related to Business", "Years Active", "Primary Active", "Target Market", "Are you a UAE-based organization?", "Are you a fortune 500 company?" and optional you can add tags, facebook, linkedin, twitter and members. </td>
     <td style="text-align: center"><img src="application01.JPG" alt="Apply Step 3"></td>
     </tr>
      <tr>
-    <td style="text-align: left"><p><b>Step 5:</b></p>TEXT</td>
+    <td style="text-align: left"><p><b>Step 5:</b></p>Insert Regulation requirements. Explain your current regulation challenge and answer the questions.</td>
     <td style="text-align: center"><img src="application02.JPG" alt="Apply Step 3"></td>
     </tr>
      <tr>
-    <td style="text-align: left"><p><b>Step 6:</b></p>TEXT</td>
+    <td style="text-align: left"><p><b>Step 6:</b></p>Add informations to Justification and Premise.</td>
     <td style="text-align: center"><img src="application03.JPG" alt="Apply Step 3"></td>
     </tr>
      <tr>
-    <td style="text-align: left"><p><b>Step 7:</b></p>TEXT</td>
+    <td style="text-align: left"><p><b>Step 7:</b></p>This is your personal information provided and prefilled by your FUTURE ID data.</td>
     <td style="text-align: center"><img src="application04.JPG" alt="Apply Step 3"></td>
     </tr>
      <tr>
-    <td style="text-align: left"><p><b>Step 8:</b></p>TEXT</td>
+    <td style="text-align: left"><p><b>Step 8:</b></p>Optional you can add here a photo.</td>
     <td style="text-align: center"><img src="application05.JPG" alt="Apply Step 3"></td>
     </tr>
        <tr>
