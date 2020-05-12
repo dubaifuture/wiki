@@ -35,15 +35,15 @@ Visit [https://reglab.gov.ae](https://reglab.gov.ae/)
     <td style="text-align: center"><img src="application04.JPG" alt="Apply Step 3"></td>
     </tr>
      <tr>
-    <td style="text-align: left"><p><b>Step 3:</b></p>TEXT</td>
+    <td style="text-align: left"><p><b>Step 8:</b></p>TEXT</td>
     <td style="text-align: center"><img src="application05.JPG" alt="Apply Step 3"></td>
     </tr>
        <tr>
-    <td style="text-align: left"><p><b>Step 3:</b></p>TEXT</td>
+    <td style="text-align: left"><p><b>Step 9:</b></p>TEXT</td>
     <td style="text-align: center"><img src="application06.JPG" alt="Apply Step 3"></td>
     </tr>
        <tr>
-    <td style="text-align: left"><p><b>Step 3:</b></p>TEXT</td>
+    <td style="text-align: left"><p><b>Step 10:</b></p>TEXT</td>
     <td style="text-align: center"><img src="application07.JPG" alt="Apply Step 3"></td>
     </tr>
   </tbody>
