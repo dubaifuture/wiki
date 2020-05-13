@@ -1,4 +1,4 @@
-## CREATE AN ORGANISATION <br>
+## ADD ORGANISATION <br>
 
 Click on "Login/Register":
   * If you're already signed in with FUTURE ID, you'll automatically be logged in.
