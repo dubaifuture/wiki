@@ -16,6 +16,10 @@ AREA 2071 is a project managed by the Dubai Future Foundation in alignment with 
 
 Join a community or create your own, and begin co-creating with like-minded individuals from across our ecosystem.
 
+## CREATIVE COLLISIONS <br>
+
+Explanation.
+
 
 ## USER MANUAL <br>
 
@@ -30,13 +34,11 @@ Join a community or create your own, and begin co-creating with like-minded indi
 
 * [EDIT COMMUNITIES](editcommunities.md)
 * [ADD MEMBERS TO A COMMUNITY](addmemberstoacummunity.md)
-* [CREATIVE COLLISIONS](creativecollisions.md)
 * [DELETE BOOKING](deletebooking.md)
 * [LEAVE COMMUNITY](leavecommunity.md)
 * [DELETE COMMUNITY](deletecommunity.md)
 * [REMOVE A MEMBER FROM A COMMUNITY](removeamemberfromacommunity.md)
 * [MUTE CHAT](mutechat.md)
-* [SHARE ADMIN RIGHTS TO ANOTHER MEMBER IN A COMMUNITY](shareadminrightstoanothermemberinacommunity.md)
 
 
 #### AREA ADMIN
@@ -50,6 +52,7 @@ Join a community or create your own, and begin co-creating with like-minded indi
 * [CREATE ROOM GROUPS](createroomgroups.md)
 * [CREATE COMMUNITY UPDATES](createcommunityupdates.md)
 * [CREATE COMMUNITY EVENTS](createcommunityevents.md)
+* [SHARE ADMIN RIGHTS TO ANOTHER MEMBER IN A COMMUNITY](shareadminrightstoanothermemberinacommunity.md)
 
 
 
