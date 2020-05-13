@@ -10,7 +10,7 @@ Visit [https://dff-future-id-admin-develop.apps.moti.us](https://dff-future-id-a
       <tr><td colspan="3"><b>Login/Register.</b></td>
     </tr>
     <tr>
-    <td style="text-align: left"><p><b>USERS</b></p>Under the "USERS" tab you can change Roles between "Admin" and "User". You can see "Name", "E-Mail" and if an Account is "Validated". Furthermore you can "DELETE" Accounts here.</td>
+    <td style="text-align: left"><p><b>USERS</b></p>Here you can change Roles between "Admin" and "User". You can see "Name", "E-Mail" and if an Account is "Validated". Furthermore you can "DELETE" Accounts here.</td>
     <td style="text-align: center"><img src="adminingeneral01.JPG" alt="Admin in General 1"></td>
     </tr>
     <tr>
