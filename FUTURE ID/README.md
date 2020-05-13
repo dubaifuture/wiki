@@ -24,7 +24,7 @@ With a FUTURE ID, you can conveniently access the following platforms:
 * [CREATE AN ORGANIZATION](createanorganisation.md)
 * [EDIT DATA VALUES](editdatavalues.md)
 * [DELETE ACCOUNT](deleteaccount.md)
-* [COLLAPSE FID SECTIONS](collapsefidsections.md)
+* [COLLAPSE FID SECTION](collapsefidsection.md)
 
 #### ORGANIZATIONS
 
