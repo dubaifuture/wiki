@@ -20,7 +20,7 @@
     <td style="text-align: center"><img src="reportbug03.jpeg"{ width=50% } alt="Report Bug Step 3"></td>
     </tr>
     <tr>
-    <td style="text-align: left"><p><b></b></p>Your bug report has been filed.</td>
+    <tr><td colspan="3"><b>Your bug has been filed.</b></td>
     </tr>
     </tbody>
 </table>
