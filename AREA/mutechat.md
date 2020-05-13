@@ -9,7 +9,7 @@
     </tr>
     <tr>
     <td style="text-align: left"><p><b>Step 1:</b></p>Click on the Message icon, which you can find in the bottom bar.</td>
-    <td style="text-align: center"><img src="mutechat01.PNG"{ width=50% } alt="Mute Chat Step 1"></td>
+    <td style="text-align: center"><img src="mutechat01.png"{ width=50% } alt="Mute Chat Step 1"></td>
     </tr>
     <tr>
     <td style="text-align: left"><p><b>Step 2:</b></p>Choose the chat you want to mute.</td>
