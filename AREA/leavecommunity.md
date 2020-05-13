@@ -21,7 +21,7 @@
     </tr>
     <tr>
     <td style="text-align: left"><p><b>Step 4:</b></p>If your Smart Menu hasn't looked like the Smart Menu on the image from Step 3, you first have to make sure you haven't marked the Community as your favourite. Click on the orange star on the top left to unmark it, if it was the case.</td>
-    <td style="text-align: center"><img src="leavecommunity0.JPG"{ width=50% } alt="Leave Community Step 4"></td>
+    <td style="text-align: center"><img src="leavecommunity04.JPG"{ width=50% } alt="Leave Community Step 4"></td>
     </tr>
     <tr>
     <td style="text-align: left"><p><b></b></p>Member has successfully left your community.</td>
