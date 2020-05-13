@@ -31,7 +31,7 @@ Join a community or create your own, and begin co-creating with like-minded indi
 * [EDIT COMMUNITIES](editcommunities.md)
 * [ADD MEMBERS TO A COMMUNITY](addmemberstoacummunity.md)
 * [CREATIVE COLLISIONS](creativecollisions.md)
-* [DELETE BOOKINGS](deletebookings.md)
+* [DELETE BOOKING](deletebooking.md)
 * [CANCEL BOOKING PROCESS](cancelbookingprocess.md)
 * [LEAVE COMMUNITY](leavecommunity.md)
 * [DELETE COMMUNITY](deletecommunity.md)
