@@ -35,7 +35,6 @@ Join a community or create your own, and begin co-creating with like-minded indi
 * [CANCEL BOOKING PROCESS](cancelbookingprocess.md)
 * [LEAVE COMMUNITY](leavecommunity.md)
 * [DELETE COMMUNITY](deletecommunity.md)
-* [REPORT THINGS](reportthings.md)
 * [REMOVE A MEMBER FROM A COMMUNITY](removeamemberfromacommunity.md)
 * [MUTE CHAT](mutechat.md)
 * [SHARE ADMIN RIGHTS TO ANOTHER MEMBER IN A COMMUNITY](shareadminrightstoanothermemberinacommunity.md)
