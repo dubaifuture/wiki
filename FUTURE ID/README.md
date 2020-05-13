@@ -20,7 +20,7 @@ With a FUTURE ID, you can conveniently access the following platforms:
 
 #### ACCOUNT SETUP AND MANAGEMENT
 
-* [CREATE AN ORGANISATION](createanaccount.md)
+* [CREATE AN ACCOUNT](createanaccount.md)
 * [ADD ORGANISATION](createanorganisation.md)
 * [EDIT DATA VALUES](editdatavalues.md)
 * [DELETE ACCOUNT](deleteaccount.md)
