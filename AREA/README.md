@@ -43,7 +43,7 @@ Explanation.
 
 #### AREA ADMIN
 
-* [USER PAGE EXPLANATION](userpageexplanation.md)
+* [ADMIN IN GENERAL](adminingeneral.md)
 * [COMMUNITY PAGE EXPLANATION](communitypageexplanation.md)
 * [CREATING / EDITING NEWS VIA AREA ADMIN](creatingeditingnewsviaareaadmin.md)
 * [VERIFY ORGANISATIONS](verifyorganisations.md)
