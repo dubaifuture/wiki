@@ -16,12 +16,8 @@
     <td style="text-align: center"><img src="deletecommunity02.PNG" alt="Delete Community Step 2"></td>
     </tr>
     <tr>
-    <td style="text-align: left"><p><b>Step 3:</b></p>Swipe up Smart Menu and click on "delete".</td>
-    <td style="text-align: center"><img src="deletecommunity03.PNG" alt="Delete Community Step 3"></td>
-    </tr>
-    <tr>
-    <td style="text-align: left"><p><b>Step 3:</b></p>Confirm your deletion by clicking on "Delete".</td>
-    <td style="text-align: center"><img src="deletecommunity04.PNG" alt="Delete Community Step 4"></td>
+    <td style="text-align: left"><p><b>Step 3:</b></p>Swipe up Smart Menu and click on "delete". Afterwards confirm your deletion by clicking on "Delete".</td>
+    <td style="text-align: center"><img src="deletecommunity04.PNG" alt="Delete Community Step 3"></td>
     </tr>
     </tbody>
 </table>
