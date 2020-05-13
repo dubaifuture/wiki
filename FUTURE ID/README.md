@@ -36,7 +36,7 @@ With a FUTURE ID, you can conveniently access the following platforms:
 
 #### ACCOUNT SECURITY
 
-* [ENABLE/DISABLE TWO-FACTOR AUTHENTICATION](twofactorauthentication.md)
+* [TWO FACTOR AUTHENTICATION](twofactorauthentication.md)
 
 
 #### FUTURE ID ADMIN
