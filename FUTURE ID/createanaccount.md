@@ -1,4 +1,4 @@
-## CREATE AN ORGANISATION <br>
+## ADD ORGANISATION <br>
 
 Visit [https://id.dubaifuture.gov.ae](https://id.dubaifuture.gov.ae)
 
