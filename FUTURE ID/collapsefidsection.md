@@ -15,7 +15,7 @@ Visit [https://dff-future-id-frontend-develop.apps.moti.us](https://dff-future-i
     </tr>
     <tr>
     <td style="text-align: left"><p><b>Step 2:</b></p>Now you can choose between "COLLAPSE" and "REMOVE ORGANISATION".</td>
-    <td style="text-align: center"><img src="collapse02.JPG" alt="Collapse 2"></td>
+    <td style="text-align: center"><img src="collapse02.jpg" alt="Collapse 2"></td>
     </tr>
     <tr>
     <td style="text-align: left"><p><b>Step 3:</b></p>Click on "COLLAPSE" to collapse the Organisation you choose.</td>
