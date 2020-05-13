@@ -9,7 +9,7 @@
     </tr>
     <tr>
     <td style="text-align: left"><p><b>Step 1:</b></p>Click on the Community icon, which you can find in the bottom bar.</td>
-    <td style="text-align: center"><img src="deletecommunity01.PMG" { width=40% } alt="Delete Community Step 1"></td>
+    <td style="text-align: center"><img src="deletecommunity01.PNG" { width=40% } alt="Delete Community Step 1"></td>
     </tr>
     <tr>
     <td style="text-align: left"><p><b>Step 2:</b></p>Choose the Community you want to delete.</td>
