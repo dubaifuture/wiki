@@ -19,7 +19,7 @@ Visit [https://dff-future-id-frontend-develop.apps.moti.us](https://dff-future-i
     </tr>
     <tr>
     <td style="text-align: left"><p><b>Step 3:</b></p>Here you can see all your connected Platforms.</td>
-    <td style="text-align: center"><img src="connectedplatform03.JPG" alt="Connect Platforms 3"></td>
+    <td style="text-align: center"><img src="connectedplatforms03.JPG" alt="Connect Platforms 3"></td>
     </tr>
     <tr>
       <tr><td colspan="3"><b>Go back to dashboard.</b></td>
