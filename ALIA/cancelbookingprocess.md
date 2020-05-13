@@ -24,7 +24,7 @@
     <td style="text-align: center"><img src="cancelprocess03.jpg"{ width=40% } alt="Cancel Process Step 4"></td>
     </tr>
     <tr>
-    <tr><td colspan="3"><b>Your booking process has succesfully been cancelled..</b></td>      
+    <tr><td colspan="3"><b>Your booking process has succesfully been cancelled.</b></td>      
     </tr>
   </tbody>
 </table>
