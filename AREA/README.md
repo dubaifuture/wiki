@@ -44,11 +44,10 @@ Explanation.
 #### AREA ADMIN
 
 * [ADMIN IN GENERAL](adminingeneral.md)
-* [CREATING / EDITING NEWS VIA AREA ADMIN](creatingeditingnewsviaareaadmin.md)
-* [VERIFY ORGANISATIONS](verifyorganisations.md)
-* [REPORTS](reports.md)
-* [ADD / EDIT ROOMS](addeditrooms.md)
-* [SHARE ADMIN RIGHTS TO ANOTHER MEMBER IN A COMMUNITY](shareadminrightstoanothermemberinacommunity.md)
+* [CREATE AND EDIT NEWS ](creatingeditingnewsviaareaadmin.md)
+* [CREATE AND EDIT ROOMS](addeditrooms.md)
+* [HANDLE REPORTS](reports.md)
+* [SHARE ADMIN RIGHTS](shareadminrights.md)
 
 
 
