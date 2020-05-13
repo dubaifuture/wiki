@@ -28,7 +28,7 @@
     <td style="text-align: center"><img src="bookroom03.jpg"{ width=50% } alt="Alia Step 5"></td>
     </tr>
     <tr>
-    <td style="text-align: left"><p><b>Step 5:</b></p>Your room has successfully been booked..</td>
+    <td style="text-align: left"><p><b>Step 5:</b></p>Your room has successfully been booked.</td>
     <td style="text-align: center"><img src="bookroom04.jpg"{ width=50% } alt="Alia Step 6"></td>
     </tr>
   </tbody>
