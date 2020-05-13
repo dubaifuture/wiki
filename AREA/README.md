@@ -41,7 +41,7 @@ Join a community or create your own, and begin co-creating with like-minded indi
 * [SHARE ADMIN RIGHTS TO ANOTHER MEMBER IN A COMMUNITY](shareadminrightstoanothermemberinacommunity.md)
 
 
-#### AREA ADMING
+#### AREA ADMIN
 
 * [USER PAGE EXPLANATION](userpageexplanation.md)
 * [COMMUNITY PAGE EXPLANATION](communitypageexplanation.md)
