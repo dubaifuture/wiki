@@ -9,11 +9,11 @@
     </tr>
     <tr>
     <td style="text-align: left"><p><b>Step 1:</b></p>Click on the message icon, which you can find in the bottom bar.</td>
-    <td style="text-align: center"><img src="bookroom00.jpg"{ width=50% } alt="Alia Step 1"></td>
+    <td style="text-align: center"><img src="bookroom00.JPG"{ width=50% } alt="Alia Step 1"></td>
     </tr>
     <tr>
     <td style="text-align: left"><p><b>Step 2:</b></p>Click on Alia</td>
-    <td style="text-align: center"><img src="bookroom11.jpg"{ width=50% } alt="Alia Step 2"></td>
+    <td style="text-align: center"><img src="bookroom11.JPG"{ width=50% } alt="Alia Step 2"></td>
     </tr>
     <tr>
     <td style="text-align: left"><p><b>Step 3:</b></p>Now you can start to book a room by writing to the Chatbot ALIA "I want to book a room". Afterwards select Date and Time of your room booking.</td>
