@@ -9,7 +9,7 @@ This documentation contains instructions on how to use our various platforms. Pl
 
 ## Our Platforms <br>
 
-| **AREA 2071**     | **ALIA**     | **DUBAI FUTURE PROGRAMSs**           | **FUTURE ID**           | **UAE GOLDEN VISA** |**UAE REGULATIONS LAB** |
+| **AREA 2071**     | **ALIA**     | **DUBAI FUTURE PROGRAMS**           | **FUTURE ID**           | **UAE GOLDEN VISA** |**UAE REGULATIONS LAB** |
 |-------------------------------------|-------------------------------------|-------------------------------------|-------------------------------|-----------------------------------|---------------------------------------------|
 | [Read Me](/AREA/README.md) | [Read Me](/ALIA/README.md) | [Read Me](/DF-Programs/README.md)|[Read Me](/FUTURE ID/README.md) | [Read Me](/VISA/README.md) | [Read Me](/REGLAB/README.md) |
 | [Contact Help Desk](https://area2071.ae/contact-us/) | [Contact Help Desk](https://area2071.ae/contact-us/) | [Contact Help Desk](https://id.dubaifuture.gov.ae/) | [Contact Help Desk](https://programs.dubaifuture.gov.ae/) | [Contact Help Desk](https://www.ica.gov.ae/) | [Contact Help Desk](https://reglab.gov.ae/contact) |
