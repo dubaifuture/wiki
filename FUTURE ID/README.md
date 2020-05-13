@@ -42,7 +42,7 @@ With a FUTURE ID, you can conveniently access the following platforms:
 #### FUTURE ID ADMIN
 
 * [ADMIN IN GENERAL](admin.md)
-* [CHANGE A USER ROLE](changeauserrole.md)
+* [CHANGE USER ROLE](changeuserrole.md)
 
 
 ___
