@@ -1,6 +1,6 @@
 ## CREATE ORGANISATION <br>
 
-Visit [https://dff-reglab-platform-frontend-develop.apps.moti.us/](https://dff-reglab-platform-frontend-develop.apps.moti.us/)
+Visit [https://dff-reglab-platform-frontend-develop.apps.moti.us](https://dff-reglab-platform-frontend-develop.apps.moti.us/)
 
 <table>
   <thead>
