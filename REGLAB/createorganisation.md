@@ -78,8 +78,9 @@ Visit [https://dff-reglab-platform-frontend-develop.apps.moti.us](https://dff-re
       <td style="text-align: left"><p><b>Step 18:</b></p>Insert Members by adding their email address. Make them either to a member or to an admin.</td>
       <td style="text-align: center"><img src="createorganisation15.JPG" alt="CreateOrganisation Step 15"></td>
       </tr>
-      <tr>
-        <tr><td colspan="3">Go to dashboard.</td>      
+        <tr>
+      <td style="text-align: left"><p><b>Step 18:</b></p>After creating an organisation you will be back on your Future ID dashboard. Click now on "Return to RegulationsLab".</td>
+      <td style="text-align: center"><img src="returntoreglab.JPG" alt="CreateOrganisation Step 15"></td>
       </tr>
     </tbody>
   </table>
