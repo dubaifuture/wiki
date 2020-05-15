@@ -1,18 +1,26 @@
 ## CREATE ORGANISATION <br>
 
-Click on "Login/Register":
-  * If you're already signed in with FUTURE ID, you'll automatically be logged in.
-  * If you're not signed in with FUTURE ID, you'll be redirected to FUTURE ID to sign in.
+Visit [https://dff-reglab-platform-frontend-develop.apps.moti.us/](https://dff-reglab-platform-frontend-develop.apps.moti.us/)
 
 <table>
   <thead>
   </thead>
   <tbody>
     <tr>
-        <tr><td colspan="3"><b>Login/Register </b></td>      
-      </tr>
-      <tr>
-        <tr><td colspan="3"><b>Create an Organisation</b></td>      
+      <td style="text-align: left"><p><b>Step 1:</b></p>Click on "APPLY NOW"</td>
+      <td style="text-align: center"><img src="howtoapply01.JPG" alt="Apply Step 1"></td>
+    </tr>
+    <tr>
+    <td style="text-align: left"><p><b>Step 2:</b></p>Connect with FUTURE ID and aggree with the Terms & Conditions.</td>
+    <td style="text-align: center"><img src="howtoapply02.JPG" alt="Apply Step 2"></td>
+    </tr>
+    <tr>
+    <td style="text-align: left"><p><b>Step 3:</b></p>Click "A</td>
+    <td style="text-align: center"><img src="createorganisation01.JPG" alt="Apply Step 3"></td>
+    </tr>
+        <tr>
+        <td style="text-align: left"><p><b>Step 0:</b></p>Click on "ADD ORGANISATION" after finishing with "Login/Register".</td>
+        <td style="text-align: center"><img src="createorganisation01reglab.JPG" alt="Create Organisation Step 1 Reglab"></td>
       </tr>
       <tr>
         <td style="text-align: left"><p><b>Step 1:</b></p>Click on "ADD ORGANISATION" after finishing with "Login/Register".</td>
