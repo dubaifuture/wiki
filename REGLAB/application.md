@@ -15,7 +15,7 @@ Visit [https://dff-reglab-platform-frontend-develop.apps.moti.us/](https://dff-r
     <td style="text-align: center"><img src="howtoapply02.JPG" alt="Apply Step 2"></td>
     </tr>
     <tr>
-    <td style="text-align: left"><p><b>Step 3:</b></p>Click "A</td>
+    <td style="text-align: left"><p><b>Step 3:</b></p>Click on "Create a new organisation".</td>
     <td style="text-align: center"><img src="createorganisation01reglab.JPG" alt="Apply Step 3"></td>
     </tr>
      <tr>
