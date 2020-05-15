@@ -22,7 +22,7 @@ RegLab aims to create an agile and conducive legislative environment that pionee
 #### ACCOUNT SETUP AND MANAGEMENT
 
 * [APPLICATION](application.md)
-* [REVIEW](review.md)
+* [REVIEW](VISA/reviewanapplication.md)
 * [CREATE AN ORGANISATION](createorganisation.md)
 
 ## FREQUENTLY ASKED QUESTIONS
