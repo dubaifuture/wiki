@@ -14,7 +14,6 @@ This documentation contains instructions on how to use our various platforms. Pl
 | [Read Me](/AREA/README.md) | [Read Me](/ALIA/README.md) | [Read Me](/DF-Programs/README.md)|[Read Me](/FUTURE ID/README.md) | [Read Me](/VISA/README.md) | [Read Me](/REGLAB/README.md) |
 | [Contact Help Desk](https://area2071.ae/contact-us/) | [Contact Help Desk](https://area2071.ae/contact-us/) | [Contact Help Desk](https://id.dubaifuture.gov.ae/) | [Contact Help Desk](https://programs.dubaifuture.gov.ae/) | [Contact Help Desk](https://www.ica.gov.ae/) | [Contact Help Desk](https://reglab.gov.ae/contact) |
 
-[Contact Help Desk](mailto:Area2071@dubaifuture.gov.ae)
 
 ## Frequently Asked Questions <br>
 
