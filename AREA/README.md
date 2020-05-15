@@ -16,10 +16,6 @@ AREA 2071 is a project managed by the Dubai Future Foundation in alignment with 
 
 Join a community or create your own, and begin co-creating with like-minded individuals from across our ecosystem.
 
-## CREATIVE COLLISIONS <br>
-
-Explanation.
-
 
 ## USER MANUAL <br>
 
@@ -44,7 +40,7 @@ Explanation.
 #### AREA ADMIN
 
 * [ADMIN IN GENERAL](adminingeneral.md)
-* [CREATE AND EDIT NEWS ](creatingeditingnewsviaareaadmin.md)
+* [CREATE AND EDIT NEWS](creatingeditingnewsviaareaadmin.md)
 * [CREATE AND EDIT ROOMS](addeditrooms.md)
 * [HANDLE REPORTS](reports.md)
 * [SHARE ADMIN RIGHTS](shareadminrights.md)
