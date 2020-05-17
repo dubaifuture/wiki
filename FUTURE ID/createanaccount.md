@@ -1,4 +1,4 @@
-## CREATE AN ACCOUNT<br>
+## CREATE ACCOUNT<br>
 
 Visit [https://id.dubaifuture.gov.ae](https://id.dubaifuture.gov.ae)
 
