@@ -3,7 +3,6 @@
 
 * [WELCOME](#welcome)
 * [USER MANUAL](#user-manual)
-* [FREQUENTLY ASKED QUESTIONS](#frequently-asked-questions)
 
 ## WELCOME <br>
 
@@ -29,5 +28,3 @@ Helping governments, and industry leaders navigate and address complex technolog
 * [ONBOARDING STAGE](onboardingstage.md)
 * [CREATE A PROGRAM](createaprogram.md)
 * [APPLICATION TO A PROGRAM](applicationtoaprogram.md)
-
-## FREQUENTLY ASKED QUESTIONS <br>
