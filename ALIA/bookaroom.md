@@ -1,4 +1,4 @@
-## BOOK A ROOM <br>
+## BOOK ROOM <br>
 
 <table>
   <thead>
