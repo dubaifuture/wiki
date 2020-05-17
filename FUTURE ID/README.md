@@ -20,7 +20,7 @@ With a FUTURE ID, you can conveniently access the following platforms:
 
 #### ACCOUNT SETUP AND DATA MANAGEMENT
 
-* [CREATE AN ACCOUNT](createanaccount.md)
+* [CREATE ACCOUNT](createanaccount.md)
 * [ADD ORGANISATION](createanorganisation.md)
 * [EDIT DATA VALUES](editdatavalues.md)
 * [DELETE ACCOUNT](deleteaccount.md)
@@ -28,7 +28,7 @@ With a FUTURE ID, you can conveniently access the following platforms:
 
 #### SETTINGS
 
-* [REMOVE A SPECIFIC DEVICE](removeaspecificdevice.md)
+* [REMOVE SPECIFIC DEVICE](removeaspecificdevice.md)
 * [SHARE YOUR CONTACT  VIA QR CODE](shareyourcontactviaqrcode.md)
 * [CONNECTED PLATFORMS](connectedplatforms.md)
 * [CHANGE PLATFORM LANGUAGE](changeplatformlanguage.md)
