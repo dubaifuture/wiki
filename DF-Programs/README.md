@@ -16,7 +16,7 @@ Helping governments, and industry leaders navigate and address complex technolog
 
 ## USER MANUAL <br>
 
-#### ORGANIZATIONS
+#### ACCOUNT SETUP AND MANAGEMENT
 
 * [PROGRAMS](programs.md)
 * [PROGRAM OWNER](programowner.md)
