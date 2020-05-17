@@ -18,7 +18,7 @@ With a FUTURE ID, you can conveniently access the following platforms:
 
 ## USER MANUAL <br>
 
-#### ACCOUNT SETUP AND MANAGEMENT
+#### ACCOUNT SETUP AND DATA MANAGEMENT
 
 * [CREATE AN ACCOUNT](createanaccount.md)
 * [ADD ORGANISATION](createanorganisation.md)
@@ -26,7 +26,7 @@ With a FUTURE ID, you can conveniently access the following platforms:
 * [DELETE ACCOUNT](deleteaccount.md)
 * [COLLAPSE FID SECTION](collapsefidsection.md)
 
-#### ORGANIZATIONS
+#### SETTINGS
 
 * [REMOVE A SPECIFIC DEVICE](removeaspecificdevice.md)
 * [SHARE YOUR CONTACT  VIA QR CODE](shareyourcontactviaqrcode.md)
@@ -36,10 +36,10 @@ With a FUTURE ID, you can conveniently access the following platforms:
 
 #### ACCOUNT SECURITY
 
-* [TWO FACTOR AUTHENTICATION](twofactorauthentication.md)
+* [SETUP TWO FACTOR AUTHENTICATION](twofactorauthentication.md)
 
 
-#### FUTURE ID ADMIN
+#### ADMIN
 
 * [ADMIN IN GENERAL](adminingeneral.md)
 * [CHANGE USER ROLE](changeuserrole.md)
