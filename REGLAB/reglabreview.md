@@ -8,7 +8,7 @@ Visit [https://reglab.gov.ae/](https://reglab.gov.ae/)
   <tbody>
     <tr>
       <td style="text-align: left"><p><b>Step 1:</b></p>Click on "APPLY NOW" and log into your Future ID Account.</td>
-      <td style="text-align: center"><img src="reglabreview01.jpg" alt="landing"></td>
+      <td style="text-align: center"><img src="reglabreview01.JPG" alt="landing"></td>
     </tr>
     <tr>
       <td style="text-align: left"><p><b>Step 2:</b></p>Click on the "Review" tab on the top right. </td>
