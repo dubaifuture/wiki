@@ -1,4 +1,4 @@
-## REVIEW AN APPLICATION <br>
+## REVIEW APPLICATION <br>
 
 Visit [https://business.goldenvisa.ae](https://business.goldenvisa.ae/)
 
