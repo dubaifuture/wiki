@@ -39,12 +39,7 @@ Visit [https://dff-reglab-platform-frontend-develop.apps.moti.us/](https://dff-r
     <td style="text-align: center"><img src="application05.JPG" alt="Apply Step 8"></td>
     </tr>
     <tr>
-    <td style="text-align: left"><p><b>Step 9:</b></p>Optional you can add here a photo.</td>
-    <td style="text-align: center"><img src="application06.JPG" alt="Apply Step 9"></td>
-    </tr>
-    <tr>
-    <td style="text-align: left"><p><b>Step 10:</b></p>Here you can Test FID and submit your application.</td>
-    <td style="text-align: center"><img src="application07.JPG" alt="Apply Step 10"></td>
+      <tr><td colspan="3"><b>Submit your application.</b></td>      
     </tr>
   </tbody>
 </table>
