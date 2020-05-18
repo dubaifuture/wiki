@@ -17,7 +17,7 @@ The startup ecosystem in the United Arab Emirates has progressed at an unprecede
 * [APPLICATION](application.md)
 * [SUBMIT AN APPLICATION](submitanapplication.md)
 * [REVIEW](reviewanapplication.md)
-* [REVIEW AN APPLICATION](reviewanapplication.md)
+* [REVIEW APPLICATION](reviewanapplication.md)
 
 
 ## FREQUENTLY ASKED QUESTIONS <br>
