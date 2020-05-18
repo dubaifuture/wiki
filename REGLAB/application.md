@@ -15,7 +15,7 @@ Visit [https://reglab.gov.ae/](https://reglab.gov.ae/)
     <td style="text-align: center"><img src="howtoapply02.JPG" alt="Apply Step 2"></td>
     </tr>
       <tr>
-    <td style="text-align: left"><p><b>Step 3:</b></p>Click on "Start Application".</td>
+    <td style="text-align: left"><p><b>Step 3:</b></p>Click on "Start Application" in the bottom right to start your application.</td>
     <td style="text-align: center"><img src="application003.JPG" alt="Apply Step 2"></td>
     </tr>
      <tr>
