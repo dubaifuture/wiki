@@ -26,7 +26,7 @@ Join a community or create your own, and begin co-creating with like-minded indi
 * [CREATE EVENTS](createevents.md)
 
 
-#### ORGANIZATIONS
+#### COMMUNITIES
 
 * [EDIT COMMUNITIES](editcommunities.md)
 * [ADD MEMBERS TO A COMMUNITY](addmemberstoacummunity.md)
