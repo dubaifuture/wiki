@@ -1,6 +1,6 @@
 ## APPLICATION <br>
 
-Visit [https://dff-reglab-platform-frontend-develop.apps.moti.us/](https://dff-reglab-platform-frontend-develop.apps.moti.us/)
+Visit [https://reglab.gov.ae/](https://reglab.gov.ae/)
 
 <table>
   <thead>
