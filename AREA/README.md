@@ -37,7 +37,7 @@ Join a community or create your own, and begin co-creating with like-minded indi
 * [MUTE CHAT](mutechat.md)
 
 
-#### AREA ADMIN
+#### ADMIN
 
 * [ADMIN IN GENERAL](adminingeneral.md)
 * [CREATE AND EDIT NEWS](creatingeditingnewsviaareaadmin.md)
