@@ -1,6 +1,6 @@
 ## SETUP TWO-FACTOR AUTHENTICATION <br>
 
-Visit [https://dff-future-id-frontend-develop.apps.moti.us](https://dff-future-id-frontend-develop.apps.moti.us)
+Visit [https://id.dubaifuture.gov.ae](https://id.dubaifuture.gov.ae)
 
 <table>
   <thead>
