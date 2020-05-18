@@ -16,7 +16,7 @@ Visit [https://programs.dubaifuture.gov.ae](https://programs.dubaifuture.gov.ae)
     </tr>
     <tr>
     <td style="text-align: left"><p><b>Step 3:</b></p>Click on "Create a new Organisation".</td>
-    <td style="text-align: center"><img src="createorganisation01reglab.JPG" alt="Apply Step 3"></td>
+    <td style="text-align: center"><img src="application003.JPG" alt="Apply Step 3"></td>
     </tr>
         <tr>
         <td style="text-align: left"><p><b>Step 4:</b></p>Click on "ADD ORGANISATION" after finishing with "Login/Register".</td>
