@@ -1,4 +1,4 @@
-## COLLAPSE FID SECTION  <br>
+## COLLAPSE FUTURE ID SECTION  <br>
 
 Visit [https://id.dubaifuture.gov.ae](https://id.dubaifuture.gov.ae)
 
@@ -6,9 +6,6 @@ Visit [https://id.dubaifuture.gov.ae](https://id.dubaifuture.gov.ae)
   <thead>
   </thead>
   <tbody>
-    <tr>
-      <tr><td colspan="3"><b>Login/Register.</b></td>
-    </tr>
     <tr>
     <td style="text-align: left"><p><b>Step 1:</b></p>Click on the icon with three points in a row on the right side of each Organisation.</td>
     <td style="text-align: center"><img src="collapse01.JPG" alt="Collapse 1"></td>
