@@ -36,6 +36,7 @@ Join a community or create your own, and begin co-creating with like-minded indi
 * [REMOVE A MEMBER FROM A COMMUNITY](removeamemberfromacommunity.md)
 * [MUTE CHAT](mutechat.md)
 * [FAVOURITE COMMUNITY](favouritecommunity.md)
+* [SHARE ADMIN RIGHTS](shareadminrights.md)
 
 
 #### ADMIN
@@ -44,8 +45,6 @@ Join a community or create your own, and begin co-creating with like-minded indi
 * [CREATE AND EDIT NEWS](createandeditnews.md)
 * [CREATE AND EDIT ROOMS](createandeditrooms.md)
 * [HANDLE REPORTS](reports.md)
-* [SHARE ADMIN RIGHTS](shareadminrights.md)
-
 
 
 ## FREQUENTLY ASKED QUESTIONS <br>
