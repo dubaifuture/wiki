@@ -14,8 +14,8 @@ Visit [https://id.dubaifuture.gov.ae](https://id.dubaifuture.gov.ae)
     <td style="text-align: center"><img src="collapse01.JPG" alt="Collapse 1"></td>
     </tr>
     <tr>
-    <td style="text-align: left"><p><b>Example</b></p>For instance, if you click on Photo, the shown overlay screen will show up to edit values in Photo.</td>
-    <td style="text-align: center"><img src="overlayfid.JPG" alt="Collapse 1"></td>
+    <td style="text-align: left"><p><b>Example</b></p>For instance, if you click on Social Media, the shown overlay screen will show up to edit values of your Social Media.</td>
+    <td style="text-align: center"><img src="overlayfid01.JPG" alt="Collapse 1"></td>
     </tr>
     <tr>
       <tr><td colspan="3"><b>Values have been edited.</b></td>
