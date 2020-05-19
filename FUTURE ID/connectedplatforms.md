@@ -22,6 +22,10 @@ Visit [https://id.dubaifuture.gov.ae](https://id.dubaifuture.gov.ae)
     <td style="text-align: center"><img src="connectedplatforms03.JPG" alt="Connect Platforms 3"></td>
     </tr>
     <tr>
+    <td style="text-align: left"><p><b>Connection with Future ID</b></p>Here you can see an example of the overlay with Regulations Lab. All the platforms shown are connected with Future ID.</td>
+    <td style="text-align: center"><img src="overlayreglab.JPG" alt="Connect Platforms 3"></td>
+    </tr>
+    <tr>
       <tr><td colspan="3"><b>Go back to dashboard.</b></td>
     </tr>
     </tbody>
