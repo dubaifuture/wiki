@@ -14,5 +14,9 @@
     <td style="text-align: left"><p><b></b></p>Manage your bookings by writing to the Chatbot ALIA  "Manage bookings". Here you can basically click on your booked rooms and cancel them.</td>
     <td style="text-align: center"><img src="managebookings.jpg"{ width=50% } alt="Alia Step 3"></td>
     </tr>
+        <tr>
+    <td style="text-align: left"><p><b></b></p>Confirm your cancelling by clicking "CANCEL SELECTION".</td>
+    <td style="text-align: center"><img src="managebookings02.jpg"{ width=50% } alt="Alia Step 3"></td>
+    </tr>
   </tbody>
 </table>
