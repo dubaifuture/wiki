@@ -7,9 +7,6 @@ Visit [https://admin.app.area2071.ae](https://admin.app.area2071.ae)
   </thead>
   <tbody>
     <tr>
-      <tr><td colspan="3"><b>Login with FUTURE ID.</b></td>
-    </tr>
-    <tr>
     <td style="text-align: left"><p><b>Create News<br>Step 1:</b></p>First click on the "COMMUNITY UPDATES" tab and afterwards on the "CREATE" button, which you can find on the top right.</td>
     <td style="text-align: center"><img src="createandeditnews01.JPG" alt="Admin1"></td>
     </tr>
