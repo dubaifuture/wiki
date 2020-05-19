@@ -24,7 +24,7 @@ Visit [https://reglab.gov.ae](https://reglab.gov.ae)
     </tr>
     </tr>
         <tr>
-      <td style="text-align: left"><p><b>Step 4:</b></p>In the last stage "Selected" you can see your selected Application you review.</td>
+      <td style="text-align: left"><p><b>Step 5:</b></p>In the last stage "Selected" you can see your selected Application you review.</td>
       <td style="text-align: center"><img src="reglabreview005.JPG" alt="Review-3"></td>
     </tr>
   </tbody>
