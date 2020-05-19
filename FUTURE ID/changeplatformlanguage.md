@@ -25,7 +25,7 @@ Visit [https://id.dubaifuture.gov.ae](https://id.dubaifuture.gov.ae)
     <td style="text-align: center"><img src="languagefid02.JPG" alt="Language"></td>
     </tr>
     <tr>
-    <td style="text-align: left"><p><b>Connection with Future ID</b></p>Here you can change between English and Arabic language.</td>
+    <td style="text-align: left"><p><b>Step 4:</b></p>Here you can change between English and Arabic language.</td>
     <td style="text-align: center"><img src="languagefid03.JPG" alt="Language"></td>
     </tr>
     <tr>
