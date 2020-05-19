@@ -20,7 +20,7 @@
     <td style="text-align: center"><img src="smartmenu03.jpg" alt="Smart Menu"></td>
     </tr>
     <tr>
-    <td style="text-align: left"><p><b>Step 3:</b></p>Swipe up Smart Screen and click on "Post".</td>
+    <td style="text-align: left"><p><b>Step 3:</b></p>Swipe up Smart Screen and click on "Post" to create an update.</td>
     <td style="text-align: center"><img src="createevent01.jpg" alt="Create Event Step 1"></td>
     </tr>
     <tr>
