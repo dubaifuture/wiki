@@ -22,7 +22,7 @@ With a FUTURE ID, you can conveniently access the following platforms:
 
 * [CREATE ACCOUNT](createanaccount.md)
 * [ADD ORGANISATION](createanorganisation.md)
-* [EDIT DATA VALUES](editdatavalues.md)
+* [MANAGE YOUR DATA](editdatavalues.md)
 * [DELETE ACCOUNT](deleteaccount.md)
 * [COLLAPSE FID SECTION](collapsefidsection.md)
 
