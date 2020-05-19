@@ -7,7 +7,7 @@
 
 ## WELCOME <br>
 
-FUTURE ID is a Single Sign-On (SSO) and Profile Management Service owned and operated by the Dubai Future Foundation. It allows startups, entrepreneurs, academics, researchers, scientists, and the general public to securely and conveniently access a variety of our services.
+FUTURE ID is your gateway into Dubai's innovation ecosystem. Manage your personal and organisation profiles, and gain access to numerous opportunities across Dubai, with a single account.
 
 With a FUTURE ID, you can conveniently access the following platforms:
 
