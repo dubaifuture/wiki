@@ -22,7 +22,7 @@ Visit [https://admin.app.area2071.ae](https://admin.app.area2071.ae)
     <td style="text-align: center"><img src="createandeditnews01.JPG" alt="Admin3"></td>
     </tr>
     <tr>
-    <td style="text-align: left"><p><b>Create News<br>Step 2:</b></p>Now you can upload a new picture to your news, edit "Title", "Content", "Language", "Community" as well as edit links or file/image Attachments.</td>
+    <td style="text-align: left"><p><b>Edit News<br>Step 2:</b></p>Now you can upload a new picture to your news, edit "Title", "Content", "Language", "Community" as well as edit links or file/image Attachments.</td>
     <td style="text-align: center"><img src="createandeditnews03.JPG" alt="Admin2"></td>
     </tr>
     </tbody>
