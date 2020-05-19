@@ -16,7 +16,7 @@
     <td style="text-align: center"><img src="editcommunity01.jpg" alt="Edit Community Step 2"></td>
     </tr>
     <tr>
-    <td style="text-align: left"><p><b>Step 3:</b></p>Edit your Community. Afterwards click "UPDATE COMMUNITY".</td>
+    <td style="text-align: left"><p><b>Step 3:</b></p>Edit your Community. Afterwards click "UPDATE COMMUNITY" to save and publish your changes.</td>
     <td style="text-align: center"><img src="editcommunity02.jpg" alt="Edit Community Step 3"></td>
     </tr>
   </tbody>
