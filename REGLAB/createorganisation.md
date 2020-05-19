@@ -19,7 +19,7 @@ Visit [https://programs.dubaifuture.gov.ae](https://programs.dubaifuture.gov.ae)
     <td style="text-align: center"><img src="application003.JPG" alt="Apply Step 3"></td>
     </tr>
         <tr>
-        <td style="text-align: left"><p><b>Step 4:</b></p>Click on "ADD ORGANISATION" after finishing with "Login/Register".</td>
+        <td style="text-align: left"><p><b>Step 4:</b></p>Click on "ADD ORGANISATION".</td>
         <td style="text-align: center"><img src="createorganisation01.JPG" alt="Create Organisation Step 1 Reglab"></td>
       </tr>
       <tr>
