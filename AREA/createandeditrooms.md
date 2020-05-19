@@ -7,9 +7,6 @@ Visit [https://admin.app.area2071.ae](https://admin.app.area2071.ae)
   </thead>
   <tbody>
     <tr>
-      <tr><td colspan="3"><b>Login with FUTURE ID.</b></td>
-    </tr>
-    <tr>
     <td style="text-align: left"><p><b>Step 1:</b></p>In the "BOOKINGS" tab you can see all the Meeting Rooms already booked. You can click on them and see which rooms where booked and cancel them.</td>
     <td style="text-align: center"><img src="createandeditrooms01.JPG" alt="Admin1"></td>
     </tr>
