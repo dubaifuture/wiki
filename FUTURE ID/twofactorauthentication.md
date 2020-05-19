@@ -26,7 +26,7 @@ Visit [https://id.dubaifuture.gov.ae](https://id.dubaifuture.gov.ae)
     <td style="text-align: center"><img src="enabletwofactor01.JPG" alt="Two Factor 1"></td>
     </tr>
     <tr>
-    <td style="text-align: left"><p><b>Step 5:</b></p>Now doenload and use a TOTP-compatible authenticator app on your smartphone, such as Microsoft Authenticator or Authy. Afterwards scan the QR image into your authenticator app.</td>
+    <td style="text-align: left"><p><b>Step 5:</b></p>Now download and use a TOTP-compatible authenticator app on your smartphone, such as Microsoft Authenticator or Authy. Afterwards scan the QR image into your authenticator app.</td>
     <td style="text-align: center"><img src="enabletwofactor02.JPG" alt="Two Factor 2"></td>
     </tr>
     <tr>
@@ -35,7 +35,7 @@ Visit [https://id.dubaifuture.gov.ae](https://id.dubaifuture.gov.ae)
     </tr>
     <tr>
     <td style="text-align: left"><p><b>Step 7:</b></p>If you cannot scan the QR Code shown 2 steps before, you can copy and paste the backup code as well into your authenticator app on your smarthpone and afterwards continue with Step 6.</td>
-    <td style="text-align: center"><img src="scanqrcode02.JPG" alt="Two Factor 4"></td>
+    <td style="text-align: center"><img src="twofactorbackupcode.JPG" alt="Two Factor 4"></td>
     </tr>
     <tr>
       <tr><td colspan="3"><b>TWO FACTOR AUTHENTICATION has successfully been enabled.</b></td>
