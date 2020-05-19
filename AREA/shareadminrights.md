@@ -15,19 +15,19 @@ Visit [https://admin.app.area2071.ae](https://admin.app.area2071.ae)
     </tr>
     <tr>
     <td style="text-align: left"><p><b>Step 2:</b></p>Click on "MORE" besides Members.</td>
-    <td style="text-align: center"><img src="shareadmin01.jpg"{ width=25% } alt="Share Rights"></td>
+    <td style="text-align: center"><img src="shareadmin01.jpg"{ width=27% } alt="Share Rights"></td>
     </tr>
     <tr>
     <td style="text-align: left"><p><b>Step 3:</b></p>Swipe to the lift to choose someone you want to give admin rights..</td>
-    <td style="text-align: center"><img src="shareadmin02.jpg"{ width=25% } alt="Share Rights"></td>
+    <td style="text-align: center"><img src="shareadmin02.jpg"{ width=28% } alt="Share Rights"></td>
     </tr>
     <tr>
     <td style="text-align: left"><p><b>Step 4:</b></p>Now you can see three green arrows. Click on them to make the member an Admin.</td>
-    <td style="text-align: center"><img src="shareadmin03.jpg"{ width=25% } alt="Share Rights"></td>
+    <td style="text-align: center"><img src="shareadmin03.jpg"{ width=29% } alt="Share Rights"></td>
     </tr>
     <tr>
-    <td style="text-align: left"><p><b>Step 4:</b></p>Now you can see the Member marked as "Admin".</td>
-    <td style="text-align: center"><img src="shareadmin04.jpg"{ width=25% } alt="Share Rights"></td>
+    <td style="text-align: left"><p><b>Step 5:</b></p>Now you can see the Member marked as "Admin".</td>
+    <td style="text-align: center"><img src="shareadmin04.jpg"{ width=31% } alt="Share Rights"></td>
     </tr>
   </tbody>
 </table>
