@@ -7,7 +7,7 @@ Visit [https://id.dubaifuture.gov.ae](https://id.dubaifuture.gov.ae)
   </thead>
   <tbody>
     <tr>
-      <tr><td colspan="3"><b>Login/Register.</b></td>
+      <tr><td colspan="3"><b>You have two options to set your language.</b></td>
     </tr>
     <tr>
     <td style="text-align: left"><p><b>Change Language Option 1</b></p>On the bottom left you can change between English and Arabic language. If you have changed to Arabic, you can change it back by clicking on English on the bottom right.</td>
