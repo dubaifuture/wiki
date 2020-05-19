@@ -31,7 +31,7 @@ Visit [https://id.dubaifuture.gov.ae](https://id.dubaifuture.gov.ae)
     </tr>
     <tr>
     <td style="text-align: left"><p><b>Step 6:</b></p>You will get a 6 digit backup code in your authenticator app on your smartphone. Copy and paste it into Future ID to continue.</td>
-    <td style="text-align: center"><img src="twofactor.JPG" alt="Two Factor 3"></td>
+    <td style="text-align: center"><img src="twofactor.jpg" alt="Two Factor 3"></td>
     </tr>
     <tr>
     <td style="text-align: left"><p><b>Step 7:</b></p>If you cannot scan the QR Code shown 2 steps before, you can copy and paste the backup code as well into your authenticator app on your smarthpone and afterwards continue with Step 6.</td>
