@@ -67,6 +67,14 @@ Click on "Login/Register":
       <td style="text-align: left"><p><b>Step 14:</b></p>Insert Members by adding their email address. Make them either to a member or to an admin.</td>
       <td style="text-align: center"><img src="createorganisation15.JPG" alt="CreateOrganisation Step 15"></td>
       </tr>
+         <tr>
+      <td style="text-align: left"><p><b>Step 15:</b></p>Choose your Industry Sector by clicking on the down arrow to open the scroll down menu.</td>
+      <td style="text-align: center"><img src="industrysectorfid.JPG" alt="Create Organisation Step 14"></td>
+      </tr>
+      <tr>
+      <td style="text-align: left"><p><b>Step 16:</b></p>Choose your Main Technology by clicking on the down arrow to open the scroll down menu.</td>
+      <td style="text-align: center"><img src="maintechnology.JPG" alt="CreateOrganisation Step 15"></td>
+      </tr>
       <tr>
         <tr><td colspan="3">Go to dashboard.</td>      
       </tr>
