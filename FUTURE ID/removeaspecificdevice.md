@@ -12,7 +12,7 @@ Click on "Login/Register":
       <tr><td colspan="3"><b>Login/Register</b></td>      
     </tr>
     <tr>
-      <td style="text-align: left"><p><b>Step 1:</b></p>Click on the hamburger button in the top right corner.</td>
+      <td style="text-align: left"><p><b>Step 1:</b></p>Click on the hamburger menu in the top right corner.</td>
       <td style="text-align: center"><img src="removedevice01.JPG" alt="Remove Device Step 1"></td>
     </tr>
     <tr>
