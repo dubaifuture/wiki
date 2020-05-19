@@ -10,7 +10,7 @@ Visit [https://id.dubaifuture.gov.ae](https://id.dubaifuture.gov.ae)
       <tr><td colspan="3"><b>Login/Register.</b></td>
     </tr>
     <tr>
-    <td style="text-align: left"><p><b>Step 1:</b></p>Click on the hamburger bar on the top right.</td>
+    <td style="text-align: left"><p><b>Step 1:</b></p>Click on the hamburger menu on the top right.</td>
     <td style="text-align: center"><img src="deleteaccount01.JPG" alt="Delete Acccount 1"></td>
     </tr>
     <tr>
