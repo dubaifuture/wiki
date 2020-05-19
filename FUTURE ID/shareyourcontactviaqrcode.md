@@ -24,7 +24,7 @@ Click on "Login/Register":
   </tr>
   <tr>
   <td style="text-align: left"><p><b>Step 3:</b></p>Share Contact via QR Code Step</td>
-  <td style="text-align: center"><img src="sharescreenfid.jpg"{ width=50% } alt="Share Contact via QR Code Step 3"></td>
+  <td style="text-align: center"><img src="shareaccountfid0.jpg"{ width=50% } alt="Share Contact via QR Code Step 3"></td>
   </tr>
   <tr>
     <tr><td colspan="2">Go to dashboard.</td>      
