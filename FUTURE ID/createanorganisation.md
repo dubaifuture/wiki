@@ -24,12 +24,8 @@ Click on "Login/Register":
       <td style="text-align: center"><img src="createorganisation03.JPG" alt="Create Organisation Step 3"></td>
       </tr>
       <tr>
-      <td style="text-align: left"><p><b>Step 4:</b></p>Insert a short description of your organisation with maximum 200 letters.</td>
-      <td style="text-align: center"><img src="createorganisation04.JPG" alt="CreateOrganisation Step 4"></td>
-      </tr>
-      <tr>
-        <td style="text-align: left"><p><b>Step 5:</b></p>Insert a long description of your organisation with maximum 1000 letters.</td>
-        <td style="text-align: center"><img src="createorganisation05.JPG" alt="Create Organisation Step 5"></td>
+        <td style="text-align: left"><p><b>Step 5:</b></p>Insert a description of your organisation with maximum 1000 letters.</td>
+        <td style="text-align: center"><img src="descriptionfid.JPG" alt="Create Organisation Step 5"></td>
       </tr>
       <tr>
       <td style="text-align: left"><p><b>Step 6:</b></p>Insert your company's website URL.</td>
