@@ -19,8 +19,13 @@ Visit [https://reglab.gov.ae](https://reglab.gov.ae)
       <td style="text-align: center"><img src="reglabreview003.JPG" alt="Review-2"></td>
     </tr>
         <tr>
-      <td style="text-align: left"><p><b>Step 4:</b></p>In the last stage "Selected" you can see your selected Application you review.</td>
+      <td style="text-align: left"><p><b>Step 4:</b></p>Here you can review the "Final Approval" stage. If you "Approve" an Application from the shown "Final Approval" stage it goes further to the next stage. If you decide to "Reject", it will be deleted.</td>
       <td style="text-align: center"><img src="reglabreview004.JPG" alt="Review-3"></td>
+    </tr>
+    </tr>
+        <tr>
+      <td style="text-align: left"><p><b>Step 4:</b></p>In the last stage "Selected" you can see your selected Application you review.</td>
+      <td style="text-align: center"><img src="reglabreview005.JPG" alt="Review-3"></td>
     </tr>
   </tbody>
 </table>
