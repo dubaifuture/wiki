@@ -29,8 +29,5 @@ Visit [https://id.dubaifuture.gov.ae](https://id.dubaifuture.gov.ae)
     <td style="text-align: left"><p><b>Step 5:</b></p>Now you are at the Future ID dashboard. Here you can easily manage all your data at one place.</td>
     <td style="text-align: center"><img src="deleteaccount01.JPG" alt="Create Account Step 4"></td>
     </tr>
-    <tr>
-      <tr><td colspan="3">Go to dashboard.</td>      
-    </tr>
   </tbody>
 </table>
