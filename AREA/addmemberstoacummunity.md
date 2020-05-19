@@ -23,11 +23,11 @@
     <td style="text-align: center"><img src="pendingmember01.jpg" alt="Edit Community Step 1"></td>
     </tr>
     <tr>
-    <td style="text-align: left"><p><b>Step 5:</b></p>Now you can accept a "Pending Member" to your Community by swiping his name to the right.</td>
+    <td style="text-align: left"><p><b>Pending Member<br><br>Step 2:</b></p>Now you can accept a "Pending Member" to your Community by swiping his name to the right.</td>
     <td style="text-align: center"><img src="pendingmember02.jpg" alt="Edit Community Step 2"></td>
     </tr>
     <tr>
-    <td style="text-align: left"><p><b>Step 6:</b></p>On the other hand you can declinde a "Pending Member" by swpiping his name to the left.</td>
+    <td style="text-align: left"><p><b>Pending Member<br><br>Step 3:</b></p>On the other hand you can declinde a "Pending Member" by swpiping his name to the left.</td>
     <td style="text-align: center"><img src="pendingmember03.jpg" alt="Add Members"></td>
     </tr>
     </tbody>
