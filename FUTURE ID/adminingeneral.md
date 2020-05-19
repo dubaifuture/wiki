@@ -21,5 +21,8 @@ Visit [https://admin.app.area2071](https://admin.app.area2071)
     <td style="text-align: left"><p><b>NEWSLETTERS</b></p>Here you can see "Name", "Description", "Mailchimp Interest ID" and the "Active" status of a newsletter.</td>
     <td style="text-align: center"><img src="adminingeneral03.JPG" alt="Admin in General 3"></td>
     </tr>
+    <tr>
+      <tr><td colspan="3"><b>You can logout yourself by clicking "LOGOUT" on the top right of your screen.</b></td>
+    </tr>
     </tbody>
 </table>
