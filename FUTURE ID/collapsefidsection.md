@@ -22,7 +22,7 @@ Visit [https://dff-future-id-frontend-develop.apps.moti.us](https://dff-future-i
     <td style="text-align: center"><img src="collapse03.JPG" alt="Collapse 3"></td>
     </tr>
     <tr>
-    <td style="text-align: left"><p><b>Step 4:</b></p>Click on "EXPAND" to expand the Organisation you collapsed before.</td>
+    <td style="text-align: left"><p><b>Step 4:</b></p>Click again on the hamburger menu and on "EXPAND" to expand the Organisation you collapsed before.</td>
     <td style="text-align: center"><img src="fidexpand.JPG" alt="Collapse 3"></td>
     </tr>
     <tr>
