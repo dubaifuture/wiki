@@ -20,7 +20,7 @@
     <td style="text-align: center"><img src="leavecommunity02.JPG"{ width=50% } alt="Leave Community Step 3"></td>
     </tr>
     <tr>
-    <td style="text-align: left"><p><b>Step 4:</b></p>If your Smart Menu hasn't looked like the Smart Menu on the image from Step 3, you first have to make sure you haven't marked the Community as your favourite. If it was the case, click on the orange star on the top left to unmark it as your favourite.</td>
+    <td style="text-align: left"><p><b>Step 4:</b></p>If your Smart Menu hasn't looked like the Smart Menu on the image from Step 3, you first have to make sure you haven't marked the Community as your favourite. If it was the case, click on the orange star on the top left to unmark it as your favourite. Then you will be able to choose the leave option from the Smart menu.</td>
     <td style="text-align: center"><img src="leavecommunity03.JPG"{ width=50% } alt="Leave Community Step 4"></td>
     </tr>
     <tr>
