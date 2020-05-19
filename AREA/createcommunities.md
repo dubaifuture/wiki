@@ -24,7 +24,7 @@
     <td style="text-align: center"><img src="communities01.jpg" alt="Create Community Step 1"></td>
     </tr>
     <tr>
-    <td style="text-align: left"><p><b>Step 3:</b></p>Upload an image as your Community banner, fill out the required fields "Title", "Location", "Details" and "Tags" and decide if you want to make your new community either public or private.</td>
+    <td style="text-align: left"><p><b>Step 4:</b></p>Upload an image as your Community banner, fill out the required fields "Title", "Location", "Details" and "Tags" and decide if you want to make your new community either public or private. Click "CREATE COMMUNITY" when you have added all the required information.</td>
     <td style="text-align: center"><img src="createcommunity02.jpg" alt="Create Community Step 1"></td>
     </tr>
     <tr>
