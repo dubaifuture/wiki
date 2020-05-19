@@ -23,7 +23,7 @@ Visit [https://id.dubaifuture.gov.ae](https://id.dubaifuture.gov.ae)
     <td style="text-align: center"><img src="fidexpand.JPG" alt="Collapse 3"></td>
     </tr>
     <tr>
-      <tr><td colspan="3"><b>Your FID Section has been successfully collapsed and expanded.</b></td>
+      <tr><td colspan="3"><b>Your FUTURE ID Section has been successfully collapsed and expanded.</b></td>
     </tr>
     </tbody>
 </table>
