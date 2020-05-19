@@ -39,7 +39,7 @@ Visit [https://reglab.gov.ae/](https://reglab.gov.ae/)
     <td style="text-align: center"><img src="application05.JPG" alt="Apply Step 8"></td>
     </tr>
     <tr>
-      <tr><td colspan="3"><b>Submit your application.</b></td>      
+      <tr><td colspan="3"><b>Submit your application by clicking the "Submit" button in the bottom right corner.</b></td>      
     </tr>
   </tbody>
 </table>
