@@ -1,6 +1,6 @@
 ## ADMIN IN GENERAL <br>
 
-Visit [https://develop.area2071-web-admin.apps.moti.us](https://develop.area2071-web-admin.apps.moti.us)
+Visit [https://admin.app.area2071.ae](https://admin.app.area2071.ae)
 
 <table>
   <thead>
