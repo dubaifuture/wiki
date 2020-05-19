@@ -12,9 +12,6 @@ Click on "Login/Register":
         <tr><td colspan="3"><b>Login/Register </b></td>      
       </tr>
       <tr>
-        <tr><td colspan="3"><b>Create an [Organisation](createorganisation.md)</b></td>      
-      </tr>
-      <tr>
         <td style="text-align: left"><p><b>Step 1:</b></p>Click on "ADD ORGANISATION" after finishing with "Login/Register".</td>
         <td style="text-align: center"><img src="createorganisation01.JPG" alt="Create Organisation Step 1"></td>
       </tr>
