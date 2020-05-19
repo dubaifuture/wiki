@@ -1,4 +1,4 @@
-## CREATE A PROGRAM <br>
+## CREATE PROGRAM <br>
 
 Visit [Dubai Future Programs](https://programs.dubaifuture.gov.ae)
 
