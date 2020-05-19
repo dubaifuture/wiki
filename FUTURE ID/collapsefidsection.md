@@ -22,7 +22,11 @@ Visit [https://dff-future-id-frontend-develop.apps.moti.us](https://dff-future-i
     <td style="text-align: center"><img src="collapse03.JPG" alt="Collapse 3"></td>
     </tr>
     <tr>
-      <tr><td colspan="3"><b>Your FID Section has been successfully collapsed.</b></td>
+    <td style="text-align: left"><p><b>Step 3:</b></p>Click on "EXPAND" to expand the Organisation you collapsed before.</td>
+    <td style="text-align: center"><img src="fidexpand.JPG" alt="Collapse 3"></td>
+    </tr>
+    <tr>
+      <tr><td colspan="3"><b>Your FID Section has been successfully collapsed and expanded.</b></td>
     </tr>
     </tbody>
 </table>
