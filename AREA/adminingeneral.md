@@ -7,7 +7,7 @@ Visit [https://develop.area2071-web-admin.apps.moti.us](https://develop.area2071
   </thead>
   <tbody>
     <tr>
-      <tr><td colspan="3"><b>Login/Register.</b></td>
+      <tr><td colspan="3"><b>Login with FUTURE ID.</b></td>
     </tr>
     <tr>
     <td style="text-align: left"><p><b>COMMUNITIES</b></p>Here you can see Informations about each Community. Furthermore you can delete and verify each Community.</td>
