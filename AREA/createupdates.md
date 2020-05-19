@@ -28,7 +28,7 @@
     <td style="text-align: center"><img src="createupdate01.jpg" alt="Create Update Step 1"></td>
     </tr>
     <tr>
-    <td style="text-align: left"><p><b></b></p>You can attach files or a YouTube URL as well. Afterwards click on "POST UPDATE"</td>
+    <td style="text-align: left"><p><b>Step 5:</b></p>You can attach files or a YouTube URL as well. Afterwards click on "POST UPDATE"</td>
     <td style="text-align: center"><img src="createupdate02.jpg" alt="Create Update Step 2"></td>
     </tr>
     <tr>
