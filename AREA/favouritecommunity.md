@@ -8,9 +8,6 @@
       <tr><td colspan="3"><b>Open the AREA 2071 Application on your smartphone.</b></td>      
     </tr>
     <tr>
-      <tr><td colspan="3"><b>Login with FUTURE ID.</b></td>      
-    </tr>
-    <tr>
       <tr><td colspan="3"><b>Create a Community.</b></td>      
     </tr>
     <tr>
