@@ -10,15 +10,15 @@ Visit [https://admin.app.area2071.ae](https://admin.app.area2071.ae)
       <tr><td colspan="3"><b>Login with FUTURE ID.</b></td>
     </tr>
     <tr>
-    <td style="text-align: left"><p><b>COMMUNITIES</b></p>Here you can see Informations about each Community. Furthermore you can delete and verify each Community.</td>
+    <td style="text-align: left"><p><b>COMMUNITIES</b></p>Here you can see Informations about each Community. Furthermore you can delete and verify each Community. You can also create and export Communites</td>
     <td style="text-align: center"><img src="areaadmin01.JPG" alt="Admin in General 1"></td>
     </tr>
     <tr>
-    <td style="text-align: left"><p><b>COMMUNITY EVENTS</b></p>Here you can see Informations about each Community Event. Furthermore you can click on it and edit or delete Events.</td>
+    <td style="text-align: left"><p><b>COMMUNITY EVENTS</b></p>Here you can see Informations about each Community Event. Furthermore you can click on it and edit or delete Events. You can also create and export Events.</td>
     <td style="text-align: center"><img src="areaadmin02.JPG" alt="Admin in General 2"></td>
     </tr>
     <tr>
-    <td style="text-align: left"><p><b>COMMUNITY UPDATES</b></p>Here you can see Informations about each Community Event. Furthermore you can click on it and edit or delete Events.</td>
+    <td style="text-align: left"><p><b>COMMUNITY UPDATES</b></p>Here you can see Informations about each Community News. Furthermore you can click on it and edit or delete News. You can also create and export News.</td>
     <td style="text-align: center"><img src="areaadmin03.JPG" alt="Admin in General 3"></td>
     </tr>
     <tr>
