@@ -20,15 +20,15 @@
     <td style="text-align: center"><img src="addmembers.jpg" alt="Add Members"></td>
     </tr>
     <td style="text-align: left"><p><b>Pending Member<br><br>Step 1:</b></p>If you want add "Pending Member" you have to click on the cross icon in your Community when it shows up.</td>
-    <td style="text-align: center"><img src="pendingmember01.jpg" alt="Edit Community Step 1"></td>
+    <td style="text-align: center"><img src="pendingmember01.jpg"{width=30%} alt="Edit Community Step 1"></td>
     </tr>
     <tr>
     <td style="text-align: left"><p><b>Pending Member<br><br>Step 2:</b></p>Now you can accept a "Pending Member" to your Community by swiping his name to the right.</td>
-    <td style="text-align: center"><img src="pendingmember02.jpg" alt="Edit Community Step 2"></td>
+    <td style="text-align: center"><img src="pendingmember02.jpg"{width=40%} alt="Edit Community Step 2"></td>
     </tr>
     <tr>
     <td style="text-align: left"><p><b>Pending Member<br><br>Step 3:</b></p>On the other hand you can declinde a "Pending Member" by swpiping his name to the left.</td>
-    <td style="text-align: center"><img src="pendingmember03.jpg" alt="Add Members"></td>
+    <td style="text-align: center"><img src="pendingmember03.jpg"{width=20%} alt="Add Members"></td>
     </tr>
     </tbody>
 </table>
