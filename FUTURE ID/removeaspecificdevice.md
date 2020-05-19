@@ -20,7 +20,7 @@ Click on "Login/Register":
     <td style="text-align: center"><img src="removedevice02.JPG" alt="Remove Device Step 2"></td>
     </tr>
     <tr>
-    <td style="text-align: left"><p><b>Step 3:</b></p>Remove one of the devices listed below "DEVICES". **Note: your current device is the one at the beginning of the row, so do not log yourself out by removing your current active device.**</td>
+    <td style="text-align: left"><p><b>Step 3:</b></p>Remove one of the devices listed below "DEVICES".**Note: your current device is the one at the beginning of the row, so do not log yourself out by removing your current active device.**</td>
     <td style="text-align: center"><img src="removedevice03.JPG" alt="Remove Device Step 3"></td>
     </tr>
     <tr>
