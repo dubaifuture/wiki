@@ -24,7 +24,7 @@ Visit [https://admin.app.area2071.ae](https://admin.app.area2071.ae)
     </tr>
         <tr>
     <td style="text-align: left"><p><b>LOGOUT</b></p>If you want to logout of your account, click on the person icon on the very top right. Afterwards click on "LOGOUT".</td>
-    <td style="text-align: center"><img src="areaadmin04.JPG" alt="Admin in General 3"></td>
+    <td style="text-align: center"><img src="logout.JPG" alt="Admin in General 3"></td>
     </tr>
     </tbody>
 </table>
