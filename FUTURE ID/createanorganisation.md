@@ -69,11 +69,11 @@ Click on "Login/Register":
       </tr>
          <tr>
       <td style="text-align: left"><p><b>Step 15:</b></p>Choose your Industry Sector by clicking on the down arrow to open the scroll down menu.</td>
-      <td style="text-align: center"><img src="industrysectorfid.JPG" alt="Create Organisation Step 14"></td>
+      <td style="text-align: center"><img src="industrysectorfid.jpg" alt="Create Organisation Step 14"></td>
       </tr>
       <tr>
       <td style="text-align: left"><p><b>Step 16:</b></p>Choose your Main Technology by clicking on the down arrow to open the scroll down menu.</td>
-      <td style="text-align: center"><img src="maintechnology.JPG" alt="CreateOrganisation Step 15"></td>
+      <td style="text-align: center"><img src="maintechnology.jpg" alt="CreateOrganisation Step 15"></td>
       </tr>
       <tr>
         <tr><td colspan="3">Go to dashboard.</td>      
