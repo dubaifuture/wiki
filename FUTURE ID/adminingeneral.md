@@ -1,6 +1,6 @@
 ## ADMIN IN GENERAL <br>
 
-Visit [https://dff-future-id-admin-develop.apps.moti.us](https://dff-future-id-admin-develop.apps.moti.us)
+Visit [https://admin.app.area2071](https://admin.app.area2071)
 
 <table>
   <thead>
