@@ -16,15 +16,15 @@ Click on "Login/Register":
   </tr>
   <tr>
     <td style="text-align: left"><p><b>Step 1:</b></p>Click on the hamburger button in the top right corner.</td>
-    <td style="text-align: center"><img src="shareviaqrcode01.jpg" alt="Share Contact via QR Code Step 1"></td>
+    <td style="text-align: center"><img src="shareviaqrcode01.jpg"{ width=70% } alt="Share Contact via QR Code Step 1"></td>
   </tr>
   <tr>
   <td style="text-align: left"><p><b>Step 2:</b></p>Click on "SHARE YOUR PROFILE"</td>
-  <td style="text-align: center"><img src="shareviaqrcode02.jpg" alt="Share Contact via QR Code Step 2"></td>
+  <td style="text-align: center"><img src="shareviaqrcode02.jpg"{ width=70% } alt="Share Contact via QR Code Step 2"></td>
   </tr>
   <tr>
   <td style="text-align: left"><p><b>Step 3:</b></p>Share Contact via QR Code Step</td>
-  <td style="text-align: center"><img src="shareviaqrcode03.jpg" alt="Share Contact via QR Code Step 3"></td>
+  <td style="text-align: center"><img src="sharescreenfid.jpg"{ width=70% } alt="Share Contact via QR Code Step 3"></td>
   </tr>
   <tr>
     <tr><td colspan="2">Go to dashboard.</td>      
