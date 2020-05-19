@@ -41,7 +41,7 @@ Join a community or create your own, and begin co-creating with like-minded indi
 #### ADMIN
 
 * [ADMIN IN GENERAL](adminingeneral.md)
-* [CREATE AND EDIT NEWS](creatingeditingnewsviaareaadmin.md)
+* [CREATE AND EDIT NEWS](createandeditnews.md)
 * [CREATE AND EDIT ROOMS](addeditrooms.md)
 * [HANDLE REPORTS](reports.md)
 * [SHARE ADMIN RIGHTS](shareadminrights.md)
