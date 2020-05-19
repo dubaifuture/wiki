@@ -1,4 +1,4 @@
-## EDIT DATA VALUES  <br>
+## MANAGE YOUR DATA  <br>
 
 Visit [https://id.dubaifuture.gov.ae](https://id.dubaifuture.gov.ae)
 
