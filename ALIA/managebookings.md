@@ -11,7 +11,7 @@
     <tr><td colspan="3"><b>Book a room.</b></td>      
     </tr>
     <tr>
-    <td style="text-align: left"><p><b>Step 1:</b></p>Manage your bookings by writing to the Chatbot ALIA  "Manage bookings". Here you can basically click on your booked rooms and cancel them.</td>
+    <td style="text-align: left"><p><b>Step 1:</b></p>With "Manage Bookings" you can see an overview of your booked rooms and choose which one you would like to cancel.</td>
     <td style="text-align: center"><img src="managebookings.jpg"{ width=50% } alt="Alia Step 3"></td>
     </tr>
         <tr>
