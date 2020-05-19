@@ -35,6 +35,7 @@ Join a community or create your own, and begin co-creating with like-minded indi
 * [DELETE COMMUNITY](deletecommunity.md)
 * [REMOVE A MEMBER FROM A COMMUNITY](removeamemberfromacommunity.md)
 * [MUTE CHAT](mutechat.md)
+* [FAVOURITE COMMUNITY](favouritecommunity.md)
 
 
 #### ADMIN
