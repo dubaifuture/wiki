@@ -1,6 +1,6 @@
 ## COLLAPSE FID SECTION  <br>
 
-Visit [https://dff-future-id-frontend-develop.apps.moti.us](https://dff-future-id-frontend-develop.apps.moti.us)
+Visit [https://id.dubaifuture.gov.ae](https://id.dubaifuture.gov.ae)
 
 <table>
   <thead>
@@ -10,7 +10,7 @@ Visit [https://dff-future-id-frontend-develop.apps.moti.us](https://dff-future-i
       <tr><td colspan="3"><b>Login/Register.</b></td>
     </tr>
     <tr>
-    <td style="text-align: left"><p><b>Step 1:</b></p>Click on the icon with thre points in a row on the right side of each Organisation.</td>
+    <td style="text-align: left"><p><b>Step 1:</b></p>Click on the icon with three points in a row on the right side of each Organisation.</td>
     <td style="text-align: center"><img src="collapse01.JPG" alt="Collapse 1"></td>
     </tr>
     <tr>
