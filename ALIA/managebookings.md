@@ -15,7 +15,7 @@
     <td style="text-align: center"><img src="managebookings.jpg"{ width=50% } alt="Alia Step 3"></td>
     </tr>
         <tr>
-    <td style="text-align: left"><p><b></b></p>Confirm your cancelling by clicking "CANCEL SELECTION".</td>
+    <td style="text-align: left"><p><b></b></p>Confirm your cancelling by clicking "CANCEL SELECTED".</td>
     <td style="text-align: center"><img src="managebookings02.jpg"{ width=50% } alt="Alia Step 3"></td>
     </tr>
   </tbody>
