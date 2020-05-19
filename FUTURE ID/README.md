@@ -11,9 +11,9 @@ FUTURE ID is your gateway into Dubai's innovation ecosystem. Manage your persona
 
 With a FUTURE ID, you can conveniently access the following platforms:
 
-* [Dubai Future Programs](https://programs.dubaifuture.gov.ae)
+* [DUBAI FUTURE PROGRAMS](https://programs.dubaifuture.gov.ae)
 * [AREA 2071](https://area2071.ae/app)
-* [UAE Regulations Lab](https://apply.reglab.ae)
+* [UAE REGULATIONS LAB](https://apply.reglab.ae)
 
 
 ## USER MANUAL <br>
