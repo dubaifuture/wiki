@@ -7,9 +7,6 @@ Visit [https://admin.app.area2071.ae](https://admin.app.area2071.ae)
   </thead>
   <tbody>
     <tr>
-      <tr><td colspan="3"><b>Login with FUTURE ID.</b></td>
-    </tr>
-    <tr>
     <td style="text-align: left"><p><b>COMMUNITIES</b></p>Here you can see Informations about each Community. Furthermore you can delete and verify each Community. You can also create and export Communites</td>
     <td style="text-align: center"><img src="areaadmin01.JPG" alt="Admin in General 1"></td>
     </tr>
