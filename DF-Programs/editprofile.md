@@ -1,4 +1,4 @@
-[GENERAL](GENERAL/README.md) > [DF-PROGRAMS](DF-Programs/README.md) > **[EDIT PROFILE](DF-Programs/programs.md)**
+[GENERAL](GENERAL/README.md) > [DF-PROGRAMS](DF-Programs/README.md) > **[EDIT PROFILE](DF-Programs/editprofile.md)**
 
 ## EDIT PROFILE <br>
 
