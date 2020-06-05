@@ -1,3 +1,5 @@
+[GENERAL](GENERAL/README.md) > [FUTURE ID](FUTURE ID/README.md) > **[ADMIN IN GENERAL](FUTURE ID/adminingeneral.md)**
+
 ## ADMIN IN GENERAL <br>
 
 Visit [https://admin.app.area2071](https://admin.app.area2071)
