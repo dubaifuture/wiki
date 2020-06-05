@@ -1,3 +1,5 @@
+[GENERAL](GENERAL/README.md) > [AREA 2071](AREA/README.md) > **[ADD MEMBERS TO A COMMUNITY](AREA/addmemberstoacummunity.md)**
+
 ## ADD MEMBERS TO A COMMUNITY <br>
 
 <table>
