@@ -1,3 +1,5 @@
+[GENERAL](GENERAL/README.md) > [AREA 2071](AREA/README.md) > **[REMOVE A MEMBER FROM A COMMUNITY](AREA/removeamemberfromacommunity.md)**
+
 ## REMOVE A MEMBER FROM A COMMUNITY <br>
 
 <table>
