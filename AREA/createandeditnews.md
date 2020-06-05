@@ -1,3 +1,5 @@
+[GENERAL](GENERAL/README.md) > [AREA 2071](AREA/README.md) > **[CREATE AND EDIT NEWS](AREA/createandeditnews.md)**
+
 ## CREATE AND EDIT NEWS <br>
 
 Visit [https://admin.app.area2071.ae](https://admin.app.area2071.ae)
