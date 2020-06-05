@@ -1,3 +1,5 @@
+[GENERAL](GENERAL/README.md) > [FUTURE ID](FUTURE ID/README.md) > **[REMOVE A SPECIFIC DEVICE](FUTURE ID/removeaspecificdevice.md)**
+
 ## REMOVE A SPECIFIC DEVICE <br>
 
 Click on "Login/Register":
