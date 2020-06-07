@@ -13,7 +13,7 @@ Visit [Dubai Future Programs](https://programs.dubaifuture.gov.ae)
     </tr>
     <tr>
       <td style="text-align: left"><p><b>Step 1:</b></p>Click the "Profile" tab on the top right. Afterwards click on "Edit on FUTURE ID", above your profile picture.</td>
-      <td style="text-align: center"><img src="editprofile01.JPG" alt="Edit-1"></td>
+      <td style="text-align: center"><img src="programsdashboard.JPG" alt="Edit-1"></td>
     </tr>
     <tr>
       <td style="text-align: left"><p><b>Step 2:</b></p>You will get redirected to FUTURE ID, where you can edit your profile.</td>
