@@ -32,7 +32,7 @@ Visit [Dubai Future Programs](https://programs.dubaifuture.gov.ae)
       <td style="text-align: center"><img src="addprogram005.JPG" alt="Add-5"></td>
     </tr>
     <tr>
-      <td style="text-align: left"><p><b>Step 6:</b></p>[Application Form]</td>
+  <td style="text-align: left"><p><b>Application Form / New Question</b></p>Fill out the required fields "Title", "Type", "FUTURE ID key", "Question Description" and "Max. Character length" of your new question.</td>
       <td style="text-align: center"><img src="addprogram006.JPG" alt="Add-6"></td>
     </tr>
   </tbody>
