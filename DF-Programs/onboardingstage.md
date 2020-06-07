@@ -11,11 +11,11 @@
     </tr>
     <tr>
       <td style="text-align: left"><p><b></b></p>Click on the "Programs" tab on the top right. Afterwards click on the settings icon on the right side of each Program for which you want to get to the onboarding stage.</td>
-      <td style="text-align: center"><img src="addprograms001.JPG" alt="review01.png"></td>
+      <td style="text-align: center"><img src="addprogram001.JPG" alt="review01.png"></td>
     </tr>
     <tr>
       <td style="text-align: left"><p><b></b></p>Click on the "Gate Settings" icon on the right side of the screen.</td>
-      <td style="text-align: center"><img src="addprograms003.JPG" alt="review01.png"></td>
+      <td style="text-align: center"><img src="addprogram003.JPG" alt="review01.png"></td>
     </tr>
     <tr>
       <td style="text-align: left"><p><b>General:</b></p>Here you can edit general information like Gate Name, Status and Description.</td>
