@@ -17,15 +17,15 @@ Visit [Dubai Future Programs](https://programs.dubaifuture.gov.ae)
     </tr>
     <tr>
       <td style="text-align: left"><p><b>Step 2:</b></p>Text</td>
-      <td style="text-align: center"><img src="application1.JPG" alt="Review-1"></td>
+      <td style="text-align: center"><img src="application2.JPG" alt="Review-1"></td>
     </tr>
     <tr>
       <td style="text-align: left"><p><b>Step 3:</b></p>Text</td>
-      <td style="text-align: center"><img src="application1.JPG" alt="Review-2"></td>
+      <td style="text-align: center"><img src="application3.JPG" alt="Review-2"></td>
     </tr>
     <tr>
       <td style="text-align: left"><p><b>Step 4:</b></p>Text</td>
-      <td style="text-align: center"><img src="application1.JPG" alt="Review-3"></td>
+      <td style="text-align: center"><img src="application4.JPG" alt="Review-3"></td>
     </tr>
     <tr>
       <td style="text-align: left"><p><b>Step 4:</b></p>Text</td>
