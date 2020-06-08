@@ -19,7 +19,6 @@ Helping governments, and industry leaders navigate and address complex technolog
 
 #### ACCOUNT SETUP AND MANAGEMENT
 
-* [PROGRAMS](programs.md)
 * [FACILITATOR](programowner.md)
 * [EDIT PROFILE](editprofile.md)
 
