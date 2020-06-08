@@ -28,7 +28,7 @@ Visit [Dubai Future Programs](https://programs.dubaifuture.gov.ae)
       <td style="text-align: center"><img src="application4.JPG" alt="Review-3"></td>
     </tr>
     <tr>
-      <td style="text-align: left"><p><b>Step 4:</b></p>You have succesfully applied for a program. You cann see your Application status in the tab "Dashboard".</td>
+      <td style="text-align: left"><p><b>Step 5:</b></p>You have succesfully applied for a program. You cann see your Application status in the tab "Dashboard".</td>
       <td style="text-align: center"><img src="application5.JPG" alt="Review-3"></td>
     </tr>
   </tbody>
