@@ -24,11 +24,11 @@ Visit [Dubai Future Programs](https://programs.dubaifuture.gov.ae)
       <td style="text-align: center"><img src="addprogram003.JPG" alt="Add-3"></td>
     </tr>
     <tr>
-      <td style="text-align: left"><p><b>Step 4:</b></p>[Program Description] After clicking on "Program Description" you can edit your description, change it between "Private" and "Public, share it on Social Media and change your Application Mode. When you have finished the editing process you can conclude by clicking on "Finish application process".</td>
+      <td style="text-align: left"><p><b>Step 4:</b></p>[Program Description] After clicking on "Program Description" you can edit your description, change it between "Private" and "Public, share it on Social Media and change your Application Mode. When you have finished the editing process you can conclude by clicking on "Finish application process".<br><br>("Finish application process" marks that the programs has finished reviewing applications)</td>
       <td style="text-align: center"><img src="addprogram004.JPG" alt="Add-4"></td>
     </tr>
     <tr>
-      <td style="text-align: left"><p><b>Step 5:</b></p>[Application Form] After clicking on "Application Form" you can add new Sections and new Questions to your Application Form. If you want you can preview it by clicking on "Preview" on the bottom left of your screen. In the end click on "Save" and "Publish" on the bottom right of your screen.</td>
+      <td style="text-align: left"><p><b>Step 5:</b></p>[Application Form] After clicking on "Application Form" you can add new Sections and new Questions to your Application Form. If you want you can preview it by clicking on "Preview" on the bottom left of your screen. In the end click on "Save" and "Publish" on the bottom right of your screen.<br><br>(Public/Private decides if the program is visible to user or not)</td>
       <td style="text-align: center"><img src="addprogram005.JPG" alt="Add-5"></td>
     </tr>
     <tr>
