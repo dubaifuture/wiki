@@ -1,6 +1,6 @@
-[GENERAL](GENERAL/README.md) > [DF-PROGRAMS](DF-Programs/README.md) > **[ONBOARDING STAGE](DF-Programs/onboardingstage.md)**
+[GENERAL](GENERAL/README.md) > [DF-PROGRAMS](DF-Programs/README.md) > **[GATE SETTINGS](DF-Programs/onboardingstage.md)**
 
-## ONBOARDING STAGE <br>
+## GATE SETTINGS <br>
 
 <table>
   <thead>
