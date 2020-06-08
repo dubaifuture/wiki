@@ -26,6 +26,6 @@ Helping governments, and industry leaders navigate and address complex technolog
 #### APPLICATION
 
 * [REVIEW APPLICATIONS](reviewapplications.md)
-* [ONBOARDING STAGE](onboardingstage.md)
+* [GATE SETTINGS](onboardingstage.md)
 * [CREATE PROGRAM](createaprogram.md)
 * [APPLICATION TO A PROGRAM](applicationtoaprogram.md)
