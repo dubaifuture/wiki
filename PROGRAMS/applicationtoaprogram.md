@@ -1,4 +1,4 @@
-[GENERAL](GENERAL/README.md) > [DF-PROGRAMS](DF-Programs/README.md) > **[APPLICATION TO A PROGRAM](DF-Programs/applicationtoaprogram.md)**
+[GENERAL](GENERAL/README.md) > [PROGRAMS](PROGRAMS/README.md) > **[APPLICATION TO A PROGRAM](PROGRAMS/applicationtoaprogram.md)**
 
 ## APPLICATION TO A PROGRAM <br>
 
