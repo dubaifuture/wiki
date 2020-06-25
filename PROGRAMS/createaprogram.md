@@ -1,4 +1,4 @@
-[GENERAL](GENERAL/README.md) > [DF-PROGRAMS](DF-Programs/README.md) > **[ONBOARDING STAGE](DF-Programs/createaprogram.md)**
+[GENERAL](GENERAL/README.md) > [PROGRAMS](PROGRAMS/README.md) > **[ONBOARDING STAGE](PROGRAMS/createaprogram.md)**
 
 ## CREATE PROGRAM <br>
 
