@@ -29,7 +29,7 @@ ALIA is a smart assistant chatbot, where you can easily book a room for a specif
 ## FREQUENTLY ASKED QUESTIONS <br>
 
 * **How can I  book a room?**<br>
-    *You can easily book a room by starting a conversation with "Hey Alia" and afterwards use one of the following example queries:*<br>
+    *You can easily book a room by starting a conversation with one of the following example queries:*<br>
     * *I want to book a room*<br>
     * *I want to book a room today*<br>
     * *I want to book a room tomorrow*<br>
