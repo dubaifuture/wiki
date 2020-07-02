@@ -43,7 +43,7 @@ Join a community or create your own, and begin co-creating with like-minded indi
 ## FREQUENTLY ASKED QUESTIONS <br>
 
 * **How can I  book a room?**<br>
-    *You can easily book a room by starting a conversation with "Hey Alia" and afterwards use one of the following example queries:*<br>
+    *You can easily book a room by starting a conversation with one of the following example queries:*<br>
     * *I want to book a room*<br>
     * *I want to book a room today*<br>
     * *I want to book a room tomorrow*<br>
@@ -54,7 +54,7 @@ Join a community or create your own, and begin co-creating with like-minded indi
 
 
 * **I need help with something**<br>
-    *You can easily book a room by starting a conversation with "Hey Alia" and afterwards use one of the following example queries:*<br>
+    *You can easily receive help by starting a conversation with one of the following example queries:*<br>
     * *I need help with [something]*<br>
     * *I need someone to help me on [something]*<br>
     * *I would need help of someone in AREA on [something]*<br>
