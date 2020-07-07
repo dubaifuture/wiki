@@ -1,4 +1,4 @@
-[GENERAL](GENERAL/README.md) > [AREA 2071](AREA/README.md) > **[FAVOURITE COMMUNITY](AREA/favouritecommunity.md)**
+[GENERAL](/WIKI_README.md) > [AREA 2071](AREA/README.md) > **[FAVOURITE COMMUNITY](AREA/favouritecommunity.md)**
 
 ## FAVOURITE COMMUNITY <br>
 
