@@ -1,4 +1,4 @@
-[GENERAL](GENERAL/README.md) > [ALIA](ALIA/README.md) > **[CANCEL BOOKINGS PROCESS](ALIA/cancelbookingprocess.md)**
+[GENERAL](/WIKI_README.md) > [ALIA](ALIA/README.md) > **[CANCEL BOOKINGS PROCESS](ALIA/cancelbookingprocess.md)**
 
 ## CANCEL BOOKING PROCESS <br>
 
