@@ -1,4 +1,4 @@
-[GENERAL](GENERAL/README.md) > [AREA 2071](AREA/README.md) > **[MUTE CHAT](AREA/mutechat.md)**
+[GENERAL](/WIKI_README.md) > [AREA 2071](AREA/README.md) > **[MUTE CHAT](AREA/mutechat.md)**
 
 ## MUTE CHAT <br>
 
