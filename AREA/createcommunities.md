@@ -1,4 +1,4 @@
-[GENERAL](GENERAL/README.md) > [AREA 2071](AREA/README.md) > **[CREATE COMMUNITIES](AREA/createcommunities.md)**
+[GENERAL](/WIKI_README.md) > [AREA 2071](AREA/README.md) > **[CREATE COMMUNITIES](AREA/createcommunities.md)**
 
 ## CREATE COMMUNITIES <br>
 
