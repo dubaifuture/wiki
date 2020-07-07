@@ -1,4 +1,4 @@
-[GENERAL](GENERAL/README.md) > [AREA 2071](AREA/README.md) > **[DELETE COMMUNITY](AREA/deletecommunity.md)**
+[GENERAL](/WIKI_README.md) > [AREA 2071](AREA/README.md) > **[DELETE COMMUNITY](AREA/deletecommunity.md)**
 
 ## DELETE COMMUNITY <br>
 
