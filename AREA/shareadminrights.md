@@ -1,4 +1,4 @@
-[GENERAL](GENERAL/README.md) > [AREA 2071](AREA/README.md) > **[SHARE ADMIN RIGHTS](AREA/shareadminrights.md)**
+[GENERAL](/WIKI_README.md) > [AREA 2071](AREA/README.md) > **[SHARE ADMIN RIGHTS](AREA/shareadminrights.md)**
 
 ## SHARE ADMIN RIGHTS <br>
 
