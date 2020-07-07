@@ -1,4 +1,4 @@
-[GENERAL](GENERAL/README.md) > [ALIA](ALIA/README.md) > **[REPORT BUG](ALIA/reportbug.md)**
+[GENERAL](/WIKI_README.md) > [ALIA](ALIA/README.md) > **[REPORT BUG](ALIA/reportbug.md)**
 
 ## REPORT BUG <br>
 
