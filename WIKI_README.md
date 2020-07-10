@@ -5,7 +5,7 @@
 
 Dubai Future Foundation aims to develop a suite of best-in-class applications to serve and support its global network of startups, entrepreneurs, academics, researchers, and scientists.
 
-This documentation contains instructions on how to use our various platforms. Please reach out through the appropriate channels should you need any additional support or if you face any technical issues.
+This documentation contains instructions on how to use our various platforms. 
 
 ## Our Platforms <br>
 
@@ -15,9 +15,6 @@ This documentation contains instructions on how to use our various platforms. Pl
 
 
 ## Frequently Asked Questions <br>
-
-* **How do I file a complaint or report a technical error?**<br>
-  *Please click on the Help Desk link next to the name of the platform above.*
 
 * **How do I report inapprioriate content or behaviour by other users?**<br>
   *Please email report@dubaifuture.gov.ae with a link or screenshot to the content or behaviour in question.*
