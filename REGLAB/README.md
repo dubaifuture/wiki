@@ -5,7 +5,6 @@
 
 * [WELCOME](#short-explanation-to-visa)
 * [USER MANUAL](#user-manual)
-* [FREQUENTLY ASKED QUESTIONS](#frequently-asked-questions)
 
 ## WELCOME <br>
 
