@@ -26,16 +26,6 @@ RegLab aims to create an agile and conducive legislative environment that pionee
 * [APPLICATION](application.md)
 * [CREATE ORGANISATION](createorganisation.md)
 
-## FREQUENTLY ASKED QUESTIONS
 
-**Who can apply for it?** <br>
-*Professionals with entrepreneurial experience from around the world are eligible to apply for the Business Visa. An eligible entrepreneur is anyone who has set up a business of their own at some point in their careers, and wishes to do so again in the UAE. To obtain the Business Visa, you must:*
-- *Be able to substantiate your experience as an entrepreneur.*
-- *Have been a majority shareholder of a startup or a member of its senior leadership.*
-- *Be willing to relocate to the UAE and legally establish a business in one of the Emirates.*
-- *Have a business idea or business plan that you wish to bring to life in the UAE.*
 
-**How can I follow up on my application?** <br>
-  *As this visa focuses on entrepreneurs, there authorised incubators in Dubai and Abu Dhabi that deal with the application. If you are applying for residency in Dubai, you can contact AREA 2071 by emailing* **visa@area2071.ae**.
-  *If you are applying for residency in Abu Dhabi, please contact HUB71 by emailing* **goldenvisa@hub71.com**.
-  *For matters relating to your application for the visa, please contact the Federal Authority for Identity and Citizenship by emailing* **contactus@ica.gov.ae**
+
